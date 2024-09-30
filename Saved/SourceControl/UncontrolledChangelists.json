@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Maps/GabinMaps/IATestScene.umap",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Maps/GabinMaps/IATestMaps.umap",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Core/B.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Core/Butcher/BP_Enemy.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/diffuso.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/normal.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/rough.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/Stone.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/Stonefbx_hands_leg_001.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/EYES.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/STONE1.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/STONE2.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/Stonefbx_eyes.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/Stonefbx_head_001.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/Stonefbx_torso_001.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/21-obj_blend_fbxtextures/diffuso.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/21-obj_blend_fbxtextures/Stonefbx.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Characters/Butcher/21-obj_blend_fbxtextures/STONE.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VF/IPTGG4MEY2B16HSO8W0HA3.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Falling.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Idle.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Jump.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Land.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Falling.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Land.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Run_Fwd.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPersonArms/Animations/FP_Rifle_Fire.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Core/Butcher/BT_Enemy.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Core/Butcher/BB_Enemy.uasset",
+				"C:/Users/gabin/Documents/Unreal Projects/TheButchreColdRade/Content/ButcherProject/Core/Butcher/BP_EnemyController.uasset"
+			]
+		}
+	]
+}
