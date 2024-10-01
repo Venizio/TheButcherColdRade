@@ -1250,3 +1250,736 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.10.01-13.53.51:455][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 712 ms)
 [2024.10.01-13.53.51:457][890]AssetCheck: New page: Asset Save: BP_QuestsManager
 [2024.10.01-13.53.51:457][890]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Blueprints/BP_QuestsManager.BP_QuestsManager
+[2024.10.01-13.54.48:355][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-13.54.48:362][524]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-13.54.48:362][524]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-13.54.48:364][524]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms
+[2024.10.01-13.54.48:364][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-13.54.48:364][524]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 17:54:48)
+[2024.10.01-13.54.48:367][524]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.01-13.54.48:367][524]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.01-13.54.48:367][524]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-13.54.48:373][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2024.10.01-13.54.48:373][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004470s)
+[2024.10.01-13.54.48:383][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.01-13.54.48:384][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-13.54.48:384][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-13.54.48:384][524]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-13.54.48:385][524]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-13.54.48:385][524]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-13.54.48:385][524]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-13.54.48:385][524]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-13.54.48:386][524]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-13.54.48:386][524]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 109 ms)
+[2024.10.01-13.54.48:386][524]LogPlayLevel: PIE: World Init took: (0.002647s)
+[2024.10.01-13.54.48:386][524]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.01-13.54.48:386][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-13.54.48:386][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-13.54.48:386][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-13.54.48:386][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-13.54.48:386][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-13.54.48:387][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-13.54.48:387][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-13.54.48:387][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-13.54.48:387][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-13.54.48:387][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-13.54.48:387][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-13.54.48:390][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-13.54.48:420][524]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-13.54.48:421][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-13.54.48:421][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-13.54.48:421][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-13.54.48:421][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.01-13.54.48:421][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.01-13.54.48:423][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.01-13.54.48:423][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.01-13.54.48:423][524]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.01-13.54.48:423][524]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.10.01-13.54.48:423][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.01-13.54.48:426][524]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-13.54.48:429][524]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-15.54.48
+[2024.10.01-13.54.48:430][524]LogWorld: Bringing up level for play took: 0.003750
+[2024.10.01-13.54.48:432][524]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.10.01-13.54.48:437][524]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D862102_2118227928PhotoTest1
+[2024.10.01-13.54.48:437][524]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] PhotoTest1: binded
+[2024.10.01-13.54.48:438][524]PIE: Server logged in
+[2024.10.01-13.54.48:439][524]PIE: Play in editor total start time 0,076 seconds.
+[2024.10.01-13.54.55:381][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.54.58:702][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.55.01:686][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.55.04:336][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.55.23:565][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.55.23:565][621]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-13.55.23:566][621]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.55.23:566][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.55.23:566][621]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-13.55.23:570][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-13.55.23:574][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.55.23:587][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.55.23:587][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.01-13.55.23:587][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.01-13.55.23:590][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.01-13.55.23:596][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.01-13.55.23:648][623]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.10.01-13.57.21:632][363]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.01-13.58.07:060][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-13.58.10:946][893]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.01-13.58.10:953][893]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.01-13.58.10:965][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.01-13.58.16:091][202]LogContentBrowser: Attempting asset rename: NewMaterial -> M_HighLight
+[2024.10.01-13.58.16:096][202]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.01-13.58.17:518][287]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Textures/M_HighLight.M_HighLight
+[2024.10.01-13.58.17:525][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-13.58.17:525][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-13.58.17:757][287]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.17:757][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.01-13.58.17:758][287]MaterialEditorStats: Shader Count: 0
+[2024.10.01-13.58.17:767][287]LogViewport: Scene viewport resized to 710x451, mode Windowed.
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: ================================================
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: RAM used: 43,05 KiB of 819,20 MiB budget. Usage: 0.01%
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.01-13.58.17:830][288]LogShaderCompilers: Display: ================================================
+[2024.10.01-13.58.17:879][289]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.01-13.58.17:879][289]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-13.58.17:879][289]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-13.58.17:879][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.01-13.58.17:879][289]MaterialEditorStats: Shader Count: 2
+[2024.10.01-13.58.19:412][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_32.MaterialExpressionComponentMask_5'")'
+[2024.10.01-13.58.19:412][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_31.MaterialExpressionComponentMask_4'")'
+[2024.10.01-13.58.19:412][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionClamp'MaterialGraphNode_30.MaterialExpressionClamp_0'")'
+[2024.10.01-13.58.19:412][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:414][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:414][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:414][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexelSize'MaterialGraphNode_1.MaterialExpressionSceneTexelSize_0'")'
+[2024.10.01-13.58.19:414][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_2.MaterialExpressionScalarParameter_0'")'
+[2024.10.01-13.58.19:414][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:415][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_0'")'
+[2024.10.01-13.58.19:415][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:415][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_0'")'
+[2024.10.01-13.58.19:415][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_4.MaterialExpressionComponentMask_0'")'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_6.MaterialExpressionConstant_0'")'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_6.MaterialExpressionConstant_0'")'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_5.MaterialExpressionComponentMask_1'")'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:416][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_7.MaterialExpressionAppendVector_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScreenPosition'MaterialGraphNode_9.MaterialExpressionScreenPosition_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScreenPosition'MaterialGraphNode_9.MaterialExpressionScreenPosition_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_8.MaterialExpressionAppendVector_1'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScreenPosition'MaterialGraphNode_9.MaterialExpressionScreenPosition_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_7.MaterialExpressionAppendVector_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScreenPosition'MaterialGraphNode_9.MaterialExpressionScreenPosition_0'")'
+[2024.10.01-13.58.19:417][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_8.MaterialExpressionAppendVector_1'")'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_10.MaterialExpressionAdd_0'")'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_12.MaterialExpressionSubtract_0'")'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:418][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_13.MaterialExpressionSubtract_1'")'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_11.MaterialExpressionAdd_1'")'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexture'MaterialGraphNode_14.MaterialExpressionSceneTexture_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexture'MaterialGraphNode_15.MaterialExpressionSceneTexture_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexture'MaterialGraphNode_17.MaterialExpressionSceneTexture_4'",Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2024.10.01-13.58.19:419][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexture'MaterialGraphNode_16.MaterialExpressionSceneTexture_3'",Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_18.MaterialExpressionSubtract_2'")'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_19.MaterialExpressionSubtract_3'")'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:420][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_20.MaterialExpressionComponentMask_2'")'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_22.MaterialExpressionScalarParameter_1'")'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_21.MaterialExpressionComponentMask_3'")'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_22.MaterialExpressionScalarParameter_1'")'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDivide'MaterialGraphNode_23.MaterialExpressionDivide_0'")'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:421][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDivide'MaterialGraphNode_24.MaterialExpressionDivide_1'")'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAbs'MaterialGraphNode_25.MaterialExpressionAbs_0'")'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAbs'MaterialGraphNode_26.MaterialExpressionAbs_1'")'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFloor'MaterialGraphNode_27.MaterialExpressionFloor_0'")'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFloor'MaterialGraphNode_28.MaterialExpressionFloor_1'")'
+[2024.10.01-13.58.19:422][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_29.MaterialExpressionAdd_2'")'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_34.MaterialExpressionVectorParameter_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSceneTexture'MaterialGraphNode_33.MaterialExpressionSceneTexture_5'",Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:423][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_PostProcess'"'
+[2024.10.01-13.58.19:450][378]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.19:450][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.01-13.58.19:450][378]MaterialEditorStats: Shader Count: 0
+[2024.10.01-13.58.19:529][380]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.01-13.58.19:529][380]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-13.58.19:529][380]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-13.58.19:529][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.01-13.58.19:529][380]MaterialEditorStats: Shader Count: 4
+[2024.10.01-13.58.30:367][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.30:367][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.01-13.58.30:367][ 18]MaterialEditorStats: Shader Count: 0
+[2024.10.01-13.58.32:214][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.32:214][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.32:214][120]MaterialEditorStats: Shader Count: 0
+[2024.10.01-13.58.32:779][152]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-13.58.32:781][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.32:781][152]MaterialEditorStats: Shader Count: 2
+[2024.10.01-13.58.33:400][188]LogMaterialEditor: Applying material M_HighLight
+[2024.10.01-13.58.33:486][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.01-13.58.33:590][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-13.58.33:606][188]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.33:606][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.33:606][188]MaterialEditorStats: Shader Count: 0
+[2024.10.01-13.58.33:984][204]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2024.10.01-13.58.33:985][204]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-13.58.33:985][204]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-13.58.33:985][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.33:985][204]MaterialEditorStats: Shader Count: 2
+[2024.10.01-13.58.34:092][210]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2024.10.01-13.58.34:092][210]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-13.58.34:092][210]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.01-13.58.34:092][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.34:092][210]MaterialEditorStats: Shader Count: 3
+[2024.10.01-13.58.34:162][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-13.58.34:505][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/Textures/M_HighLight" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Textures/M_HighLight.uasset" SILENT=true
+[2024.10.01-13.58.34:508][213]LogSavePackage: Moving output files for package: /Game/ButcherProject/Textures/M_HighLight
+[2024.10.01-13.58.34:508][213]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/M_HighLightAD5FC5EB4AE0A0AECFBCEDA7676F2179.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Textures/M_HighLight.uasset'
+[2024.10.01-13.58.34:519][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 357 ms (total: 1.07 sec)
+[2024.10.01-13.58.34:521][213]AssetCheck: New page: Asset Save: M_HighLight
+[2024.10.01-13.58.34:521][213]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Textures/M_HighLight.M_HighLight
+[2024.10.01-13.58.34:528][213]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2024.10.01-13.58.34:528][213]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-13.58.34:528][213]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-13.58.34:528][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-13.58.34:528][213]MaterialEditorStats: Shader Count: 8
+[2024.10.01-13.58.43:173][728]LogSlate: Window 'M_HighLight' being destroyed
+[2024.10.01-13.58.43:203][728]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.58.43:203][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.02.58:033][115]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.01-14.06.46:603][568]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.01-14.06.52:068][873]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.10.01-14.06.52:070][873]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.10.01-14.06.52:078][873]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_UAID_088FC34CF27D8F2102_1081447511
+[2024.10.01-14.06.52:095][873]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_UAID_088FC34CF27D8F2102_1081447511
+[2024.10.01-14.07.07:458][774]LogSlate: Took 0.000582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.01-14.07.13:268][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-14.07.13:276][119]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-14.07.13:276][119]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-14.07.13:287][119]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11 ms (total: 13 ms)
+[2024.10.01-14.07.13:288][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-14.07.13:288][119]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 18:07:13)
+[2024.10.01-14.07.13:288][119]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.07.13:294][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005056s)
+[2024.10.01-14.07.13:294][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005088s)
+[2024.10.01-14.07.13:319][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.01-14.07.13:322][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.07.13:322][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.07.13:323][119]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-14.07.13:324][119]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-14.07.13:324][119]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-14.07.13:324][119]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-14.07.13:324][119]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-14.07.13:326][119]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-14.07.13:326][119]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 111 ms)
+[2024.10.01-14.07.13:326][119]LogPlayLevel: PIE: World Init took: (0.003937s)
+[2024.10.01-14.07.13:326][119]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-14.07.13:326][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-14.07.13:326][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-14.07.13:326][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-14.07.13:326][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-14.07.13:326][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-14.07.13:329][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-14.07.13:360][119]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-14.07.13:361][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-14.07.13:361][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-14.07.13:361][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-14.07.13:362][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.01-14.07.13:362][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.01-14.07.13:363][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.01-14.07.13:363][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.01-14.07.13:363][119]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.01-14.07.13:363][119]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.10.01-14.07.13:363][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.01-14.07.13:367][119]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-14.07.13:370][119]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-16.07.13
+[2024.10.01-14.07.13:371][119]LogWorld: Bringing up level for play took: 0.003260
+[2024.10.01-14.07.13:373][119]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.10.01-14.07.13:375][119]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D862102_2118227928PhotoTest1
+[2024.10.01-14.07.13:375][119]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] PhotoTest1: binded
+[2024.10.01-14.07.13:375][119]PIE: Server logged in
+[2024.10.01-14.07.13:375][119]PIE: Play in editor total start time 0,1 seconds.
+[2024.10.01-14.07.16:821][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.07.16:821][317]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.07.16:821][317]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.07.16:822][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.07.16:822][317]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-14.07.16:825][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-14.07.16:829][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.07.16:843][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.01-14.07.16:843][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.01-14.07.16:843][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.01-14.07.16:846][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.01-14.07.16:850][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.07.16:854][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.01-14.07.16:989][318]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.01-14.07.29:787][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-14.07.29:794][ 76]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-14.07.29:794][ 76]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-14.07.29:797][ 76]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 16 ms)
+[2024.10.01-14.07.29:797][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-14.07.29:797][ 76]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 18:07:29)
+[2024.10.01-14.07.29:797][ 76]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.07.29:802][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004686s)
+[2024.10.01-14.07.29:802][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004716s)
+[2024.10.01-14.07.29:815][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.10.01-14.07.29:816][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.07.29:816][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.07.29:818][ 76]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-14.07.29:818][ 76]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-14.07.29:818][ 76]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-14.07.29:818][ 76]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-14.07.29:818][ 76]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-14.07.29:820][ 76]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-14.07.29:820][ 76]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 112 ms)
+[2024.10.01-14.07.29:820][ 76]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2024.10.01-14.07.29:820][ 76]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-14.07.29:820][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-14.07.29:820][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-14.07.29:820][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-14.07.29:820][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-14.07.29:820][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-14.07.29:822][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-14.07.29:854][ 76]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-14.07.29:855][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-14.07.29:855][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-14.07.29:855][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-14.07.29:856][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.01-14.07.29:856][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.01-14.07.29:858][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.01-14.07.29:858][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.01-14.07.29:858][ 76]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.01-14.07.29:858][ 76]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.10.01-14.07.29:858][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.01-14.07.29:860][ 76]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-14.07.29:863][ 76]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-16.07.29
+[2024.10.01-14.07.29:863][ 76]LogWorld: Bringing up level for play took: 0.003403
+[2024.10.01-14.07.29:866][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.10.01-14.07.29:868][ 76]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D882102_1565035281Video
+[2024.10.01-14.07.29:868][ 76]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] Video: binded
+[2024.10.01-14.07.29:868][ 76]PIE: Server logged in
+[2024.10.01-14.07.29:869][ 76]PIE: Play in editor total start time 0,075 seconds.
+[2024.10.01-14.07.40:281][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.07.40:281][689]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.07.40:282][689]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.07.40:282][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.07.40:282][689]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-14.07.40:287][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-14.07.40:291][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.07.40:303][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.07.40:303][689]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.01-14.07.40:303][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.01-14.07.40:306][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.01-14.07.40:313][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.01-14.07.40:444][690]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.01-14.07.41:278][738]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Textures/M_HighLight.M_HighLight
+[2024.10.01-14.07.41:282][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.07.41:282][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.07.41:480][738]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-14.07.41:480][738]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.07.41:480][738]MaterialEditorStats: Shader Count: 0
+[2024.10.01-14.07.41:489][738]LogViewport: Scene viewport resized to 710x451, mode Windowed.
+[2024.10.01-14.07.41:564][739]LogShaderCompilers: Display: ================================================
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Total job queries 40, among them cache hits 24 (60.00%)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: RAM used: 272,88 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Average time worker was idle: 0.65 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.52 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Job life time (pending + execution): average 0.37 s, max 0.53
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Shader code size: average 30,551 KiB, min 3,934 KiB, max 38,789 KiB
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.30 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Average processing rate: 6.15 jobs/sec
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Total thread time: 1,607 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Total thread preprocess time: 0,195 s
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Percentage time preprocessing: 12.16%
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.16% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.54% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.67% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.38% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.96% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.10.01-14.07.41:566][739]LogShaderCompilers: Display: ================================================
+[2024.10.01-14.07.41:623][740]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-14.07.41:623][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.07.41:623][740]MaterialEditorStats: Shader Count: 2
+[2024.10.01-14.08.05:737][255]LogSlate: Window 'M_HighLight' being destroyed
+[2024.10.01-14.08.05:817][255]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.08.05:817][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.08.07:777][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.01-14.08.07:791][364]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OD/SV6T2Y7BUJ9JPLH9JOIWE2_Auto1
+[2024.10.01-14.08.07:791][364]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/SV6T2Y7BUJ9JPLH9JOIWE2_Auto14A8094D7469BA77C78B61D8BB393FB6E.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OD/SV6T2Y7BUJ9JPLH9JOIWE2_Auto1.uasset'
+[2024.10.01-14.08.07:793][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2024.10.01-14.08.07:793][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.10.01-14.08.28:205][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable
+[2024.10.01-14.08.28:205][577]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.08.28:205][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.08.31:742][780]LogViewport: Scene viewport resized to 844x687, mode Windowed.
+[2024.10.01-14.08.36:371][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.08.56:256][989]BlueprintLog: New page: Compile BP_Questable
+[2024.10.01-14.08.56:343][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.01-14.08.58:227][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-14.08.58:233][ 92]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-14.08.58:233][ 92]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-14.08.58:236][ 92]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 17 ms)
+[2024.10.01-14.08.58:236][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-14.08.58:236][ 92]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 18:08:58)
+[2024.10.01-14.08.58:236][ 92]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.08.58:241][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004780s)
+[2024.10.01-14.08.58:241][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004810s)
+[2024.10.01-14.08.58:257][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.01-14.08.58:259][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.08.58:259][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.08.58:260][ 92]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-14.08.58:260][ 92]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-14.08.58:260][ 92]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-14.08.58:260][ 92]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-14.08.58:260][ 92]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-14.08.58:262][ 92]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-14.08.58:262][ 92]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 114 ms)
+[2024.10.01-14.08.58:262][ 92]LogPlayLevel: PIE: World Init took: (0.002785s)
+[2024.10.01-14.08.58:262][ 92]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-14.08.58:262][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-14.08.58:262][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-14.08.58:262][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-14.08.58:262][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-14.08.58:262][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-14.08.58:265][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-14.08.58:296][ 92]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-14.08.58:296][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-14.08.58:296][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-14.08.58:296][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-14.08.58:297][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.01-14.08.58:297][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.01-14.08.58:299][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.01-14.08.58:299][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.01-14.08.58:299][ 92]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.01-14.08.58:299][ 92]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.10.01-14.08.58:299][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.01-14.08.58:301][ 92]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-14.08.58:303][ 92]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-16.08.58
+[2024.10.01-14.08.58:305][ 92]LogWorld: Bringing up level for play took: 0.003113
+[2024.10.01-14.08.58:307][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.10.01-14.08.58:309][ 92]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D862102_2118227928PhotoTest1
+[2024.10.01-14.08.58:309][ 92]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] PhotoTest1: binded
+[2024.10.01-14.08.58:313][ 92]PIE: Server logged in
+[2024.10.01-14.08.58:314][ 92]PIE: Play in editor total start time 0,08 seconds.
+[2024.10.01-14.09.08:853][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.09.08:853][685]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.09.08:854][685]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.09.08:854][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.09.08:854][685]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-14.09.08:861][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-14.09.08:868][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.09.08:886][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.09.08:886][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.01-14.09.08:886][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.01-14.09.08:889][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.01-14.09.08:897][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.01-14.09.08:946][686]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.01-14.09.21:961][461]BlueprintLog: New page: Compile BP_Questable
+[2024.10.01-14.09.22:012][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.01-14.09.40:561][550]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.40:572][550]LoadErrors: The Skeleton  SK_Mannequin_Arms_Skeleton  is missing bones that SkeletalMesh  SK_Mannequin_Arms   needs. They will be added now. Please save the Skeleton!
+[2024.10.01-14.09.40:687][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.40:732][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.40:755][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.41:936][628]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.10.01-14.09.41:936][628]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.10.01-14.09.41:936][628]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.10.01-14.09.42:016][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.42:529][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.42:554][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.42:582][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.43:031][686]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.01-14.09.43:032][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.43:032][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.09.51:523][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ButcherProject/Blueprints/Components/AC_Camera.AC_Camera
+[2024.10.01-14.09.51:523][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.09.51:523][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.11.37:809][454]BlueprintLog: New page: Compile AC_Camera
+[2024.10.01-14.11.37:909][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.01-14.11.39:569][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-14.11.39:577][539]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-14.11.39:577][539]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-14.11.39:581][539]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 22 ms)
+[2024.10.01-14.11.39:581][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-14.11.39:581][539]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 18:11:39)
+[2024.10.01-14.11.39:581][539]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.11.39:588][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007005s)
+[2024.10.01-14.11.39:588][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007038s)
+[2024.10.01-14.11.39:602][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.10.01-14.11.39:603][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.11.39:603][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.11.39:604][539]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-14.11.39:604][539]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-14.11.39:604][539]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-14.11.39:605][539]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-14.11.39:605][539]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-14.11.39:606][539]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-14.11.39:606][539]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 115 ms)
+[2024.10.01-14.11.39:606][539]LogPlayLevel: PIE: World Init took: (0.002700s)
+[2024.10.01-14.11.39:606][539]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-14.11.39:606][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-14.11.39:606][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-14.11.39:607][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-14.11.39:607][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-14.11.39:607][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-14.11.39:613][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-14.11.39:646][539]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-14.11.39:646][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-14.11.39:646][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-14.11.39:646][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-14.11.39:647][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.01-14.11.39:647][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.01-14.11.39:649][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.01-14.11.39:649][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.01-14.11.39:649][539]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.01-14.11.39:649][539]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.10.01-14.11.39:649][539]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.01-14.11.39:651][539]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-14.11.39:654][539]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-16.11.39
+[2024.10.01-14.11.39:655][539]LogWorld: Bringing up level for play took: 0.003403
+[2024.10.01-14.11.39:657][539]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.10.01-14.11.39:659][539]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D862102_2118227928PhotoTest1
+[2024.10.01-14.11.39:659][539]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] PhotoTest1: binded
+[2024.10.01-14.11.39:660][539]PIE: Server logged in
+[2024.10.01-14.11.39:660][539]PIE: Play in editor total start time 0,084 seconds.
+[2024.10.01-14.12.03:440][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.03:440][955]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.12.03:440][955]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.12.03:442][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.12.03:442][955]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-14.12.03:448][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-14.12.03:452][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.12.03:464][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.01-14.12.03:464][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.01-14.12.03:465][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.01-14.12.03:466][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.01-14.12.03:471][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.03:474][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.01-14.12.03:522][956]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.01-14.12.06:334][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.01-14.12.06:342][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-14.12.06:419][120]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OD/SV6T2Y7BUJ9JPLH9JOIWE2
+[2024.10.01-14.12.06:419][120]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/SV6T2Y7BUJ9JPLH9JOIWE20D284FBE4E2188CB5AD589A257BDA1EA.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OD/SV6T2Y7BUJ9JPLH9JOIWE2.uasset'
+[2024.10.01-14.12.06:442][120]LogSavePackage: Moving output files for package: /Game/ButcherProject/Blueprints/Components/AC_Camera
+[2024.10.01-14.12.06:442][120]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/AC_Camera1DD9898A4FDEA86B6D11F9BF0E71593A.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Blueprints/Components/AC_Camera.uasset'
+[2024.10.01-14.12.06:463][120]LogSavePackage: Moving output files for package: /Game/ButcherProject/Blueprints/BP_Questable
+[2024.10.01-14.12.06:463][120]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/BP_Questable5D80F3BB466BA8593BFD1B818A545A8B.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Blueprints/BP_Questable.uasset'
+[2024.10.01-14.12.06:478][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1.20 sec)
+[2024.10.01-14.12.06:489][120]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.01-14.12.06:489][120]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_UAID_088FC34CF27D8F2102_1081447511
+[2024.10.01-14.12.06:489][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Blueprints/Components/AC_Camera.AC_Camera
+[2024.10.01-14.12.06:489][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable
+[2024.10.01-14.12.12:634][486]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Textures/M_HighLight.M_HighLight
+[2024.10.01-14.12.12:639][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.12.12:639][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.12.12:819][486]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-14.12.12:819][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.12:819][486]MaterialEditorStats: Shader Count: 0
+[2024.10.01-14.12.12:830][486]LogViewport: Scene viewport resized to 710x451, mode Windowed.
+[2024.10.01-14.12.12:903][487]LogShaderCompilers: Display: ================================================
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Total job queries 70, among them cache hits 38 (54.29%)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 22 distinct outputs (68.75%)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: RAM used: 598,25 KiB of 819,20 MiB budget. Usage: 0.07%
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Average time worker was idle: 338.35 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 0.83 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.89
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Shader code size: average 32,073 KiB, min 3,934 KiB, max 38,789 KiB
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.19 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Average processing rate: 5.47 jobs/sec
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Total thread time: 2,764 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Total thread preprocess time: 0,468 s
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Percentage time preprocessing: 16.93%
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Effective parallelization: 1.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.31 sec, max 0.35 sec, min 0.28 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.29 sec, max 0.31 sec, min 0.27 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.21 sec, max 0.23 sec, min 0.19 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.73% of total time (compiled    2 times, average 0.31 sec, max 0.35 sec, min 0.28 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.87% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.86% of total time (compiled    2 times, average 0.29 sec, max 0.31 sec, min 0.27 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.20% of total time (compiled    2 times, average 0.21 sec, max 0.23 sec, min 0.19 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 7.54% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.10.01-14.12.12:904][487]LogShaderCompilers: Display: ================================================
+[2024.10.01-14.12.12:932][488]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-14.12.12:932][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.12:932][488]MaterialEditorStats: Shader Count: 2
+[2024.10.01-14.12.20:272][892]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.01-14.12.20:284][892]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-14.12.20:284][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.20:284][892]MaterialEditorStats: Shader Count: 0
+[2024.10.01-14.12.20:340][894]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-14.12.20:340][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.20:340][894]MaterialEditorStats: Shader Count: 2
+[2024.10.01-14.12.21:596][967]LogMaterialEditor: Applying material M_HighLight
+[2024.10.01-14.12.21:725][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.01-14.12.21:811][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.10.01-14.12.21:827][967]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-14.12.21:827][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.21:827][967]MaterialEditorStats: Shader Count: 0
+[2024.10.01-14.12.21:866][968]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2024.10.01-14.12.21:867][968]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-14.12.21:867][968]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.01-14.12.21:867][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.21:867][968]MaterialEditorStats: Shader Count: 2
+[2024.10.01-14.12.21:895][969]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2024.10.01-14.12.21:895][969]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.01-14.12.21:895][969]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.01-14.12.21:895][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2024.10.01-14.12.21:895][969]MaterialEditorStats: Shader Count: 6
+[2024.10.01-14.12.22:130][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.01-14.12.22:134][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.01-14.12.22:214][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/Textures/M_HighLight" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Textures/M_HighLight.uasset" SILENT=true
+[2024.10.01-14.12.22:218][980]LogSavePackage: Moving output files for package: /Game/ButcherProject/Textures/M_HighLight
+[2024.10.01-14.12.22:219][980]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/M_HighLight51D9B7CF43BE15C88616E8A7C2C31078.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Textures/M_HighLight.uasset'
+[2024.10.01-14.12.22:230][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.30 sec)
+[2024.10.01-14.12.22:231][980]AssetCheck: New page: Asset Save: M_HighLight
+[2024.10.01-14.12.22:231][980]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Textures/M_HighLight.M_HighLight
+[2024.10.01-14.12.23:141][ 32]LogSlate: Window 'M_HighLight' being destroyed
+[2024.10.01-14.12.23:166][ 32]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.12.23:166][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.12.24:192][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-14.12.24:198][ 92]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.01-14.12.24:198][ 92]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.01-14.12.24:211][ 92]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 12 ms (total: 35 ms)
+[2024.10.01-14.12.24:211][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-14.12.24:211][ 92]PIE: New page: PIE session: FirstPersonMap (1 oct. 2024 à 18:12:24)
+[2024.10.01-14.12.24:211][ 92]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.12.24:216][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2024.10.01-14.12.24:216][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004794s)
+[2024.10.01-14.12.24:231][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.01-14.12.24:234][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-14.12.24:234][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-14.12.24:235][ 92]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.01-14.12.24:235][ 92]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.01-14.12.24:235][ 92]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.01-14.12.24:235][ 92]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.01-14.12.24:235][ 92]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.01-14.12.24:236][ 92]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.01-14.12.24:236][ 92]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 117 ms)
+[2024.10.01-14.12.24:236][ 92]LogPlayLevel: PIE: World Init took: (0.002620s)
+[2024.10.01-14.12.24:236][ 92]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.01-14.12.24:236][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-14.12.24:237][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-14.12.24:237][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-14.12.24:237][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-14.12.24:237][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-14.12.24:237][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-14.12.24:239][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-14.12.24:272][ 92]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-14.12.24:272][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-14.12.24:272][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-14.12.24:273][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-14.12.24:273][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.01-14.12.24:273][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.01-14.12.24:274][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.01-14.12.24:274][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.01-14.12.24:274][ 92]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.01-14.12.24:274][ 92]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.10.01-14.12.24:274][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.01-14.12.24:277][ 92]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-14.12.24:280][ 92]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.10.01-16.12.24
+[2024.10.01-14.12.24:281][ 92]LogWorld: Bringing up level for play took: 0.003384
+[2024.10.01-14.12.24:283][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.10.01-14.12.24:285][ 92]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] BP_Questable_C_UAID_088FC34CF27D882102_1565035281Video
+[2024.10.01-14.12.24:285][ 92]LogBlueprintUserMessages: [BP_QuestsManager_C_UAID_088FC34CF27D7E2102_2067186519] Video: binded
+[2024.10.01-14.12.24:286][ 92]PIE: Server logged in
+[2024.10.01-14.12.24:286][ 92]PIE: Play in editor total start time 0,089 seconds.
+[2024.10.01-14.12.35:214][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.40:663][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.42:009][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.42:009][147]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.01-14.12.42:009][147]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-14.12.42:010][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.12.42:010][147]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.01-14.12.42:015][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-14.12.42:019][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-14.12.42:035][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.01-14.12.42:035][147]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.01-14.12.42:036][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.01-14.12.42:038][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.01-14.12.42:042][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-14.12.42:045][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.01-14.12.42:090][148]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.10.01-14.16.49:894][701]LogViewport: Scene viewport resized to 844x687, mode Windowed.
