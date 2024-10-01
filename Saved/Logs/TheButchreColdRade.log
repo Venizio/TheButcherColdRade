@@ -5793,3 +5793,1296 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get Madness
 [2024.10.01-13.38.25:111][ 50]AssetCheck: New page: Asset Save: BP_QuestsManager
 [2024.10.01-13.38.25:111][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Blueprints/BP_QuestsManager.BP_QuestsManager
 [2024.10.01-13.38.35:469][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.10.01-13.39.02:164][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.01-13.39.02:171][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.01-13.39.02:171][161]PIE: New page: PIE session: IATestMaps (1 oct. 2024 à 17:39:02)
+[2024.10.01-13.39.02:190][161]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.01-13.39.02:192][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003382s)
+[2024.10.01-13.39.02:192][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.003425s)
+[2024.10.01-13.39.02:205][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.01-13.39.02:206][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-13.39.02:206][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-13.39.02:207][161]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.01-13.39.02:208][161]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2024.10.01-13.39.02:208][161]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.01-13.39.02:208][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.01-13.39.02:208][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.01-13.39.02:208][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.01-13.39.02:208][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.01-13.39.02:208][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.01-13.39.02:210][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.01-13.39.02:242][161]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.01-13.39.02:242][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.01-13.39.02:242][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.01-13.39.02:242][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.01-13.39.02:242][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.10.01-13.39.02:242][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.10.01-13.39.02:245][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.10.01-13.39.02:245][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.10.01-13.39.02:245][161]LogInit: FAudioDevice initialized with ID 43.
+[2024.10.01-13.39.02:245][161]LogAudio: Display: Audio Device (ID: 43) registered with world 'IATestMaps'.
+[2024.10.01-13.39.02:245][161]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.10.01-13.39.02:247][161]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.01-13.39.02:248][161]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 0) at 2024.10.01-15.39.02
+[2024.10.01-13.39.02:249][161]LogWorld: Bringing up level for play took: 0.002047
+[2024.10.01-13.39.02:252][161]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.10.01-13.39.02:254][161]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_4Photo_1
+[2024.10.01-13.39.02:254][161]LogBlueprintUserMessages: [BP_QuestsManager_C_1] Photo_1: binded
+[2024.10.01-13.39.02:255][161]PIE: Server logged in
+[2024.10.01-13.39.02:255][161]PIE: Play in editor total start time 0,084 seconds.
+[2024.10.01-13.39.08:136][650]LogBlueprintUserMessages: [AC_Camera] truepic
+[2024.10.01-13.39.08:136][650]LogBlueprintUserMessages: [AC_QuestPicture] FiniFromComp
+[2024.10.01-13.39.08:136][650]LogBlueprintUserMessages: [BP_QuestsManager_C_1] QuestSolved
+[2024.10.01-13.39.08:136][650]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_5Photo_2
+[2024.10.01-13.39.08:136][650]LogBlueprintUserMessages: [BP_QuestsManager_C_1] Photo_2: binded
+[2024.10.01-13.39.10:164][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.39.11:401][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.39.15:028][217]LogBlueprintUserMessages: [AC_Camera] truepic
+[2024.10.01-13.39.15:028][217]LogBlueprintUserMessages: [AC_QuestPicture] FiniFromComp
+[2024.10.01-13.39.15:028][217]LogBlueprintUserMessages: [BP_QuestsManager_C_1] QuestSolved
+[2024.10.01-13.39.15:028][217]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_6Video_1
+[2024.10.01-13.39.15:028][217]LogBlueprintUserMessages: [BP_QuestsManager_C_1] Video_1: binded
+[2024.10.01-13.39.18:355][503]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:355][503]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:366][504]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:366][504]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:377][505]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:377][505]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:388][506]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:388][506]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:400][507]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:400][507]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:412][508]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:412][508]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:424][509]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:424][509]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:435][510]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:435][510]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:447][511]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:447][511]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:457][512]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:457][512]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:467][513]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:467][513]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:478][514]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:478][514]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:489][515]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:489][515]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:502][516]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:502][516]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:513][517]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:513][517]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:524][518]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:524][518]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:537][519]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:537][519]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:548][520]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:549][520]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:559][521]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:560][521]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:571][522]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:571][522]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:583][523]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:583][523]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:593][524]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:593][524]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:603][525]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:604][525]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:616][526]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:616][526]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:629][527]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:629][527]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:640][528]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:640][528]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:652][529]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:652][529]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:663][530]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:663][530]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:674][531]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:674][531]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:685][532]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:685][532]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:698][533]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:698][533]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:709][534]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:709][534]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:719][535]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:719][535]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:730][536]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:730][536]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:740][537]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:741][537]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:753][538]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:753][538]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:765][539]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:765][539]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:776][540]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:776][540]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:788][541]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:788][541]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:799][542]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:799][542]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:809][543]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:809][543]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:821][544]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:821][544]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:836][545]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:836][545]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:847][546]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:847][546]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:859][547]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:859][547]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:870][548]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:870][548]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:880][549]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:880][549]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:892][550]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:893][550]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:903][551]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:903][551]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:914][552]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:915][552]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:925][553]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:925][553]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:937][554]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:937][554]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:947][555]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:947][555]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:960][556]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:960][556]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:970][557]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:971][557]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:983][558]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:983][558]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:996][559]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.18:996][559]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:007][560]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:007][560]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:018][561]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:018][561]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:029][562]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:029][562]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:042][563]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:042][563]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:053][564]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:053][564]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:065][565]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:065][565]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:077][566]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:077][566]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:087][567]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:087][567]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:097][568]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:097][568]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:109][569]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:109][569]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:121][570]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:121][570]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:132][571]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:132][571]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:143][572]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:143][572]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:158][573]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:158][573]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:171][574]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:171][574]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:182][575]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:182][575]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:192][576]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:192][576]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:203][577]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:204][577]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:216][578]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:216][578]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:225][579]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:225][579]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:238][580]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:238][580]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:250][581]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:250][581]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:263][582]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:263][582]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:274][583]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:274][583]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:288][584]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:289][584]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:300][585]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:300][585]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:312][586]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:312][586]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:325][587]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:325][587]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:338][588]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:338][588]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:352][589]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:352][589]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:364][590]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:365][590]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:377][591]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:377][591]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:393][592]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:393][592]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:406][593]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:406][593]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:420][594]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:420][594]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:432][595]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:432][595]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:446][596]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:446][596]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:461][597]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:461][597]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:475][598]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:475][598]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:488][599]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:488][599]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:501][600]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:501][600]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:515][601]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:515][601]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:528][602]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:528][602]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:540][603]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:540][603]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:553][604]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:553][604]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:568][605]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:568][605]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:581][606]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:581][606]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:593][607]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:593][607]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:608][608]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:608][608]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:621][609]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:621][609]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:635][610]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:635][610]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:649][611]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:649][611]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:661][612]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:662][612]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:675][613]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:676][613]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:689][614]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:690][614]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:703][615]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:703][615]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:717][616]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:717][616]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:734][617]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:734][617]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:748][618]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:748][618]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:762][619]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:762][619]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:776][620]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:776][620]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:789][621]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:789][621]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:801][622]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:801][622]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:814][623]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:814][623]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:827][624]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:827][624]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:839][625]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:839][625]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:851][626]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:851][626]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:863][627]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:863][627]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:874][628]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:874][628]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:885][629]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:885][629]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:896][630]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:896][630]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:908][631]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:908][631]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:919][632]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:919][632]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:930][633]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:930][633]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:941][634]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:941][634]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:953][635]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:953][635]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:964][636]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:964][636]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:976][637]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:976][637]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:988][638]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:988][638]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:999][639]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.19:999][639]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:011][640]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:011][640]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:021][641]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:021][641]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:035][642]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:035][642]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:044][643]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:044][643]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:056][644]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:056][644]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:069][645]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:069][645]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:081][646]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:081][646]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:092][647]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:092][647]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:102][648]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:102][648]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:114][649]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:114][649]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:124][650]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:125][650]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:137][651]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:137][651]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:147][652]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:148][652]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:160][653]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:160][653]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:171][654]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:171][654]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:182][655]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:182][655]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:194][656]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:194][656]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:205][657]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:205][657]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:215][658]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:215][658]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:227][659]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:227][659]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:236][660]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:237][660]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:248][661]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:248][661]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:260][662]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:260][662]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:271][663]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:271][663]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:283][664]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:283][664]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:294][665]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:294][665]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:305][666]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:305][666]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:315][667]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:315][667]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:326][668]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:326][668]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:338][669]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:338][669]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:351][670]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:351][670]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:362][671]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:362][671]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:373][672]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:373][672]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:384][673]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:384][673]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:394][674]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:394][674]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:405][675]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:405][675]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:418][676]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:418][676]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:428][677]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:428][677]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:439][678]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:439][678]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:450][679]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:450][679]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:460][680]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:460][680]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:473][681]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:473][681]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:483][682]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:483][682]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:493][683]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:493][683]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:505][684]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:505][684]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:517][685]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:517][685]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:529][686]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:529][686]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:539][687]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:539][687]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:550][688]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:551][688]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:562][689]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:562][689]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:573][690]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:573][690]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:575][690]LogBlueprintUserMessages: [BP_EnemyController_C_0] Hello
+[2024.10.01-13.39.20:586][691]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:586][691]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:597][692]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:597][692]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:607][693]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:607][693]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:619][694]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:619][694]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:630][695]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:630][695]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:642][696]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:642][696]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:654][697]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:654][697]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:665][698]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:665][698]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:676][699]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:676][699]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:687][700]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:687][700]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:699][701]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:699][701]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:710][702]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:710][702]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:721][703]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:721][703]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:733][704]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:733][704]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:744][705]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:744][705]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:755][706]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:755][706]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:767][707]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:767][707]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:777][708]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:777][708]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:788][709]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:788][709]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:799][710]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:799][710]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:811][711]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:811][711]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:823][712]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:823][712]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:835][713]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:835][713]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:846][714]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:846][714]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:857][715]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:857][715]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:869][716]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:869][716]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:880][717]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:880][717]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:891][718]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:891][718]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:901][719]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:901][719]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:913][720]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:913][720]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:924][721]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:924][721]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:935][722]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:935][722]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:947][723]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:947][723]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:958][724]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:958][724]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:968][725]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:968][725]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:980][726]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:980][726]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:991][727]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.20:991][727]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:001][728]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:001][728]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:013][729]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:013][729]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:023][730]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:023][730]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:033][731]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:034][731]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:045][732]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:045][732]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:057][733]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:057][733]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:067][734]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:067][734]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:079][735]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:079][735]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:089][736]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:089][736]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:101][737]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:101][737]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:112][738]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:112][738]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:124][739]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:124][739]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:135][740]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:135][740]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:147][741]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:147][741]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:162][742]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:162][742]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:175][743]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:175][743]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:186][744]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:186][744]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:198][745]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:198][745]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:208][746]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:208][746]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:220][747]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:220][747]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:232][748]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:232][748]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:243][749]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:243][749]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:255][750]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:255][750]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:267][751]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:267][751]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:279][752]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:279][752]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:289][753]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:289][753]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:302][754]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:302][754]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:314][755]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:314][755]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:326][756]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:326][756]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:337][757]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:337][757]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:347][758]LogBlueprintUserMessages: [AC_Camera] true
+[2024.10.01-13.39.21:347][758]LogBlueprintUserMessages: [BP_QuestsManager_C_1] QuestSolved
+[2024.10.01-13.39.21:347][758]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:357][759]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:357][759]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:369][760]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:369][760]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:380][761]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:380][761]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:391][762]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:391][762]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:402][763]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:402][763]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:412][764]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:412][764]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:425][765]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:426][765]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:436][766]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:436][766]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:447][767]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:447][767]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:458][768]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:458][768]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:469][769]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:469][769]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:480][770]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:480][770]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:490][771]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:490][771]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:503][772]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:503][772]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:513][773]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:513][773]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:525][774]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:525][774]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:539][775]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:539][775]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:549][776]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:549][776]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:560][777]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:560][777]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:571][778]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:571][778]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:580][779]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:580][779]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:591][780]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:591][780]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:603][781]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:603][781]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:614][782]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:614][782]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:624][783]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:625][783]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:636][784]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:636][784]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:647][785]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:647][785]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:657][786]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:657][786]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:667][787]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:667][787]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:679][788]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:679][788]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:692][789]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:692][789]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:702][790]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:702][790]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:712][791]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:712][791]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:723][792]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.21:723][792]LogBlueprintUserMessages: [AC_Camera] false
+[2024.10.01-13.39.25:158][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.39.25:158][ 98]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.01-13.39.25:158][ 98]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.39.25:158][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.39.25:164][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.01-13.39.25:169][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.39.25:183][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.01-13.39.25:185][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.10.01-13.39.25:185][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.10.01-13.39.25:186][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.10.01-13.39.25:192][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.01-13.39.25:237][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.10.01-13.46.30:014][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.01-13.46.30:016][142]LogStall: Shutdown...
+[2024.10.01-13.46.30:023][142]LogStall: Shutdown complete.
+[2024.10.01-13.46.30:089][142]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:089][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:122][142]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:122][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:151][142]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:151][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:180][142]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:180][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:205][142]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.01-13.46.30:205][142]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:205][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:251][142]LogSlate: Window 'TheButchreColdRade - Unreal Editor' being destroyed
+[2024.10.01-13.46.30:333][143]Cmd: QUIT_EDITOR
+[2024.10.01-13.46.30:334][143]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.01-13.46.30:338][143]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.01-13.46.30:339][143]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.10.01-13.46.30:339][143]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.10.01-13.46.30:339][143]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.30:339][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-13.46.30:343][143]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.10.01-13.46.30:836][143]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.01-13.46.30:836][143]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.01-13.46.30:836][143]LogAudio: Display: Audio Device unregistered from world 'IATestMaps'.
+[2024.10.01-13.46.30:836][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.10.01-13.46.30:836][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.01-13.46.30:837][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.01-13.46.30:861][143]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.01-13.46.30:861][143]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.10.01-13.46.30:865][143]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.01-13.46.30:865][143]LogExit: Preparing to exit.
+[2024.10.01-13.46.30:884][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.30:891][143]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.01-13.46.31:639][143]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:641][143]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:642][143]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:645][143]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:646][143]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:647][143]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:648][143]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:650][143]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:652][143]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:653][143]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:654][143]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-13.46.31:799][143]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.10.01-13.46.31:812][143]LogExit: Editor shut down
+[2024.10.01-13.46.31:814][143]LogExit: Transaction tracking system shut down
+[2024.10.01-13.46.31:897][143]LogExit: Object subsystem successfully closed.
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: ================================================
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: RAM used: 81,68 KiB of 819,20 MiB budget. Usage: 0.01%
+[2024.10.01-13.46.31:904][143]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.12 s
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 0.95 s
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 0.95
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Shader code size: average 34,154 KiB, min 32,34 KiB, max 35,664 KiB
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.95 s
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Average processing rate: 4.22 jobs/sec
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Total thread time: 1,296 s
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Total thread preprocess time: 0,231 s
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Percentage time preprocessing: 17.83%
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.32% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.98% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.93% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.76% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.01-13.46.31:905][143]LogShaderCompilers: Display: ================================================
+[2024.10.01-13.46.31:943][143]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.01-13.46.31:953][143]LogVirtualization: UE::Virtualization was shutdown
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1074)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module Voice (1072)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1070)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1068)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1066)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module SceneOutliner (1062)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module AddContentDialog (1060)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1059)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module StatusBar (1056)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1054)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1052)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1050)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module StatsViewer (1048)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1046)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module AutomationWorker (1044)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module RiderLC (1042)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module RiderShaderInfo (1040)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module PlanarCut (1038)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module FractureEngine (1036)
+[2024.10.01-13.46.31:986][143]LogModuleManager: Shutting down and abandoning module CharacterAI (1034)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1032)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module BspMode (1030)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module GeometryMode (1028)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1026)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1024)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1022)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1020)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1018)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module RigVMEditor (1016)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1014)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1012)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1010)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1008)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1006)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1004)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module IKRigEditor (1002)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1000)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (998)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (996)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (994)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module WebMMedia (992)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (990)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module SequenceRecorder (989)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (986)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (984)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (982)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (980)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (978)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (976)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (974)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (972)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module SmartSnapping (970)
+[2024.10.01-13.46.31:987][143]LogModuleManager: Shutting down and abandoning module SessionServices (968)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module MeshPaint (966)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (964)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module PlacementMode (963)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module FoliageEdit (960)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module LandscapeEditor (958)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (956)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module ActorPickerMode (954)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module ViewportSnapping (952)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module EditorWidgets (950)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module ViewportInteraction (948)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module ClothPainter (946)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (945)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module WidgetRegistration (942)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module LogVisualizer (940)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (938)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (936)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (935)
+[2024.10.01-13.46.31:988][143]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (933)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (930)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (928)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (926)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (924)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (922)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (920)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module AnimationSettings (918)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (916)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module CSVtoSVG (914)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (912)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module EditorConfig (910)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module EditorFramework (908)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (906)
+[2024.10.01-13.46.32:072][143]LogModuleManager: Shutting down and abandoning module TraceInsights (904)
+[2024.10.01-13.46.32:072][143]MemoryProfiler: Shutdown
+[2024.10.01-13.46.32:072][143]NetworkingProfiler: Shutdown
+[2024.10.01-13.46.32:072][143]LoadingProfiler: Shutdown
+[2024.10.01-13.46.32:072][143]TimingProfiler: Shutdown
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module TraceServices (903)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module TraceAnalysis (902)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (898)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (897)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module InputBindingEditor (894)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module MergeActors (892)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (890)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module LocalizationService (889)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module HardwareTargeting (886)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (884)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module UndoHistory (882)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module XmlParser (880)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module Blutility (878)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (876)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (875)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (872)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (871)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module SettingsEditor (868)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module ProjectLauncher (866)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module SessionFrontend (864)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module ProfilerClient (862)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module DeviceManager (860)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module AutomationController (858)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module AutomationWindow (856)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module Layers (854)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (852)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module DetailCustomizations (850)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module PackagesDialog (848)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (846)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module Persona (844)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (843)
+[2024.10.01-13.46.32:073][143]LogModuleManager: Shutting down and abandoning module Kismet (840)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module KismetWidgets (839)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module GraphEditor (836)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module StructViewer (834)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module ClassViewer (832)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (830)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (828)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module SourceControlWindows (826)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module OutputLog (824)
+[2024.10.01-13.46.32:079][143]LogModuleManager: Shutting down and abandoning module Documentation (822)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (820)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (818)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module MovieScene (816)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (814)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (812)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (810)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AudioMixer (809)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AudioMixerCore (808)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module LauncherPlatform (804)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AnalyticsET (802)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module PortalServices (800)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module PortalRpc (798)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module MessagingRpc (796)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AIModule (794)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module GameplayDebugger (793)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module AITestSuite (791)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module NavigationSystem (789)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (786)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (784)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module TypedElementFramework (782)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (780)
+[2024.10.01-13.46.32:080][143]LogModuleManager: Shutting down and abandoning module ProfilerService (778)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (776)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (774)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (772)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (770)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (768)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module TakesCore (766)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module MegascansPlugin (764)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module Bridge (762)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module RiderGameControl (760)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module RiderBlueprint (758)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module LightMixer (756)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (754)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (752)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (750)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (748)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module CollectionManager (747)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (744)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (742)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (740)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (738)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (736)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (734)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (732)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (730)
+[2024.10.01-13.46.32:183][143]LogOpenImageDenoise: OIDN shutting down
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (728)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (726)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (724)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (722)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (720)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module MeshLODToolset (718)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (716)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module LocalizableMessage (714)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (712)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (710)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (708)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (706)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (704)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (703)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (701)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (698)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module DataflowNodes (696)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (694)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module DataflowEditor (692)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (690)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module AutomationUtils (688)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (686)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (684)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ChaosNiagara (682)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module FractureEditor (680)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (678)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module BackChannel (676)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module VariantManager (674)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (673)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (670)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module PluginBrowser (668)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (666)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (662)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (660)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (658)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module UVEditorTools (656)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module UVEditor (654)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (652)
+[2024.10.01-13.46.32:183][143]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (650)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (648)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (646)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module EditorDebugTools (644)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module CurveEditorTools (642)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (640)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (638)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module CryptoKeys (636)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ChangelistReview (634)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module TemplateSequence (632)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (630)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module SequencerScripting (628)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (626)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (624)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module UObjectPlugin (622)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module PluginUtils (620)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (618)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (616)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (614)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GitSourceControl (612)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module DumpGPUServices (610)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (608)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (606)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module SynthesisEditor (604)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ResonanceAudio (602)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (600)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (598)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (596)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ModelingOperators (594)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (592)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ModelingComponents (590)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryFramework (589)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (586)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MeshModelingTools (584)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (582)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InputDebugging (580)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (576)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (574)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (572)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module DynamicMesh (570)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (568)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AssetTags (566)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (563)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AndroidPermission (558)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (556)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (554)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (552)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AppleImageUtils (550)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (548)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (546)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (544)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (542)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeExport (540)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeMessages (538)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GLTFCore (536)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (534)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (532)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeEditor (530)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (528)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InterchangeTests (526)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module TakeSequencer (524)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module TakeMovieScene (522)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AlembicImporter (520)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AlembicLibrary (519)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryCache (518)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (517)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (512)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ControlRigSpline (510)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (508)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (506)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (504)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (500)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MediaPlate (498)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module ImgMedia (496)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (494)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (492)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module Paper2DEditor (490)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (488)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module TraceUtilities (486)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module InputEditor (480)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module RiderDebuggerSupport (478)
+[2024.10.01-13.46.32:184][143]LogModuleManager: Shutting down and abandoning module RiderLogging (476)
+[2024.10.01-13.46.32:186][143]LogModuleManager: Shutting down and abandoning module RiderLink (474)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module RD (472)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module StructUtils (470)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (468)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module PBIK (466)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module FullBodyIK (464)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (462)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module TakeRecorder (461)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module ChaosCaching (458)
+[2024.10.01-13.46.32:188][143]LogModuleManager: Shutting down and abandoning module TcpMessaging (456)
+[2024.10.01-13.46.32:289][143]LogModuleManager: Shutting down and abandoning module UdpMessaging (454)
+[2024.10.01-13.46.32:390][143]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (452)
+[2024.10.01-13.46.32:390][143]LogModuleManager: Shutting down and abandoning module FacialAnimation (450)
+[2024.10.01-13.46.32:390][143]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (448)
+[2024.10.01-13.46.32:390][143]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (446)
+[2024.10.01-13.46.32:390][143]LogModuleManager: Shutting down and abandoning module LevelEditor (445)
+[2024.10.01-13.46.32:392][143]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (444)
+[2024.10.01-13.46.32:392][143]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (442)
+[2024.10.01-13.46.32:392][143]LogModuleManager: Shutting down and abandoning module MainFrame (440)
+[2024.10.01-13.46.32:392][143]LogModuleManager: Shutting down and abandoning module HotReload (439)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module TreeMap (435)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module DataValidation (432)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module ActorSequence (430)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (428)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (426)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AnimationSharing (424)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module Synthesis (422)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module SoundFields (420)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module SignificanceManager (418)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (416)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module RigVM (414)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (412)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (410)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (408)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundEditor (406)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AudioWidgets (405)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (404)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (400)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundEngine (398)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module WaveTable (397)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (395)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (392)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (390)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (388)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (386)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (384)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (382)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module CableComponent (380)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (378)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (377)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module GameplayCameras (372)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module InterchangePipelines (370)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module InterchangeImport (368)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (366)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module InterchangeNodes (364)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (362)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2024.10.01-13.46.32:393][143]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ContentBrowser (354)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ToolMenus (353)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ContentBrowserData (351)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (344)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ControlRig (342)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module Constraints (341)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module LevelSequence (339)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (336)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module IKRig (334)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module AnimationData (332)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (330)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module Paper2D (328)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.10.01-13.46.32:394][143]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.10.01-13.46.32:395][143]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.10.01-13.46.32:396][143]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.10.01-13.46.32:403][143]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.10.01-13.46.32:414][143]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.10.01-13.46.32:414][143]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.10.01-13.46.32:414][143]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.10.01-13.46.32:414][143]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.10.01-13.46.32:416][143]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module ChaosCloth (122)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module GLTFExporter (118)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module DatasmithContent (116)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (114)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (112)
+[2024.10.01-13.46.32:417][143]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (110)
+[2024.10.01-13.46.32:418][143]LogModuleManager: Shutting down and abandoning module XMPP (105)
+[2024.10.01-13.46.32:418][143]LogModuleManager: Shutting down and abandoning module WebSockets (104)
+[2024.10.01-13.46.32:429][143]LogModuleManager: Shutting down and abandoning module HTTP (101)
+[2024.10.01-13.46.32:429][143]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.10.01-13.46.32:429][143]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B754E59C9-4508-13BB-B720-5288816EE7F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=f63579764d237fe548289289fa3e1956%7C3c2237093e004fb19d166c3889af2cdd%7C96450df7-ed38-4bb0-8f69-ae4877f01bd0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.10.01-13.46.32:440][143]LogModuleManager: Shutting down and abandoning module SSL (100)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (96)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (94)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (92)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module PixWinPlugin (90)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (88)
+[2024.10.01-13.46.32:441][143]RenderDocPlugin: plugin has been unloaded.
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (86)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module ChunkDownloader (82)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (78)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module NiagaraShader (76)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module AISupportModule (74)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module ACLPlugin (72)
+[2024.10.01-13.46.32:441][143]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2024.10.01-13.46.32:446][143]LogModuleManager: Shutting down and abandoning module Media (69)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.10.01-13.46.32:447][143]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.10.01-13.46.32:448][143]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.10.01-13.46.32:449][143]LogPakFile: Destroying PakPlatformFile
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.10.01-13.46.32:449][143]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.10.01-13.46.32:555][143]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.01-13.46.32:591][143]LogExit: Exiting.
+[2024.10.01-13.46.32:629][143]Log file closed, 10/01/24 15:46:32
