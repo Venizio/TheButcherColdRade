@@ -1425,3 +1425,896 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.01-09.46.25:180][183]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2024.10.01-09.46.28:307][371]LogContentBrowser: Attempting asset rename: NewFolder -> Props
 [2024.10.01-09.46.28:307][371]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.01-09.52.11:603][671]LogContentBrowser: Attempting asset rename: Props -> Assets
+[2024.10.01-09.53.38:640][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_MeatGrinder.fbx)
+[2024.10.01-09.53.38:659][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_MeatGrinder.fbx
+[2024.10.01-09.53.38:665][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.06:123][261]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-09.54.06:249][261]LogFbx: Display: Triangulating static mesh MOD_MeatGrinder
+[2024.10.01-09.54.06:279][261]LogStaticMesh: Display: Building static mesh MOD_MeatGrinder...
+[2024.10.01-09.54.06:299][261]LogStaticMesh: Built static mesh [0.02s] /Game/ButcherProject/Assets/MOD_MeatGrinder.MOD_MeatGrinder
+[2024.10.01-09.54.06:336][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.06:448][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Scie-A-Os.fbx)
+[2024.10.01-09.54.06:453][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Scie-A-Os.fbx
+[2024.10.01-09.54.06:456][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.06:531][261]LogFbx: Display: Triangulating static mesh MOD_Scie-A-Os
+[2024.10.01-09.54.06:544][261]LogStaticMesh: Display: Building static mesh MOD_Scie-A-Os...
+[2024.10.01-09.54.06:552][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Scie-A-Os.MOD_Scie-A-Os
+[2024.10.01-09.54.06:571][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.06:579][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Scie.fbx)
+[2024.10.01-09.54.06:584][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Scie.fbx
+[2024.10.01-09.54.06:587][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.06:658][261]LogFbx: Display: Triangulating static mesh MOD_Scie
+[2024.10.01-09.54.06:668][261]LogStaticMesh: Display: Building static mesh MOD_Scie...
+[2024.10.01-09.54.06:676][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Scie.MOD_Scie
+[2024.10.01-09.54.06:700][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.06:708][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Seau.fbx)
+[2024.10.01-09.54.06:712][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Seau.fbx
+[2024.10.01-09.54.06:716][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.06:798][261]LogFbx: Display: Triangulating static mesh MOD_Seau
+[2024.10.01-09.54.06:812][261]LogStaticMesh: Display: Building static mesh MOD_Seau...
+[2024.10.01-09.54.06:819][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Seau.MOD_Seau
+[2024.10.01-09.54.06:844][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.06:942][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MODE_Armoire.fbx)
+[2024.10.01-09.54.06:949][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MODE_Armoire.fbx
+[2024.10.01-09.54.06:954][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:032][261]LogFbx: Display: Triangulating static mesh Armoire
+[2024.10.01-09.54.07:050][261]LogStaticMesh: Display: Building static mesh MODE_Armoire...
+[2024.10.01-09.54.07:062][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MODE_Armoire.MODE_Armoire
+[2024.10.01-09.54.07:088][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:097][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MODE_Etagere.fbx)
+[2024.10.01-09.54.07:102][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MODE_Etagere.fbx
+[2024.10.01-09.54.07:105][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:204][261]LogFbx: Display: Triangulating static mesh Etagere
+[2024.10.01-09.54.07:208][261]LogStaticMesh: Display: Building static mesh MODE_Etagere...
+[2024.10.01-09.54.07:213][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MODE_Etagere.MODE_Etagere
+[2024.10.01-09.54.07:229][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:238][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MODE_Table.fbx)
+[2024.10.01-09.54.07:242][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MODE_Table.fbx
+[2024.10.01-09.54.07:246][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:324][261]LogFbx: Display: Triangulating static mesh table
+[2024.10.01-09.54.07:345][261]LogStaticMesh: Display: Building static mesh MODE_Table...
+[2024.10.01-09.54.07:359][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MODE_Table.MODE_Table
+[2024.10.01-09.54.07:380][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:389][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Couperet.fbx)
+[2024.10.01-09.54.07:393][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Couperet.fbx
+[2024.10.01-09.54.07:397][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:477][261]LogFbx: Display: Triangulating static mesh MOD_Couperet
+[2024.10.01-09.54.07:483][261]LogStaticMesh: Display: Building static mesh MOD_Couperet...
+[2024.10.01-09.54.07:488][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Couperet.MOD_Couperet
+[2024.10.01-09.54.07:508][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:517][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Crochet.fbx)
+[2024.10.01-09.54.07:521][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Crochet.fbx
+[2024.10.01-09.54.07:525][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:594][261]LogFbx: Display: Triangulating static mesh MOD_Crochet
+[2024.10.01-09.54.07:605][261]LogStaticMesh: Display: Building static mesh MOD_Crochet...
+[2024.10.01-09.54.07:612][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Crochet.MOD_Crochet
+[2024.10.01-09.54.07:633][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:642][261]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\MOD_Hache.fbx)
+[2024.10.01-09.54.07:646][261]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\MOD_Hache.fbx
+[2024.10.01-09.54.07:650][261]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.54.07:733][261]LogFbx: Display: Triangulating static mesh MOD_Hache
+[2024.10.01-09.54.07:738][261]LogStaticMesh: Display: Building static mesh MOD_Hache...
+[2024.10.01-09.54.07:743][261]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/MOD_Hache.MOD_Hache
+[2024.10.01-09.54.07:767][261]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.54.07:954][262]LogAutomationController: Ignoring very large delta of 29.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-09.54.09:686][351]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.54.09:691][351]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.54.10:301][388]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.54.10:307][388]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.54.11:058][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.01-09.54.11:066][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2024.10.01-09.54.11:067][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_MeatGrinder] ([1] browsable assets)...
+[2024.10.01-09.54.11:080][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_MeatGrinder.MOD_MeatGrinder]
+[2024.10.01-09.54.11:080][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_MeatGrinder]
+[2024.10.01-09.54.11:090][428]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.008209 seconds
+[2024.10.01-09.54.11:098][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_MeatGrinder_Auto1
+[2024.10.01-09.54.11:098][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_MeatGrinder_Auto1F787D5ED4E77D34081B55DB550EB4CB0.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_MeatGrinder_Auto1.uasset'
+[2024.10.01-09.54.11:099][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Scie-A-Os] ([1] browsable assets)...
+[2024.10.01-09.54.11:105][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Scie-A-Os.MOD_Scie-A-Os]
+[2024.10.01-09.54.11:105][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Scie-A-Os]
+[2024.10.01-09.54.11:108][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Scie-A-Os_Auto1
+[2024.10.01-09.54.11:108][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Scie-A-Os_Auto18FB4819A47DB4F4865581AB469EA2FE1.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Scie-A-Os_Auto1.uasset'
+[2024.10.01-09.54.11:109][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Scie] ([1] browsable assets)...
+[2024.10.01-09.54.11:115][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Scie.MOD_Scie]
+[2024.10.01-09.54.11:115][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Scie]
+[2024.10.01-09.54.11:118][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Scie_Auto1
+[2024.10.01-09.54.11:118][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Scie_Auto1DF100449452F472CF09F9FB5D889067A.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Scie_Auto1.uasset'
+[2024.10.01-09.54.11:119][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Seau] ([1] browsable assets)...
+[2024.10.01-09.54.11:123][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Seau.MOD_Seau]
+[2024.10.01-09.54.11:123][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Seau]
+[2024.10.01-09.54.11:126][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Seau_Auto1
+[2024.10.01-09.54.11:127][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Seau_Auto1F4D11CA248FE95A2146D6E96E85BABC9.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Seau_Auto1.uasset'
+[2024.10.01-09.54.11:127][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MODE_Armoire] ([1] browsable assets)...
+[2024.10.01-09.54.11:133][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MODE_Armoire.MODE_Armoire]
+[2024.10.01-09.54.11:133][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MODE_Armoire]
+[2024.10.01-09.54.11:137][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MODE_Armoire_Auto1
+[2024.10.01-09.54.11:137][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_Armoire_Auto151607AB84B15D0984A4CB5B25C5D1A97.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MODE_Armoire_Auto1.uasset'
+[2024.10.01-09.54.11:137][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MODE_Etagere] ([1] browsable assets)...
+[2024.10.01-09.54.11:143][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MODE_Etagere.MODE_Etagere]
+[2024.10.01-09.54.11:143][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MODE_Etagere]
+[2024.10.01-09.54.11:145][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MODE_Etagere_Auto1
+[2024.10.01-09.54.11:145][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_Etagere_Auto13189FE6748C4E79A16765AA684C4659C.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MODE_Etagere_Auto1.uasset'
+[2024.10.01-09.54.11:145][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MODE_Table] ([1] browsable assets)...
+[2024.10.01-09.54.11:151][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MODE_Table.MODE_Table]
+[2024.10.01-09.54.11:151][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MODE_Table]
+[2024.10.01-09.54.11:154][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MODE_Table_Auto1
+[2024.10.01-09.54.11:154][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_Table_Auto14845162245572C4ADB4C73922FB02EA9.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MODE_Table_Auto1.uasset'
+[2024.10.01-09.54.11:155][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Couperet] ([1] browsable assets)...
+[2024.10.01-09.54.11:161][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Couperet.MOD_Couperet]
+[2024.10.01-09.54.11:161][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Couperet]
+[2024.10.01-09.54.11:163][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Couperet_Auto1
+[2024.10.01-09.54.11:163][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Couperet_Auto1DB9592304149205F46BD9982431D38EE.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Couperet_Auto1.uasset'
+[2024.10.01-09.54.11:164][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Crochet] ([1] browsable assets)...
+[2024.10.01-09.54.11:169][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Crochet.MOD_Crochet]
+[2024.10.01-09.54.11:169][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Crochet]
+[2024.10.01-09.54.11:172][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Crochet_Auto1
+[2024.10.01-09.54.11:172][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Crochet_Auto155CB90A848B7CF31B22F03942C28CD16.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Crochet_Auto1.uasset'
+[2024.10.01-09.54.11:173][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/MOD_Hache] ([1] browsable assets)...
+[2024.10.01-09.54.11:179][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/MOD_Hache.MOD_Hache]
+[2024.10.01-09.54.11:179][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/MOD_Hache]
+[2024.10.01-09.54.11:181][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/MOD_Hache_Auto1
+[2024.10.01-09.54.11:181][428]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MOD_Hache_Auto11E9732494CAA4260178621A4D49E989F.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/MOD_Hache_Auto1.uasset'
+[2024.10.01-09.54.11:182][428]LogFileHelpers: Auto-saving content packages took 0.116
+[2024.10.01-09.56.16:166][446]LogEditorFactories: Performing atomic reimport of [C:/Users/Steam/Downloads/Assets ButcherCold/Tile_Set/MODE_Table.fbx]
+[2024.10.01-09.56.16:171][446]LogFbx: Loading FBX Scene from C:/Users/Steam/Downloads/Assets ButcherCold/Tile_Set/MODE_Table.fbx
+[2024.10.01-09.56.16:174][446]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.16:250][446]LogFbx: Display: Triangulating static mesh table
+[2024.10.01-09.56.16:294][446]LogEditorFactories: -- imported successfully
+[2024.10.01-09.56.16:295][446]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.25:336][748]LogEditorFactories: Performing atomic reimport of [C:/Users/Steam/Downloads/Assets ButcherCold/Meubles/MODE_Table.fbx]
+[2024.10.01-09.56.25:341][748]LogFbx: Loading FBX Scene from C:/Users/Steam/Downloads/Assets ButcherCold/Meubles/MODE_Table.fbx
+[2024.10.01-09.56.25:344][748]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.25:411][748]LogFbx: Display: Triangulating static mesh table
+[2024.10.01-09.56.25:449][748]LogEditorFactories: -- imported successfully
+[2024.10.01-09.56.25:450][748]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.33:324][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_grande_fenetre.fbx)
+[2024.10.01-09.56.33:329][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_grande_fenetre.fbx
+[2024.10.01-09.56.33:335][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.35:668][790]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-09.56.35:796][790]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-09.56.35:797][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Toit...
+[2024.10.01-09.56.35:798][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Toit.Mur_grande_fenetre_Toit
+[2024.10.01-09.56.35:806][790]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-09.56.35:807][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Sol...
+[2024.10.01-09.56.35:809][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Sol.Mur_grande_fenetre_Sol
+[2024.10.01-09.56.35:814][790]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-09.56.35:816][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_porte...
+[2024.10.01-09.56.35:819][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_porte.Mur_grande_fenetre_Mur_porte
+[2024.10.01-09.56.35:833][790]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-09.56.35:834][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Porte...
+[2024.10.01-09.56.35:836][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Porte.Mur_grande_fenetre_Porte
+[2024.10.01-09.56.35:849][790]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-09.56.35:858][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Sphere...
+[2024.10.01-09.56.35:864][790]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Sphere.Mur_grande_fenetre_Sphere
+[2024.10.01-09.56.35:878][790]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-09.56.35:885][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Sphere_001...
+[2024.10.01-09.56.35:890][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Sphere_001.Mur_grande_fenetre_Sphere_001
+[2024.10.01-09.56.35:900][790]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-09.56.35:901][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_S_001...
+[2024.10.01-09.56.35:902][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_S_001.Mur_grande_fenetre_Mur_S_001
+[2024.10.01-09.56.35:903][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.35:903][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.35:915][790]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-09.56.35:915][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_L_002...
+[2024.10.01-09.56.35:918][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_L_002.Mur_grande_fenetre_Mur_L_002
+[2024.10.01-09.56.35:929][790]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-09.56.35:931][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_i_001...
+[2024.10.01-09.56.35:932][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_i_001.Mur_grande_fenetre_Mur_i_001
+[2024.10.01-09.56.35:945][790]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-09.56.35:946][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_L_003...
+[2024.10.01-09.56.35:950][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_L_003.Mur_grande_fenetre_Mur_L_003
+[2024.10.01-09.56.35:963][790]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-09.56.35:964][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_S_002...
+[2024.10.01-09.56.35:966][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_S_002.Mur_grande_fenetre_Mur_S_002
+[2024.10.01-09.56.35:966][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.35:966][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.35:978][790]LogFbx: Display: Triangulating static mesh Mur_i.002
+[2024.10.01-09.56.35:982][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_i_002...
+[2024.10.01-09.56.35:988][790]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_i_002.Mur_grande_fenetre_Mur_i_002
+[2024.10.01-09.56.35:989][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_i_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.35:989][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_i_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.36:003][790]LogFbx: Display: Triangulating static mesh Mur_i.003
+[2024.10.01-09.56.36:008][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Mur_i_003...
+[2024.10.01-09.56.36:014][790]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Mur_i_003.Mur_grande_fenetre_Mur_i_003
+[2024.10.01-09.56.36:015][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_i_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.36:015][790]LogStaticMesh: Warning: Mur_grande_fenetre_Mur_i_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.36:028][790]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.10.01-09.56.36:029][790]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre_Cube_010...
+[2024.10.01-09.56.36:030][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_grande_fenetre_Cube_010.Mur_grande_fenetre_Cube_010
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_i_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_i_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_i_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:074][790]FBXImport: Warning: Mur_grande_fenetre_Mur_i_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:133][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_I.fbx)
+[2024.10.01-09.56.36:138][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_I.fbx
+[2024.10.01-09.56.36:141][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:213][790]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-09.56.36:235][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:245][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L.fbx)
+[2024.10.01-09.56.36:249][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L.fbx
+[2024.10.01-09.56.36:252][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:335][790]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-09.56.36:356][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:384][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L_2.fbx)
+[2024.10.01-09.56.36:388][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L_2.fbx
+[2024.10.01-09.56.36:391][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:475][790]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-09.56.36:495][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:526][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L.fbx)
+[2024.10.01-09.56.36:530][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L.fbx
+[2024.10.01-09.56.36:533][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:614][790]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-09.56.36:615][790]LogStaticMesh: Display: Building static mesh Mur_petit_L_Mur_S_002...
+[2024.10.01-09.56.36:617][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_petit_L_Mur_S_002.Mur_petit_L_Mur_S_002
+[2024.10.01-09.56.36:617][790]LogStaticMesh: Warning: Mur_petit_L_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.36:617][790]LogStaticMesh: Warning: Mur_petit_L_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.36:636][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:636][790]FBXImport: Warning: Mur_petit_L_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:636][790]FBXImport: Warning: Mur_petit_L_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:649][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L_2.fbx)
+[2024.10.01-09.56.36:653][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L_2.fbx
+[2024.10.01-09.56.36:656][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:738][790]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-09.56.36:739][790]LogStaticMesh: Display: Building static mesh Mur_petit_L_2_Mur_S_001...
+[2024.10.01-09.56.36:740][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Mur_petit_L_2_Mur_S_001.Mur_petit_L_2_Mur_S_001
+[2024.10.01-09.56.36:741][790]LogStaticMesh: Warning: Mur_petit_L_2_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.36:741][790]LogStaticMesh: Warning: Mur_petit_L_2_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.36:761][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.36:762][790]FBXImport: Warning: Mur_petit_L_2_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.36:762][790]FBXImport: Warning: Mur_petit_L_2_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.36:773][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx)
+[2024.10.01-09.56.36:777][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx
+[2024.10.01-09.56.36:783][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.36:870][790]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-09.56.36:878][790]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-09.56.36:887][790]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-09.56.36:901][790]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-09.56.36:913][790]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-09.56.36:936][790]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-09.56.36:957][790]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-09.56.36:958][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.36:958][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.36:967][790]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-09.56.36:975][790]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-09.56.36:986][790]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-09.56.36:997][790]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-09.56.37:000][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.37:000][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.37:008][790]LogFbx: Display: Triangulating static mesh Mur_i.002
+[2024.10.01-09.56.37:015][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_i_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.37:015][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_i_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.37:027][790]LogFbx: Display: Triangulating static mesh Mur_i.003
+[2024.10.01-09.56.37:034][790]LogStaticMesh: Display: Building static mesh Mur_petite_fenetre_Mur_i_003...
+[2024.10.01-09.56.37:041][790]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Mur_petite_fenetre_Mur_i_003.Mur_petite_fenetre_Mur_i_003
+[2024.10.01-09.56.37:042][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_i_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.56.37:042][790]LogStaticMesh: Warning: Mur_petite_fenetre_Mur_i_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.56.37:054][790]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_S_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_S_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_S_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_S_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_i_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_i_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_i_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.56.37:094][790]FBXImport: Warning: Mur_petite_fenetre_Mur_i_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.56.37:097][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_Porte.fbx)
+[2024.10.01-09.56.37:101][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_Porte.fbx
+[2024.10.01-09.56.37:105][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.37:194][790]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-09.56.37:222][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.37:226][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Porte.fbx)
+[2024.10.01-09.56.37:231][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Porte.fbx
+[2024.10.01-09.56.37:234][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.37:315][790]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-09.56.37:316][790]LogStaticMesh: Display: Building static mesh Porte_Porte...
+[2024.10.01-09.56.37:318][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Porte_Porte.Porte_Porte
+[2024.10.01-09.56.37:330][790]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-09.56.37:338][790]LogStaticMesh: Display: Building static mesh Porte_Sphere...
+[2024.10.01-09.56.37:343][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Porte_Sphere.Porte_Sphere
+[2024.10.01-09.56.37:353][790]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-09.56.37:359][790]LogStaticMesh: Display: Building static mesh Porte_Sphere_001...
+[2024.10.01-09.56.37:363][790]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Assets/Porte_Sphere_001.Porte_Sphere_001
+[2024.10.01-09.56.37:382][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.37:385][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Sol.fbx)
+[2024.10.01-09.56.37:389][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Sol.fbx
+[2024.10.01-09.56.37:392][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.37:467][790]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-09.56.37:481][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.37:487][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Toit.fbx)
+[2024.10.01-09.56.37:491][790]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Toit.fbx
+[2024.10.01-09.56.37:495][790]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.56.37:573][790]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-09.56.37:588][790]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.56.37:911][791]LogAutomationController: Ignoring very large delta of 4.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: ================================================
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Total job queries 3 752, among them cache hits 29 (0.77%)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Tracking 3 716 distinct input hashes that result in 2 666 distinct outputs (71.74%)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: RAM used: 68,51 MiB of 819,20 MiB budget. Usage: 8.36%
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Shaders Compiled: 3 716
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Jobs assigned 3 719, completed 3 716 (99.92%)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Average time worker was idle: 8.47 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Time job spent in pending queue: average 64.23 s, longest 138.58 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Job execution time: average 3.06 s, max 13.42 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Job life time (pending + execution): average 67.35 s, max 142.02
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Shader code size: average 38,172 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 160.05 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Jobs were issued in 485 batches (only local compilation was used), average 7.67 jobs/batch
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Average processing rate: 23.22 jobs/sec
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Total thread time: 1 194,105 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Total thread preprocess time: 87,323 s
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Percentage time preprocessing: 7.31%
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Effective parallelization: 7.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.81 sec, max 9.58 sec, min 1.25 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.59 sec, max 4.48 sec, min 2.68 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.34 sec, max 2.45 sec, min 0.75 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.83% of total time (compiled  134 times, average 1.05 sec, max 3.04 sec, min 0.85 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.32% of total time (compiled   96 times, average 0.66 sec, max 1.12 sec, min 0.41 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.47% of total time (compiled   96 times, average 0.56 sec, max 0.91 sec, min 0.12 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.25% of total time (compiled  128 times, average 0.40 sec, max 0.81 sec, min 0.12 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.97% of total time (compiled  128 times, average 0.37 sec, max 1.51 sec, min 0.26 sec)
+[2024.10.01-09.56.38:706][817]LogShaderCompilers: Display: ================================================
+[2024.10.01-09.56.43:140][ 78]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.56.43:144][ 78]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.56.43:669][109]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.56.43:675][109]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.56.57:046][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.01-09.56.58:164][891]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-09.56.58:203][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.01-09.56.58:217][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.01-09.56.58:232][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.01-09.56.59:851][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.01-09.57.01:034][986]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-09.57.01:056][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.01-09.57.01:071][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.01-09.57.01:085][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-09.57.17:041][ 87]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_grande_fenetre.fbx)
+[2024.10.01-09.57.17:045][ 87]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_grande_fenetre.fbx
+[2024.10.01-09.57.17:051][ 87]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-09.57.20:536][ 87]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-09.57.20:643][ 87]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-09.57.20:644][ 87]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-09.57.20:644][ 87]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-09.57.20:645][ 87]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-09.57.20:645][ 87]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-09.57.20:650][ 87]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-09.57.20:654][ 87]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-09.57.20:655][ 87]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-09.57.20:655][ 87]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-09.57.20:655][ 87]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-09.57.20:656][ 87]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-09.57.20:656][ 87]LogFbx: Display: Triangulating static mesh Mur_i.002
+[2024.10.01-09.57.20:658][ 87]LogFbx: Display: Triangulating static mesh Mur_i.003
+[2024.10.01-09.57.20:661][ 87]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.10.01-09.57.20:670][ 87]LogStaticMesh: Display: Building static mesh Mur_grande_fenetre...
+[2024.10.01-09.57.20:756][ 87]LogStaticMesh: Built static mesh [0.09s] /Game/ButcherProject/Assets/Mur_grande_fenetre.Mur_grande_fenetre
+[2024.10.01-09.57.20:766][ 87]LogStaticMesh: Warning: Mur_grande_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-09.57.20:766][ 87]LogStaticMesh: Warning: Mur_grande_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-09.57.20:782][ 87]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-09.57.20:782][ 87]FBXImport: Warning: Mur_grande_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-09.57.20:782][ 87]FBXImport: Warning: Mur_grande_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-09.57.21:069][ 88]LogAutomationController: Ignoring very large delta of 4.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-09.57.22:471][159]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.57.22:475][159]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-09.57.23:065][194]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.57.23:070][194]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-09.57.24:932][305]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Mur_grande_fenetre.Mur_grande_fenetre
+[2024.10.01-09.57.24:985][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.01-09.57.24:985][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.01-09.57.25:438][305]LogViewport: Scene viewport resized to 1087x715, mode Windowed.
+[2024.10.01-09.57.32:540][725]LogSlate: Window 'Mur_grande_fenetre' being destroyed
+[2024.10.01-09.57.32:572][725]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.01-09.57.32:572][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.01-09.57.43:103][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.01-09.57.44:031][962]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-09.57.44:055][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.01-09.57.44:070][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.01-09.57.44:082][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.01-09.57.45:287][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.01-09.57.46:568][ 32]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-09.57.46:590][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.01-09.57.46:606][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.01-09.57.46:620][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.01-10.00.03:170][811]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_I.fbx)
+[2024.10.01-10.00.03:175][811]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_I.fbx
+[2024.10.01-10.00.03:178][811]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.00.08:798][811]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.00.08:904][811]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-10.00.08:923][811]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.00.09:086][812]LogAutomationController: Ignoring very large delta of 5.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: ================================================
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Total job queries 3 760, among them cache hits 37 (0.98%)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Tracking 3 719 distinct input hashes that result in 2 667 distinct outputs (71.71%)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: RAM used: 68,57 MiB of 819,20 MiB budget. Usage: 8.37%
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Shaders Compiled: 3 719
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Jobs assigned 3 719, completed 3 719 (100%)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Average time worker was idle: 8.47 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Time job spent in pending queue: average 64.23 s, longest 138.58 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Job execution time: average 3.06 s, max 13.42 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Job life time (pending + execution): average 67.30 s, max 142.02
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Shader code size: average 38,169 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 160.36 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Jobs were issued in 485 batches (only local compilation was used), average 7.67 jobs/batch
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Average processing rate: 23.19 jobs/sec
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Total thread time: 1 195,581 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Total thread preprocess time: 87,493 s
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Percentage time preprocessing: 7.32%
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Effective parallelization: 7.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.81 sec, max 9.58 sec, min 1.25 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.59 sec, max 4.48 sec, min 2.68 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.34 sec, max 2.45 sec, min 0.75 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.81% of total time (compiled  134 times, average 1.05 sec, max 3.04 sec, min 0.85 sec)
+[2024.10.01-10.00.09:119][812]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.31% of total time (compiled   96 times, average 0.66 sec, max 1.12 sec, min 0.41 sec)
+[2024.10.01-10.00.09:120][812]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.47% of total time (compiled   96 times, average 0.56 sec, max 0.91 sec, min 0.12 sec)
+[2024.10.01-10.00.09:120][812]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.25% of total time (compiled  128 times, average 0.40 sec, max 0.81 sec, min 0.12 sec)
+[2024.10.01-10.00.09:120][812]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.97% of total time (compiled  128 times, average 0.37 sec, max 1.51 sec, min 0.26 sec)
+[2024.10.01-10.00.09:120][812]LogShaderCompilers: Display: ================================================
+[2024.10.01-10.00.10:641][895]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.00.10:646][895]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.00.11:341][937]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.00.11:348][937]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.00.13:796][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I
+[2024.10.01-10.00.13:796][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I
+[2024.10.01-10.00.13:797][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.10.01-10.00.14:862][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I
+[2024.10.01-10.00.14:862][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I
+[2024.10.01-10.00.14:865][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_I.Mur_I as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1316625047
+[2024.10.01-10.00.18:410][350]Cmd: DELETE
+[2024.10.01-10.00.18:411][350]Cmd: ACTOR DELETE
+[2024.10.01-10.00.18:419][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.00.18:436][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.01-10.00.18:440][350]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.10.01-10.00.22:012][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.01-10.00.22:765][559]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.00.22:784][559]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1316625047 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/U6/2G58PSGBKAM8NIMVOYBWX9.PackageMetaData in its package
+[2024.10.01-10.00.22:785][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.01-10.00.22:800][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.01-10.00.22:815][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.00.22:840][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-10.00.23:437][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-10.00.24:011][593]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.00.24:033][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.10.01-10.00.24:049][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.01-10.00.24:061][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.01-10.00.42:698][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L.fbx)
+[2024.10.01-10.00.42:703][684]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L.fbx
+[2024.10.01-10.00.42:707][684]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.00.45:025][684]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.00.45:117][684]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-10.00.45:135][684]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.00.45:283][685]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-10.00.46:514][742]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.00.46:518][742]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.00.47:163][781]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.00.47:168][781]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.00.49:057][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L
+[2024.10.01-10.00.49:057][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L
+[2024.10.01-10.00.49:057][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.10.01-10.00.49:833][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L
+[2024.10.01-10.00.49:833][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L
+[2024.10.01-10.00.49:834][935]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_L.Mur_L as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1351595048
+[2024.10.01-10.00.55:214][254]Cmd: DELETE
+[2024.10.01-10.00.55:214][254]Cmd: ACTOR DELETE
+[2024.10.01-10.00.55:216][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.00.55:233][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.01-10.00.55:235][254]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.01-10.00.59:040][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.01-10.00.59:767][479]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.00.59:786][479]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1351595048 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QJ/KQLO93JL7JL9AJKMNR5PKX.PackageMetaData in its package
+[2024.10.01-10.00.59:787][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.10.01-10.00.59:802][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.01-10.00.59:817][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.01-10.00.59:839][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-10.01.00:472][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.01-10.01.01:130][515]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.01.01:151][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.01-10.01.01:167][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.01-10.01.01:182][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.01-10.01.03:063][552]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L_2.fbx)
+[2024.10.01-10.01.03:068][552]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_L_2.fbx
+[2024.10.01-10.01.03:071][552]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.01.04:524][552]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.01.04:631][552]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-10.01.04:647][552]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.01.06:069][620]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.06:073][620]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.06:802][664]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.06:807][664]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.08:605][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2
+[2024.10.01-10.01.08:605][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2
+[2024.10.01-10.01.08:606][768]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.10.01-10.01.09:391][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2
+[2024.10.01-10.01.09:391][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2
+[2024.10.01-10.01.09:393][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_L_2.Mur_L_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1371153049
+[2024.10.01-10.01.11:822][957]Cmd: DELETE
+[2024.10.01-10.01.11:822][957]Cmd: ACTOR DELETE
+[2024.10.01-10.01.11:823][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.01.11:837][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.01-10.01.11:840][957]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.10.01-10.01.13:650][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.01.14:509][ 62]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.01.14:528][ 62]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1371153049 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/22/GU2PVDD9H3GKJV2VIZ653R.PackageMetaData in its package
+[2024.10.01-10.01.14:530][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.01-10.01.14:545][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.01-10.01.14:559][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.01.14:581][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.01-10.01.15:033][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.01.15:956][ 88]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.01.15:977][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.01-10.01.15:992][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.01-10.01.16:008][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.01-10.01.18:193][142]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L.fbx)
+[2024.10.01-10.01.18:198][142]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L.fbx
+[2024.10.01-10.01.18:202][142]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.01.20:272][142]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.01.20:373][142]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-10.01.20:382][142]LogStaticMesh: Warning: Mur_petit_L has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-10.01.20:382][142]LogStaticMesh: Warning: Mur_petit_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-10.01.20:392][142]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.01.20:392][142]FBXImport: Warning: Mur_petit_L has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-10.01.20:392][142]FBXImport: Warning: Mur_petit_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-10.01.20:573][143]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-10.01.22:533][248]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.22:537][248]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.23:199][288]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.23:204][288]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.25:062][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:062][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:062][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_39
+[2024.10.01-10.01.25:219][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:219][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:220][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_48
+[2024.10.01-10.01.25:711][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:711][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L
+[2024.10.01-10.01.25:713][432]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petit_L.Mur_petit_L as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1387473050
+[2024.10.01-10.01.29:318][645]Cmd: DELETE
+[2024.10.01-10.01.29:318][645]Cmd: ACTOR DELETE
+[2024.10.01-10.01.29:319][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.01.29:336][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.01-10.01.29:339][645]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.01-10.01.31:689][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.01-10.01.32:488][782]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.01.32:509][782]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.01.32:765][782]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1387473050 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/EE/GC9RWKPJ0ANCRIFEUW773Z.PackageMetaData in its package
+[2024.10.01-10.01.32:766][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.01-10.01.32:780][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.01-10.01.32:793][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.01.32:813][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.01-10.01.33:210][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.01-10.01.33:703][805]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.01.33:723][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.01-10.01.33:738][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.01-10.01.33:751][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.01.53:777][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L_2.fbx)
+[2024.10.01-10.01.53:782][903]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petit_L_2.fbx
+[2024.10.01-10.01.53:785][903]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.01.55:249][903]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.01.55:350][903]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-10.01.55:358][903]LogStaticMesh: Warning: Mur_petit_L_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-10.01.55:358][903]LogStaticMesh: Warning: Mur_petit_L_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-10.01.55:365][903]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.01.55:365][903]FBXImport: Warning: Mur_petit_L_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-10.01.55:366][903]FBXImport: Warning: Mur_petit_L_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-10.01.56:628][956]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.56:633][956]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.01.57:295][996]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.57:300][996]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.01.59:489][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2
+[2024.10.01-10.01.59:489][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2
+[2024.10.01-10.01.59:489][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_52
+[2024.10.01-10.02.00:132][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2
+[2024.10.01-10.02.00:132][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2
+[2024.10.01-10.02.00:133][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petit_L_2.Mur_petit_L_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1421894051
+[2024.10.01-10.02.01:085][216]Cmd: DELETE
+[2024.10.01-10.02.01:085][216]Cmd: ACTOR DELETE
+[2024.10.01-10.02.01:086][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.02.01:103][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.01-10.02.01:106][216]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.10.01-10.02.02:187][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.02.02:867][278]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.02.02:885][278]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.02.03:101][278]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1421894051 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/YW/4605D2B22RPMDFFD0ROSG1.PackageMetaData in its package
+[2024.10.01-10.02.03:103][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.01-10.02.03:120][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.01-10.02.03:133][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.02.03:151][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.01-10.02.03:950][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.02.04:591][325]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.02.04:610][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.01-10.02.04:623][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.01-10.02.04:636][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.02.19:722][432]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx)
+[2024.10.01-10.02.19:728][432]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx
+[2024.10.01-10.02.19:734][432]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.02.20:751][432]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.02.20:851][432]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-10.02.20:851][432]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-10.02.20:852][432]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-10.02.20:853][432]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-10.02.20:853][432]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-10.02.20:859][432]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-10.02.20:864][432]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-10.02.20:864][432]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-10.02.20:865][432]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-10.02.20:865][432]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-10.02.20:865][432]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-10.02.20:865][432]LogFbx: Display: Triangulating static mesh Mur_i.002
+[2024.10.01-10.02.20:868][432]LogFbx: Display: Triangulating static mesh Mur_i.003
+[2024.10.01-10.02.20:871][432]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.10.01-10.02.20:881][432]LogStaticMesh: Display: Building static mesh Mur_petite_fenetre...
+[2024.10.01-10.02.20:961][432]LogStaticMesh: Built static mesh [0.08s] /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre
+[2024.10.01-10.02.20:969][432]LogStaticMesh: Warning: Mur_petite_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-10.02.20:969][432]LogStaticMesh: Warning: Mur_petite_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-10.02.20:985][432]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.02.20:985][432]FBXImport: Warning: Mur_petite_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-10.02.20:985][432]FBXImport: Warning: Mur_petite_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-10.02.22:847][519]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.02.22:850][519]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.02.23:480][557]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.02.23:485][557]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.02.25:076][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre
+[2024.10.01-10.02.25:076][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre
+[2024.10.01-10.02.25:077][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_53
+[2024.10.01-10.02.25:874][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre
+[2024.10.01-10.02.25:874][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre
+[2024.10.01-10.02.25:876][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_petite_fenetre.Mur_petite_fenetre as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1447636052
+[2024.10.01-10.02.30:131][947]Cmd: DELETE
+[2024.10.01-10.02.30:131][947]Cmd: ACTOR DELETE
+[2024.10.01-10.02.30:133][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.02.30:146][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.01-10.02.30:150][947]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.10.01-10.02.31:973][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.01-10.02.32:964][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.02.32:982][ 34]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1447636052 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/BV/3K0DBB3XUTRRAMNMVI9KHG.PackageMetaData in its package
+[2024.10.01-10.02.32:983][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.10.01-10.02.32:999][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.01-10.02.33:014][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.01-10.02.33:036][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.10.01-10.02.33:565][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.01-10.02.34:200][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.02.34:223][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.01-10.02.34:238][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.01-10.02.34:253][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.01-10.02.58:314][275]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_Porte.fbx)
+[2024.10.01-10.02.58:319][275]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_Porte.fbx
+[2024.10.01-10.02.58:322][275]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.03.00:406][275]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.03.00:503][275]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-10.03.00:520][275]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.03.00:680][276]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-10.03.01:848][332]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.01:853][332]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.02:386][364]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.03.02:391][364]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.03.04:455][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.04:455][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.04:456][484]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_54
+[2024.10.01-10.03.04:615][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.04:615][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.04:616][493]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_55
+[2024.10.01-10.03.05:005][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.05:005][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte
+[2024.10.01-10.03.05:006][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Mur_Porte.Mur_Porte as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1486767053
+[2024.10.01-10.03.06:873][625]Cmd: DELETE
+[2024.10.01-10.03.06:873][625]Cmd: ACTOR DELETE
+[2024.10.01-10.03.06:874][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.03.06:891][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.01-10.03.06:894][625]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.10.01-10.03.08:600][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.01-10.03.09:461][721]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.03.09:480][721]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.03.09:695][721]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1486767053 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TJ/D0JK5ALH2GUWMD883C4NFA.PackageMetaData in its package
+[2024.10.01-10.03.09:695][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.01-10.03.09:710][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.01-10.03.09:723][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.10.01-10.03.09:743][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-10.03.10:195][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.01-10.03.10:872][747]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.03.10:893][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.01-10.03.10:906][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.01-10.03.10:921][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.01-10.03.20:002][836]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Porte.fbx)
+[2024.10.01-10.03.20:007][836]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Porte.fbx
+[2024.10.01-10.03.20:011][836]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.03.21:074][836]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.03.21:163][836]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-10.03.21:163][836]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-10.03.21:168][836]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-10.03.21:181][836]LogStaticMesh: Display: Building static mesh Porte...
+[2024.10.01-10.03.21:254][836]LogStaticMesh: Built static mesh [0.07s] /Game/ButcherProject/Assets/Porte.Porte
+[2024.10.01-10.03.21:273][836]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.03.21:398][836]LogShaderCompilers: Display: ================================================
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Total job queries 3 802, among them cache hits 79 (2.08%)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Tracking 3 719 distinct input hashes that result in 2 667 distinct outputs (71.71%)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: RAM used: 68,57 MiB of 819,20 MiB budget. Usage: 8.37%
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Shaders Compiled: 3 719
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Jobs assigned 3 719, completed 3 719 (100%)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Average time worker was idle: 8.47 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Time job spent in pending queue: average 64.23 s, longest 138.58 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Job execution time: average 3.06 s, max 13.42 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Job life time (pending + execution): average 67.30 s, max 142.02
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Shader code size: average 38,169 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 160.36 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Jobs were issued in 485 batches (only local compilation was used), average 7.67 jobs/batch
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Average processing rate: 23.19 jobs/sec
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Total thread time: 1 195,581 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Total thread preprocess time: 87,493 s
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Percentage time preprocessing: 7.32%
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Effective parallelization: 7.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.81 sec, max 9.58 sec, min 1.25 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.59 sec, max 4.48 sec, min 2.68 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.34 sec, max 2.45 sec, min 0.75 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.81% of total time (compiled  134 times, average 1.05 sec, max 3.04 sec, min 0.85 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.31% of total time (compiled   96 times, average 0.66 sec, max 1.12 sec, min 0.41 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.47% of total time (compiled   96 times, average 0.56 sec, max 0.91 sec, min 0.12 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.25% of total time (compiled  128 times, average 0.40 sec, max 0.81 sec, min 0.12 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.97% of total time (compiled  128 times, average 0.37 sec, max 1.51 sec, min 0.26 sec)
+[2024.10.01-10.03.21:399][836]LogShaderCompilers: Display: ================================================
+[2024.10.01-10.03.22:654][904]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.22:658][904]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.23:348][945]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.03.23:354][945]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.03.25:522][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Porte.Porte
+[2024.10.01-10.03.25:522][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Porte.Porte
+[2024.10.01-10.03.25:522][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Porte.Porte as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_56
+[2024.10.01-10.03.25:761][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Porte.Porte
+[2024.10.01-10.03.25:761][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Porte.Porte
+[2024.10.01-10.03.25:763][ 83]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Porte.Porte as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1507523054
+[2024.10.01-10.03.26:914][149]Cmd: DELETE
+[2024.10.01-10.03.26:914][149]Cmd: ACTOR DELETE
+[2024.10.01-10.03.26:917][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.03.26:933][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.01-10.03.26:936][149]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.01-10.03.28:248][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.01-10.03.29:137][225]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.03.29:155][225]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.03.29:371][225]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1507523054 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/07/753I3KERD86T9L2AJI46RE.PackageMetaData in its package
+[2024.10.01-10.03.29:373][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.01-10.03.29:389][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.01-10.03.29:403][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.03.29:421][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.03.36:821][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.01-10.03.37:798][375]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.03.37:818][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.01-10.03.37:833][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.01-10.03.37:847][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.01-10.03.51:587][457]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx)
+[2024.10.01-10.03.51:591][457]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Mur_petite_fenetre.fbx
+[2024.10.01-10.03.51:598][457]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.03.52:553][457]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.03.52:648][457]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-10.03.52:648][457]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-10.03.52:648][457]LogFbx: Display: Triangulating static mesh Mur_porte
+[2024.10.01-10.03.52:649][457]LogFbx: Display: Triangulating static mesh Porte
+[2024.10.01-10.03.52:649][457]LogFbx: Display: Triangulating static mesh Sphere
+[2024.10.01-10.03.52:654][457]LogFbx: Display: Triangulating static mesh Sphere.001
+[2024.10.01-10.03.52:658][457]LogFbx: Display: Triangulating static mesh Mur_S.001
+[2024.10.01-10.03.52:658][457]LogFbx: Display: Triangulating static mesh Mur_L.002
+[2024.10.01-10.03.52:659][457]LogFbx: Display: Triangulating static mesh Mur_i.001
+[2024.10.01-10.03.52:659][457]LogFbx: Display: Triangulating static mesh Mur_L.003
+[2024.10.01-10.03.52:659][457]LogFbx: Display: Triangulating static mesh Mur_S.002
+[2024.10.01-10.03.52:659][457]LogFbx: Display: Triangulating static mesh Mur_i.002
+[2024.10.01-10.03.52:662][457]LogFbx: Display: Triangulating static mesh Mur_i.003
+[2024.10.01-10.03.52:665][457]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.10.01-10.03.52:677][457]LogStaticMesh: Warning: Mur_petite_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.10.01-10.03.52:677][457]LogStaticMesh: Warning: Mur_petite_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.01-10.03.52:687][457]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.03.52:687][457]FBXImport: Warning: Mur_petite_fenetre has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.10.01-10.03.52:687][457]FBXImport: Warning: Mur_petite_fenetre has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.01-10.03.54:267][532]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.54:271][532]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.03.55:133][584]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.03.55:138][584]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.04.18:937][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.01-10.04.19:623][885]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.04.19:645][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.01-10.04.19:661][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.01-10.04.19:676][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.01-10.04.20:214][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.01-10.04.20:891][916]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.04.20:912][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.01-10.04.20:928][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.01-10.04.20:943][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.01-10.04.25:791][979]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Sol.fbx)
+[2024.10.01-10.04.25:795][979]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Sol.fbx
+[2024.10.01-10.04.25:798][979]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.04.27:711][979]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.04.27:814][979]LogFbx: Display: Triangulating static mesh Sol
+[2024.10.01-10.04.27:828][979]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.04.27:993][980]LogAutomationController: Ignoring very large delta of 2.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.01-10.04.29:369][ 45]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.04.29:374][ 45]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.04.29:920][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.04.29:925][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.04.31:477][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:477][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:477][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Sol.Sol as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_57
+[2024.10.01-10.04.31:631][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:631][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:631][176]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Sol.Sol as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_58
+[2024.10.01-10.04.31:815][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:815][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Sol.Sol
+[2024.10.01-10.04.31:817][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Sol.Sol as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1573577055
+[2024.10.01-10.04.32:834][245]Cmd: DELETE
+[2024.10.01-10.04.32:834][245]Cmd: ACTOR DELETE
+[2024.10.01-10.04.32:836][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.04.32:852][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.01-10.04.32:855][245]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.10.01-10.04.34:093][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.01-10.04.34:763][316]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.04.34:782][316]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.04.34:994][316]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1573577055 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/D8/35IIETN42FLD8F6X2TMR0H.PackageMetaData in its package
+[2024.10.01-10.04.34:996][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.01-10.04.35:009][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.01-10.04.35:023][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.01-10.04.35:041][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.01-10.04.37:786][348]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Toit.fbx)
+[2024.10.01-10.04.37:791][348]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Tile_Set\Toit.fbx
+[2024.10.01-10.04.37:793][348]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.01-10.04.39:003][348]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.01-10.04.39:106][348]LogFbx: Display: Triangulating static mesh Toit
+[2024.10.01-10.04.39:119][348]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.01-10.04.40:480][406]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.04.40:484][406]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.01-10.04.41:030][439]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.04.41:035][439]LogSlate: Window 'Message Log' being destroyed
+[2024.10.01-10.04.42:837][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Toit.Toit
+[2024.10.01-10.04.42:837][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Toit.Toit
+[2024.10.01-10.04.42:837][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Toit.Toit as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_59
+[2024.10.01-10.04.43:436][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Toit.Toit
+[2024.10.01-10.04.43:437][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Toit.Toit
+[2024.10.01-10.04.43:438][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Toit.Toit as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1585199056
+[2024.10.01-10.04.46:735][773]Cmd: DELETE
+[2024.10.01-10.04.46:736][773]Cmd: ACTOR DELETE
+[2024.10.01-10.04.46:737][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.01-10.04.46:753][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.01-10.04.46:756][773]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.10.01-10.04.48:005][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.01-10.04.48:756][847]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.04.48:775][847]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Material.Material
+	Asset Type: Material
+[2024.10.01-10.04.49:005][847]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_088FC35A5D8F812102_1585199056 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QG/7BZ1GK0BT8FXT4ID6RG616.PackageMetaData in its package
+[2024.10.01-10.04.49:007][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.01-10.04.49:024][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.01-10.04.49:040][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.01-10.04.49:063][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.01-10.04.49:536][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.01-10.04.50:699][874]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.01-10.04.50:717][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.01-10.04.50:733][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.01-10.04.50:747][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
