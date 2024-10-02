@@ -1509,3 +1509,38 @@ UnknownFunction []
 [2024.10.02-23.24.44:872][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 725 ms)
 [2024.10.02-23.24.44:876][758]AssetCheck: New page: Asset Save: LD_1
 [2024.10.02-23.24.44:876][758]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
+[2024.10.02-23.26.05:184][270]LogSlate: Took 0.078174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.02-23.26.18:990][834]LogStaticMesh: Display: Building static mesh Porte...
+[2024.10.02-23.26.19:009][834]LogStaticMesh: Built static mesh [0.02s] /Game/ButcherProject/Assets/Tile_Set/Porte.Porte
+[2024.10.02-23.26.19:455][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte
+[2024.10.02-23.26.19:455][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte
+[2024.10.02-23.26.19:456][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_1
+[2024.10.02-23.26.22:229][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte
+[2024.10.02-23.26.22:230][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte
+[2024.10.02-23.26.22:232][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tile_Set/Porte.Porte as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_2
+[2024.10.02-23.26.52:728][701]Cmd: TRANSACTION UNDO
+[2024.10.02-23.26.52:728][701]LogEditorTransaction: Undo Set Scale
+[2024.10.02-23.27.07:108][362]LogPhysics: Warning: Scale for /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2024.10.02-23.27.07:108][362]LogPhysics: Warning: Scale for /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2024.10.02-23.27.12:095][576]Cmd: TRANSACTION UNDO
+[2024.10.02-23.27.12:095][576]LogEditorTransaction: Undo Set Scale
+[2024.10.02-23.27.18:529][827]Cmd: TRANSACTION UNDO
+[2024.10.02-23.27.18:529][827]LogEditorTransaction: Undo Set Location
+[2024.10.02-23.28.18:193][  1]Cmd: DUPLICATE
+[2024.10.02-23.28.18:193][  1]Cmd: ACTOR DUPLICATE
+[2024.10.02-23.28.38:716][193]Cmd: ELEMENT MIRROR Y=-1
+[2024.10.02-23.28.40:727][294]Cmd: TRANSACTION UNDO
+[2024.10.02-23.28.40:728][294]LogEditorTransaction: Undo Mirroring Elements
+[2024.10.02-23.28.46:320][572]Cmd: ELEMENT MIRROR X=-1
+[2024.10.02-23.29.29:999][749]Cmd: EDIT COPY
+[2024.10.02-23.29.38:284][199]Cmd: EDIT PASTE
+[2024.10.02-23.32.31:475][178]Cmd: DUPLICATE
+[2024.10.02-23.32.31:475][178]Cmd: ACTOR DUPLICATE
+[2024.10.02-23.33.08:805][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-23.33.08:958][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.10.02-23.33.08:978][238]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/LD_1
+[2024.10.02-23.33.08:978][238]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_1192C8F75408758D5FF5EEF9270EB5AF9.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_1.umap'
+[2024.10.02-23.33.08:994][238]LogFileHelpers: Saving map 'LD_1' took 0.106
+[2024.10.02-23.33.09:019][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 939 ms)
+[2024.10.02-23.33.09:021][238]AssetCheck: New page: Asset Save: LD_1
+[2024.10.02-23.33.09:021][238]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
