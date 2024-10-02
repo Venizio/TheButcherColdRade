@@ -1300,3 +1300,393 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.02-11.04.02:016][455]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
 [2024.10.02-11.04.08:428][174]LogContentBrowser: Attempting asset rename: NewMaterial -> Trou_du_Malaise
 [2024.10.02-11.04.08:431][174]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.02-11.05.32:040][284]LogContentBrowser: Attempting asset rename: Trou_du_Malaise -> Mat_Trou_du_Malaise
+[2024.10.02-11.05.32:072][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.05.32:155][284]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Tile_Set/Mat_Trou_du_Malaise
+[2024.10.02-11.05.32:155][284]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Trou_du_Malaise982E43D1412EA8336A940499A3F09A35.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Tile_Set/Mat_Trou_du_Malaise.uasset'
+[2024.10.02-11.05.32:167][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 637 ms)
+[2024.10.02-11.05.32:178][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.10.02-11.05.32:183][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.02-11.05.32:187][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.10.02-11.05.32:188][284]AssetCheck: New page: Asset Save: Mat_Trou_du_Malaise
+[2024.10.02-11.05.32:188][284]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Tile_Set/Mat_Trou_du_Malaise.Mat_Trou_du_Malaise
+[2024.10.02-11.05.53:695][433]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.02-11.05.53:712][433]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.02-11.05.53:726][434]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.02-11.05.59:016][ 31]LogContentBrowser: Attempting asset rename: NewFolder -> Trou_du_Malaise
+[2024.10.02-11.05.59:016][ 31]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.02-11.06.06:315][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.06.06:445][772]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise
+[2024.10.02-11.06.06:445][772]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_du_malaiseF475A4A34A900C523F0BF78C0D08A76A.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.uasset'
+[2024.10.02-11.06.06:457][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 779 ms)
+[2024.10.02-11.06.06:466][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.02-11.06.06:471][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.02-11.06.06:474][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.02-11.06.06:524][772]AssetCheck: New page: Asset Save: Trou_du_malaise
+[2024.10.02-11.06.06:524][772]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.Trou_du_malaise
+[2024.10.02-11.06.12:048][333]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.02-11.06.12:086][333]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.02-11.06.12:100][334]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.02-11.06.17:536][954]LogContentBrowser: Attempting asset rename: NewFolder -> Trou_du_Malaise
+[2024.10.02-11.06.17:537][954]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.02-11.06.26:447][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.06.26:552][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Roughness
+[2024.10.02-11.06.26:552][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_RoughnessA04649A14EB307F156D65F9C4192FE3E.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Roughness.uasset'
+[2024.10.02-11.06.26:555][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise
+[2024.10.02-11.06.26:555][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Trou_du_Malaise061B488B4E9AC393663CEB9A6C91E4C8.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise.uasset'
+[2024.10.02-11.06.26:593][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Base_color
+[2024.10.02-11.06.26:594][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_Base_colorF0EF2770442E54369A9ADCA1516377A5.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Base_color.uasset'
+[2024.10.02-11.06.26:614][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Height
+[2024.10.02-11.06.26:614][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_HeightFAE2A9114803213315E93ABC41B3EB40.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Height.uasset'
+[2024.10.02-11.06.26:619][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Metallic
+[2024.10.02-11.06.26:619][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_Metallic190948D5418683EE41788B9D41FD4F93.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Metallic.uasset'
+[2024.10.02-11.06.26:642][815]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Normal
+[2024.10.02-11.06.26:643][815]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_Normal578CF2B546C6522BC82F98B45FA7A0BD.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Normal.uasset'
+[2024.10.02-11.06.26:656][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 988 ms)
+[2024.10.02-11.06.26:672][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.02-11.06.26:678][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.02-11.06.26:683][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.10.02-11.06.26:718][815]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Roughness.Trou_Roughness
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise.Mat_Trou_du_Malaise
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Base_color.Trou_Base_color
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Height.Trou_Height
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Metallic.Trou_Metallic
+[2024.10.02-11.06.26:718][815]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Trou_Normal.Trou_Normal
+[2024.10.02-11.06.29:940][124]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise.Mat_Trou_du_Malaise
+[2024.10.02-11.06.29:969][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-11.06.29:969][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-11.06.30:262][124]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.06.30:262][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.02-11.06.30:262][124]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.06.30:282][124]LogSlate: Took 0.006123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.02-11.06.30:287][124]LogViewport: Scene viewport resized to 312x355, mode Windowed.
+[2024.10.02-11.06.30:359][125]LogShaderCompilers: Display: ================================================
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: Total job queries 20, among them cache hits 4 (20.00%)
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 14 distinct outputs (87.50%)
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: RAM used: 274,21 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.02-11.06.30:360][125]LogShaderCompilers: Display: ================================================
+[2024.10.02-11.06.30:412][126]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.02-11.06.30:412][126]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.02-11.06.30:412][126]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.02-11.06.30:413][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.02-11.06.30:413][126]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.06.39:160][657]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.06.39:160][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.02-11.06.39:160][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.39:160][657]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.06.39:433][668]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.02-11.06.39:433][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.02-11.06.39:433][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.39:433][668]MaterialEditorStats: Shader Count: 1
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.39:624][677]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.06.48:191][255]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.06.48:192][255]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.02-11.06.48:192][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.48:192][255]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.06.48:514][272]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.02-11.06.48:514][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.02-11.06.48:514][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.48:514][272]MaterialEditorStats: Shader Count: 1
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.48:712][283]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.06.56:518][792]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.06.56:518][792]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.06.56:518][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.56:518][792]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.06.56:821][807]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.02-11.06.56:821][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.06.56:821][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.56:821][807]MaterialEditorStats: Shader Count: 1
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.06.57:023][818]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.11:114][786]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.11:114][786]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.11:114][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.11:114][786]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.11:468][806]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.02-11.07.11:468][806]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.11:468][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.11:468][806]MaterialEditorStats: Shader Count: 1
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.11:659][818]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.14:441][ 57]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.14:441][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.14:441][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.14:441][ 57]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.14:525][ 59]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.17:670][262]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.17:670][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.17:670][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.17:670][262]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.17:732][264]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.24:884][783]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.24:884][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.24:884][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.24:884][783]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.24:955][785]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.33:425][410]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.33:425][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.33:425][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.33:425][410]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.33:491][412]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.34:718][502]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.34:718][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.34:718][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.34:718][502]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.34:781][504]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.36:264][604]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.36:264][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.36:264][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.36:264][604]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.36:816][634]MaterialEditorStats: Shader Count: 3
+[2024.10.02-11.07.39:865][839]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.39:865][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.39:865][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.39:865][839]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.39:924][841]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.42:054][992]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.42:054][992]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.42:054][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.42:054][992]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.42:104][994]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.43:757][105]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.43:757][105]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.43:757][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.43:757][105]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: Base pass shader: 207 instructions
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.43:824][107]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.46:045][280]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.46:045][280]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.46:045][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.46:045][280]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.46:385][297]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.02-11.07.46:385][297]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.46:385][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.46:385][297]MaterialEditorStats: Shader Count: 1
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.46:543][307]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.52:472][716]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.52:472][716]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.52:472][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.52:472][716]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.52:512][718]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.54:982][876]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.54:983][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.54:983][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.54:983][876]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.55:016][878]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.07.59:370][152]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.07.59:370][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.59:370][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.59:370][152]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.07.59:410][154]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.08.02:000][315]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.08.02:000][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.08.02:000][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.08.02:000][315]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.08.02:040][317]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.08.04:090][447]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.02-11.08.04:091][447]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.08.04:091][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.08.04:091][447]MaterialEditorStats: Shader Count: 0
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.08.04:136][449]MaterialEditorStats: Shader Count: 4
+[2024.10.02-11.08.05:828][559]LogMaterialEditor: Saving and Compiling material Mat_Trou_du_Malaise
+[2024.10.02-11.08.05:930][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.02-11.08.06:477][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.02-11.08.06:496][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.08.07:302][559]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise
+[2024.10.02-11.08.07:303][559]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Trou_du_Malaise6907971547D88AFE2E62AC8AEBAD3A37.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise.uasset'
+[2024.10.02-11.08.07:314][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 817 ms (total: 1.80 sec)
+[2024.10.02-11.08.07:315][559]AssetCheck: New page: Asset Save: Mat_Trou_du_Malaise
+[2024.10.02-11.08.07:315][559]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_Trou_du_Malaise.Mat_Trou_du_Malaise
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: Texture samplers: 7/16
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.02-11.08.07:316][559]MaterialEditorStats: Shader Count: 16
+[2024.10.02-11.08.08:215][615]LogSlate: Window 'Mat_Trou_du_Malaise' being destroyed
+[2024.10.02-11.08.08:249][615]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-11.08.08:249][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-11.08.15:510][367]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.Trou_du_malaise
+[2024.10.02-11.08.15:575][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-11.08.15:575][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-11.08.16:119][367]LogViewport: Scene viewport resized to 1087x715, mode Windowed.
+[2024.10.02-11.08.17:973][486]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.02-11.08.25:138][ 80]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise) ...
+[2024.10.02-11.08.36:129][831]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise) ...
+[2024.10.02-11.08.36:218][831]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise) ...
+[2024.10.02-11.08.39:818][157]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise) ...
+[2024.10.02-11.08.46:497][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.08.46:604][610]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise
+[2024.10.02-11.08.46:604][610]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_du_malaiseCD59CE524EE30EED5A666DACFCB70564.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.uasset'
+[2024.10.02-11.08.46:617][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.92 sec)
+[2024.10.02-11.08.46:619][610]AssetCheck: New page: Asset Save: Trou_du_malaise
+[2024.10.02-11.08.46:620][610]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.Trou_du_malaise
+[2024.10.02-11.08.47:123][644]LogSlate: Window 'Trou_du_malaise' being destroyed
+[2024.10.02-11.08.47:164][644]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-11.08.47:164][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-11.09.01:243][  6]LogContentBrowser: Attempting asset rename: Mat_Trou_du_Malaise -> Mat_02_Trou_du_Malaise
+[2024.10.02-11.09.01:281][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-11.09.01:375][  6]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise
+[2024.10.02-11.09.01:375][  6]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Trou_du_malaise5C34EF5F421E03F080D1A997FDF7E1B1.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.uasset'
+[2024.10.02-11.09.01:379][  6]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_02_Trou_du_Malaise
+[2024.10.02-11.09.01:379][  6]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_02_Trou_du_MalaiseF223C04E472323CDC9687BBA67C0F77C.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_02_Trou_du_Malaise.uasset'
+[2024.10.02-11.09.01:393][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.03 sec)
+[2024.10.02-11.09.01:404][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.02-11.09.01:413][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.02-11.09.01:416][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.10.02-11.09.01:418][  6]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.02-11.09.01:418][  6]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Trou_du_Malaise/Trou_du_malaise.Trou_du_malaise
+[2024.10.02-11.09.01:419][  6]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Trou_du_Malaise/Mat_02_Trou_du_Malaise.Mat_02_Trou_du_Malaise
+[2024.10.02-11.10.02:239][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Stomach.fbx)
+[2024.10.02-11.10.02:258][214]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Stomach.fbx
+[2024.10.02-11.10.02:265][214]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.02-11.10.03:940][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.02-11.10.04:090][214]LogFbx: Display: Triangulating static mesh Estomat
+[2024.10.02-11.10.04:149][214]LogStaticMesh: Display: Building static mesh Stomach...
+[2024.10.02-11.10.04:263][214]LogStaticMesh: Built static mesh [0.11s] /Game/ButcherProject/Assets/Props/Stomach.Stomach
+[2024.10.02-11.10.04:288][214]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.02-11.10.04:780][214]LogAutomationController: Ignoring very large delta of 2.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: ================================================
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Total job queries 202, among them cache hits 134 (66.34%)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 37 distinct outputs (54.41%)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: RAM used: 1,41 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Shaders Compiled: 50
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Average time worker was idle: 16.91 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.97 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.90 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 1.39
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Shader code size: average 37,665 KiB, min 31,809 KiB, max 62,992 KiB
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.41 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Average processing rate: 7.80 jobs/sec
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Total thread time: 15,079 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Total thread preprocess time: 1,79 s
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Percentage time preprocessing: 11.87%
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Effective parallelization: 2.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   13 times, average 0.34 sec, max 0.41 sec, min 0.29 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.33 sec, max 0.38 sec, min 0.24 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.72% of total time (compiled   13 times, average 0.34 sec, max 0.41 sec, min 0.29 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.86% of total time (compiled   13 times, average 0.33 sec, max 0.38 sec, min 0.24 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.51% of total time (compiled    6 times, average 0.31 sec, max 0.34 sec, min 0.29 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.15% of total time (compiled    6 times, average 0.15 sec, max 0.16 sec, min 0.14 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 2.32% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.10.02-11.10.04:845][216]LogShaderCompilers: Display: ================================================
+[2024.10.02-11.10.06:045][298]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.02-11.10.06:053][298]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.02-11.10.06:642][353]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-11.10.06:654][353]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-11.10.08:684][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.02-11.10.09:656][549]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.02-11.10.09:667][549]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Props/Flesh_001.Flesh_001
+	Asset Type: Material
+[2024.10.02-11.10.09:777][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.02-11.10.09:782][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.02-11.10.09:787][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
