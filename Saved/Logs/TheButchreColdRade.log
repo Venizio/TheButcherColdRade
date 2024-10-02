@@ -1690,3 +1690,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.02-11.10.09:777][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.10.02-11.10.09:782][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2024.10.02-11.10.09:787][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.10.02-11.11.03:110][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.10.02-11.11.03:111][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.007
+[2024.10.02-11.11.03:112][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Props/Stomach] ([1] browsable assets)...
+[2024.10.02-11.11.03:146][877]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/Props/Stomach.Stomach]
+[2024.10.02-11.11.03:146][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Props/Stomach]
+[2024.10.02-11.11.03:152][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Props/Stomach_Auto1
+[2024.10.02-11.11.03:152][877]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Stomach_Auto102E88CAD40630D73369BBF816BBBE9CA.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Props/Stomach_Auto1.uasset'
+[2024.10.02-11.11.03:153][877]LogFileHelpers: Auto-saving content packages took 0.042
