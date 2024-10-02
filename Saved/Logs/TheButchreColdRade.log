@@ -30380,3 +30380,812 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.10.02-08.56.08:302][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2024.10.02-08.56.08:355][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_57
 [2024.10.02-08.56.11:748][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.02-08.58.38:101][249]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.02-08.58.38:407][249]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21052
+[2024.10.02-08.58.38:742][250]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8756f09d-15fc-40b2-b725-f37317b7bf62}, Name=Casque (2- WH-1000XM4)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=60.36
+[2024.10.02-08.58.38:742][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.02-08.58.38:743][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.02-08.58.40:217][255]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2024.10.02-08.58.40:407][255]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21052
+[2024.10.02-08.58.45:408][256]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.02-09.13.33:513][256]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-886485ms], ThreadID=21052
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 0 (Too old connection (920 seconds idle), disconnect it)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 2 (Closing connection)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: 000006FD08AFC800: libcurl info message cache 5 (Closing connection)
+[2024.10.02-09.13.35:568][257]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73616C11-4886-5853-605F-60B44FFFED76%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=f63579764d237fe548289289fa3e1956%7C3c2237093e004fb19d166c3889af2cdd%7C96450df7-ed38-4bb0-8f69-ae4877f01bd0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.02-09.13.36:238][259]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{a6d5bb16-de41-40b0-83c6-032a5078ec37}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=895539.94
+[2024.10.02-09.13.36:239][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.02-09.13.36:240][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.02-09.13.36:570][260]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21052
+[2024.10.02-09.13.37:574][263]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{a6d5bb16-de41-40b0-83c6-032a5078ec37}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=839.17
+[2024.10.02-09.13.37:574][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.02-09.13.37:575][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.02-09.13.40:144][271]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (2- WH-1000XM4), InstanceID=1
+[2024.10.02-09.13.40:238][271]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21052
+[2024.10.02-09.13.40:574][272]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8756f09d-15fc-40b2-b725-f37317b7bf62}, Name=Casque (2- WH-1000XM4)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=110.47
+[2024.10.02-09.13.40:574][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.02-09.13.40:583][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.02-09.13.45:055][286]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2024.10.02-09.13.45:055][286]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2024.10.02-09.18.01:169][928]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.10.02-09.18.01:169][928]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.10.02-09.19.59:161][954]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.19.59:203][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.10.02-09.20.00:206][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.02-09.20.00:212][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.20.00:287][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.20.00:296][990]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.20.00:297][990]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_Cam88FED79A44787E426880F8BFD34B3F99.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.20.00:306][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 5.16 sec)
+[2024.10.02-09.20.00:309][990]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.20.00:309][990]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.20.38:202][136]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.20.38:239][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.02-09.20.38:657][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.02-09.20.38:663][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.20.38:748][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.20.38:756][153]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.20.38:757][153]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_CamDF56338643987ED5B09B96B381171B6D.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.20.38:767][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.27 sec)
+[2024.10.02-09.20.38:770][153]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.20.38:770][153]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.20.57:879][296]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.20.57:908][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.02-09.20.58:186][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.02-09.20.58:193][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.20.58:261][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.20.58:270][307]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.20.58:270][307]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_Cam3144DDC24DD71B5343EE49A1095A111C.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.20.58:279][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.35 sec)
+[2024.10.02-09.20.58:281][307]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.20.58:281][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.21.12:089][106]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.21.12:116][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.02-09.21.12:407][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.02-09.21.12:413][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.21.12:484][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.21.12:493][107]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.21.12:493][107]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_CamB70F45DD44FD7AFE5997E38E2CEA877D.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.21.12:502][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.44 sec)
+[2024.10.02-09.21.12:503][107]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.21.12:503][107]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.21.59:208][792]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.21.59:247][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.02-09.22.34:919][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.02-09.22.34:926][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.22.35:002][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.22.35:011][535]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.22.35:011][535]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_CamD6FBF517458F9BED28B2E8ABAB0265EA.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.22.35:021][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 5.54 sec)
+[2024.10.02-09.22.35:022][535]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.22.35:022][535]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.25.27:293][424]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.02-09.25.27:414][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.02-09.25.27:838][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.10.02-09.25.27:843][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.25.28:101][425]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.02-09.25.28:102][425]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/BP_FirstPersonCharacter9FB42F4E4DAA2B5130C1A4BF96778BDD.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.02-09.25.28:121][425]LogSavePackage: Moving output files for package: /Game/ButcherProject/Blueprints/Components/AC_Camera
+[2024.10.02-09.25.28:121][425]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/AC_Camera8FEB10DC4D24512605E284BEAE1F3374.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/Blueprints/Components/AC_Camera.uasset'
+[2024.10.02-09.25.28:131][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 5.83 sec)
+[2024.10.02-09.25.28:136][425]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.02-09.25.28:136][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.02-09.25.28:136][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Blueprints/Components/AC_Camera.AC_Camera
+[2024.10.02-09.25.29:304][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-09.25.29:311][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-09.25.29:311][489]PIE: New page: PIE session: IATestMaps (2 oct. 2024 à 13:25:29)
+[2024.10.02-09.25.29:311][489]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.25.29:315][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003862s)
+[2024.10.02-09.25.29:315][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.003895s)
+[2024.10.02-09.25.29:328][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.02-09.25.29:330][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-09.25.29:330][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-09.25.29:331][489]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.02-09.25.29:331][489]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2024.10.02-09.25.29:331][489]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-09.25.29:331][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-09.25.29:331][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-09.25.29:333][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-09.25.29:333][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-09.25.29:333][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-09.25.29:335][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-09.25.29:367][489]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.02-09.25.29:369][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-09.25.29:369][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-09.25.29:369][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-09.25.29:370][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.10.02-09.25.29:370][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.10.02-09.25.29:371][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.10.02-09.25.29:371][489]LogInit: FAudioDevice initialized with ID 37.
+[2024.10.02-09.25.29:371][489]LogAudio: Display: Audio Device (ID: 37) registered with world 'IATestMaps'.
+[2024.10.02-09.25.29:371][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.10.02-09.25.29:372][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.10.02-09.25.29:374][489]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.02-09.25.29:375][489]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 60) at 2024.10.02-11.25.29
+[2024.10.02-09.25.29:377][489]LogWorld: Bringing up level for play took: 0.002251
+[2024.10.02-09.25.29:379][489]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.10.02-09.25.29:381][489]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_5
+[2024.10.02-09.25.29:381][489]LogBlueprintUserMessages: [BP_QuestsManager_C_1] : binded
+[2024.10.02-09.25.29:381][489]PIE: Server logged in
+[2024.10.02-09.25.29:383][489]PIE: Play in editor total start time 0,071 seconds.
+[2024.10.02-09.25.40:037][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.25.40:037][122]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.25.40:038][122]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.25.40:038][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.25.40:041][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-09.25.40:046][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.25.40:059][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-09.25.40:059][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.10.02-09.25.40:059][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.10.02-09.25.40:061][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.10.02-09.25.40:064][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.25.40:067][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.02-09.25.40:121][124]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.10.02-09.26.34:639][309]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.02-09.26.34:739][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.02-09.26.35:177][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.02-09.26.35:182][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.26.35:370][310]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.02-09.26.35:370][310]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/BP_FirstPersonCharacter5EE39104419C635B4671B38C1E50D90C.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.02-09.26.35:382][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 6.02 sec)
+[2024.10.02-09.26.35:385][310]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.02-09.26.35:385][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.02-09.26.36:358][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-09.26.36:364][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-09.26.36:364][362]PIE: New page: PIE session: IATestMaps (2 oct. 2024 à 13:26:36)
+[2024.10.02-09.26.36:364][362]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.26.36:368][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003868s)
+[2024.10.02-09.26.36:368][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.003902s)
+[2024.10.02-09.26.36:382][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.02-09.26.36:384][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-09.26.36:384][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-09.26.36:385][362]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.02-09.26.36:385][362]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2024.10.02-09.26.36:385][362]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-09.26.36:385][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-09.26.36:385][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-09.26.36:386][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-09.26.36:386][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-09.26.36:386][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-09.26.36:388][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-09.26.36:420][362]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.02-09.26.36:420][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-09.26.36:420][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-09.26.36:420][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-09.26.36:421][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.10.02-09.26.36:421][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.10.02-09.26.36:422][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.10.02-09.26.36:422][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.10.02-09.26.36:422][362]LogInit: FAudioDevice initialized with ID 38.
+[2024.10.02-09.26.36:422][362]LogAudio: Display: Audio Device (ID: 38) registered with world 'IATestMaps'.
+[2024.10.02-09.26.36:422][362]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.10.02-09.26.36:425][362]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.02-09.26.36:426][362]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 60) at 2024.10.02-11.26.36
+[2024.10.02-09.26.36:426][362]LogWorld: Bringing up level for play took: 0.002188
+[2024.10.02-09.26.36:430][362]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.10.02-09.26.36:432][362]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_3
+[2024.10.02-09.26.36:432][362]LogBlueprintUserMessages: [BP_QuestsManager_C_1] : binded
+[2024.10.02-09.26.36:433][362]PIE: Server logged in
+[2024.10.02-09.26.36:434][362]PIE: Play in editor total start time 0,069 seconds.
+[2024.10.02-09.26.49:001][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.26.49:002][110]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.26.49:002][110]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.26.49:002][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.26.49:006][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-09.26.49:010][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.26.49:021][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-09.26.49:021][110]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.10.02-09.26.49:021][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.10.02-09.26.49:023][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.10.02-09.26.49:028][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.26.49:031][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.02-09.26.49:087][112]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.10.02-09.27.38:837][  1]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.27.38:885][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.02-09.27.39:437][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.02-09.27.39:446][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.27.39:516][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.27.39:527][ 18]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.27.39:527][ 18]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_CamCFDC8F1849F1D2D13F71C28F8A5A193E.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.27.39:536][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.12 sec)
+[2024.10.02-09.27.39:539][ 18]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.27.39:539][ 18]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.27.42:393][185]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.27.42:425][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.02-09.27.42:821][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.02-09.27.42:828][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.27.42:919][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.27.42:940][202]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.27.42:941][202]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_Cam6835DA1F48254ADB9A8B34BA11C1A736.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.27.42:951][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 6.24 sec)
+[2024.10.02-09.27.42:953][202]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.27.42:953][202]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.27.44:127][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-09.27.44:134][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-09.27.44:134][264]PIE: New page: PIE session: IATestMaps (2 oct. 2024 à 13:27:44)
+[2024.10.02-09.27.44:134][264]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.27.44:138][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004195s)
+[2024.10.02-09.27.44:138][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.004227s)
+[2024.10.02-09.27.44:150][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.02-09.27.44:153][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-09.27.44:153][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-09.27.44:153][264]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.02-09.27.44:154][264]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2024.10.02-09.27.44:154][264]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-09.27.44:154][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-09.27.44:154][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-09.27.44:154][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-09.27.44:154][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-09.27.44:154][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-09.27.44:157][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-09.27.44:189][264]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.02-09.27.44:189][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-09.27.44:189][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-09.27.44:189][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-09.27.44:190][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.10.02-09.27.44:190][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.10.02-09.27.44:191][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.10.02-09.27.44:191][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.10.02-09.27.44:191][264]LogInit: FAudioDevice initialized with ID 39.
+[2024.10.02-09.27.44:191][264]LogAudio: Display: Audio Device (ID: 39) registered with world 'IATestMaps'.
+[2024.10.02-09.27.44:191][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.10.02-09.27.44:194][264]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.02-09.27.44:195][264]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 60) at 2024.10.02-11.27.44
+[2024.10.02-09.27.44:196][264]LogWorld: Bringing up level for play took: 0.002189
+[2024.10.02-09.27.44:198][264]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.10.02-09.27.44:201][264]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_5
+[2024.10.02-09.27.44:201][264]LogBlueprintUserMessages: [BP_QuestsManager_C_1] : binded
+[2024.10.02-09.27.44:201][264]PIE: Server logged in
+[2024.10.02-09.27.44:202][264]PIE: Play in editor total start time 0,068 seconds.
+[2024.10.02-09.27.53:177][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.27.53:178][796]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.27.53:178][796]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.27.53:178][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.27.53:182][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-09.27.53:186][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.27.53:197][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.27.53:198][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.10.02-09.27.53:198][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.10.02-09.27.53:199][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.10.02-09.27.53:206][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.02-09.27.53:233][797]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.10.02-09.28.09:552][749]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.28.09:582][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.02-09.28.10:706][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-09.28.10:714][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-09.28.10:714][802]PIE: New page: PIE session: IATestMaps (2 oct. 2024 à 13:28:10)
+[2024.10.02-09.28.10:714][802]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.28.10:717][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003673s)
+[2024.10.02-09.28.10:717][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.003707s)
+[2024.10.02-09.28.10:731][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.02-09.28.10:735][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-09.28.10:735][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-09.28.10:736][802]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.02-09.28.10:736][802]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.10.02-09.28.10:736][802]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-09.28.10:736][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-09.28.10:736][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-09.28.10:737][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-09.28.10:737][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-09.28.10:737][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-09.28.10:739][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-09.28.10:772][802]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.02-09.28.10:772][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-09.28.10:772][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-09.28.10:772][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-09.28.10:772][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.10.02-09.28.10:772][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.10.02-09.28.10:774][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.10.02-09.28.10:774][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.10.02-09.28.10:774][802]LogInit: FAudioDevice initialized with ID 40.
+[2024.10.02-09.28.10:774][802]LogAudio: Display: Audio Device (ID: 40) registered with world 'IATestMaps'.
+[2024.10.02-09.28.10:774][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.10.02-09.28.10:777][802]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.02-09.28.10:778][802]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 60) at 2024.10.02-11.28.10
+[2024.10.02-09.28.10:779][802]LogWorld: Bringing up level for play took: 0.002166
+[2024.10.02-09.28.10:781][802]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.10.02-09.28.10:784][802]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_5
+[2024.10.02-09.28.10:784][802]LogBlueprintUserMessages: [BP_QuestsManager_C_1] : binded
+[2024.10.02-09.28.10:784][802]PIE: Server logged in
+[2024.10.02-09.28.10:785][802]PIE: Play in editor total start time 0,071 seconds.
+[2024.10.02-09.28.15:018][ 52]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:035][ 53]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:051][ 54]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:068][ 55]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:085][ 56]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:101][ 57]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:118][ 58]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:134][ 59]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:151][ 60]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:168][ 61]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:185][ 62]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:201][ 63]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:218][ 64]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:235][ 65]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:252][ 66]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:269][ 67]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:285][ 68]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:302][ 69]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:318][ 70]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:335][ 71]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:351][ 72]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:368][ 73]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:385][ 74]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:402][ 75]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:418][ 76]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:434][ 77]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:451][ 78]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:468][ 79]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:485][ 80]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:502][ 81]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:518][ 82]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:535][ 83]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:553][ 84]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:567][ 85]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:584][ 86]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:601][ 87]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:618][ 88]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:635][ 89]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:651][ 90]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:668][ 91]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:685][ 92]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:702][ 93]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:718][ 94]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:735][ 95]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:754][ 96]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:768][ 97]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:785][ 98]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:802][ 99]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:818][100]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:835][101]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:851][102]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:868][103]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:885][104]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:902][105]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:918][106]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:935][107]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:951][108]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:968][109]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.15:984][110]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:001][111]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:018][112]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:035][113]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:051][114]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:068][115]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:085][116]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:101][117]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:118][118]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:135][119]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:152][120]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:168][121]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:185][122]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:202][123]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:218][124]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:235][125]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:254][126]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:269][127]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:285][128]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:301][129]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:318][130]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:335][131]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:352][132]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:368][133]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:385][134]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:402][135]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:418][136]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:434][137]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:451][138]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:469][139]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:485][140]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:501][141]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:519][142]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:535][143]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:551][144]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:569][145]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:585][146]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:601][147]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:618][148]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:634][149]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:651][150]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:668][151]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:685][152]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:701][153]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:718][154]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:735][155]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:752][156]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:769][157]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:785][158]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:801][159]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:818][160]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:835][161]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:851][162]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:869][163]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:885][164]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:901][165]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:918][166]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:935][167]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:952][168]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:968][169]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.16:985][170]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:002][171]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:018][172]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:035][173]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:052][174]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:068][175]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:085][176]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:102][177]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:118][178]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:134][179]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:151][180]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:169][181]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:185][182]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:201][183]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:218][184]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:235][185]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:253][186]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:268][187]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:285][188]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:302][189]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:318][190]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:335][191]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:351][192]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:367][193]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:385][194]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:402][195]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:418][196]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:435][197]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:452][198]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:468][199]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:485][200]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:502][201]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:518][202]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:534][203]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:552][204]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:567][205]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:584][206]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:602][207]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:618][208]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:634][209]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:652][210]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:669][211]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:685][212]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:702][213]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:718][214]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:735][215]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:753][216]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:768][217]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:785][218]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:801][219]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:818][220]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:835][221]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:852][222]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:868][223]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:885][224]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:901][225]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:918][226]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:935][227]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:951][228]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:969][229]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.17:985][230]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:001][231]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:018][232]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:035][233]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:051][234]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:068][235]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:085][236]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:102][237]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:118][238]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:135][239]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:151][240]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:169][241]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:185][242]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:202][243]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:218][244]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:235][245]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:252][246]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:269][247]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:285][248]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:301][249]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:318][250]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:335][251]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:352][252]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:368][253]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:385][254]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:402][255]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:418][256]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:434][257]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:452][258]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:468][259]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:485][260]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:501][261]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:518][262]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:535][263]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:552][264]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:568][265]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:585][266]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:601][267]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:618][268]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:635][269]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:651][270]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:668][271]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:685][272]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:702][273]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:718][274]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:735][275]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:753][276]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:768][277]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:785][278]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:802][279]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:817][280]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:835][281]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:851][282]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:869][283]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:887][284]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:902][285]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:919][286]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:935][287]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:951][288]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:969][289]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.18:984][290]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:001][291]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:018][292]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:034][293]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:051][294]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:068][295]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:086][296]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:102][297]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:118][298]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:135][299]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:151][300]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:167][301]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:185][302]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:201][303]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:218][304]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:234][305]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:251][306]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:269][307]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:285][308]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:302][309]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:318][310]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:335][311]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:352][312]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:368][313]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:385][314]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:402][315]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:418][316]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:435][317]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:451][318]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:467][319]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:485][320]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:501][321]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:518][322]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:535][323]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:551][324]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:568][325]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:585][326]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:602][327]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:618][328]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:636][329]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:651][330]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:668][331]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:685][332]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:702][333]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:718][334]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:735][335]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:752][336]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:769][337]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:785][338]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:801][339]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:818][340]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:835][341]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:851][342]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:868][343]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:885][344]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:902][345]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:918][346]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:934][347]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:952][348]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:968][349]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.19:985][350]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:002][351]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:018][352]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:035][353]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:051][354]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:069][355]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:085][356]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:102][357]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:118][358]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:135][359]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:151][360]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:168][361]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:185][362]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:201][363]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:218][364]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:235][365]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:253][366]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:269][367]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:285][368]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:302][369]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:318][370]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:335][371]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:351][372]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:367][373]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:384][374]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:401][375]LogBlueprintUserMessages: [WB_Cam_C_0] Hello
+[2024.10.02-09.28.20:441][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.28.20:441][376]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.28.20:442][376]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.28.20:442][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.28.20:445][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-09.28.20:450][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.28.20:462][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-09.28.20:463][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.10.02-09.28.20:463][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.10.02-09.28.20:465][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.10.02-09.28.20:469][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.28.20:471][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.02-09.28.20:520][378]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.10.02-09.28.33:240][135]BlueprintLog: New page: Compile WB_Cam
+[2024.10.02-09.28.33:270][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.02-09.28.33:671][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.02-09.28.33:678][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-09.28.33:767][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/WB_Cam" FILE="../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset" SILENT=true
+[2024.10.02-09.28.33:778][152]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_Cam
+[2024.10.02-09.28.33:778][152]LogSavePackage: Moving '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Saved/WB_Cam820E76214E7AE68D0C837FAB92D78A4F.tmp' to '../../../../Users/Enzo/Desktop/Projet/TheButcherColdRade/Content/ButcherProject/UI/WB_Cam.uasset'
+[2024.10.02-09.28.33:788][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 6.35 sec)
+[2024.10.02-09.28.33:790][152]AssetCheck: New page: Asset Save: WB_Cam
+[2024.10.02-09.28.33:790][152]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_Cam.WB_Cam
+[2024.10.02-09.28.35:425][242]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-09.28.35:431][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-09.28.35:431][242]PIE: New page: PIE session: IATestMaps (2 oct. 2024 à 13:28:35)
+[2024.10.02-09.28.35:432][242]LogPlayLevel: Creating play world package: /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.28.35:435][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003691s)
+[2024.10.02-09.28.35:435][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Maps/GabinMaps/IATestMaps.IATestMaps to /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps (0.003725s)
+[2024.10.02-09.28.35:448][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.02-09.28.35:450][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-09.28.35:450][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-09.28.35:451][242]LogAIModule: Creating AISystem for world IATestMaps
+[2024.10.02-09.28.35:451][242]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2024.10.02-09.28.35:451][242]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-09.28.35:451][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.02-09.28.35:451][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-09.28.35:451][242]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-09.28.35:451][242]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-09.28.35:451][242]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-09.28.35:454][242]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-09.28.35:486][242]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM4)
+[2024.10.02-09.28.35:486][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-09.28.35:486][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-09.28.35:486][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-09.28.35:486][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.10.02-09.28.35:486][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.10.02-09.28.35:488][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.10.02-09.28.35:489][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.10.02-09.28.35:489][242]LogInit: FAudioDevice initialized with ID 41.
+[2024.10.02-09.28.35:489][242]LogAudio: Display: Audio Device (ID: 41) registered with world 'IATestMaps'.
+[2024.10.02-09.28.35:489][242]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.10.02-09.28.35:491][242]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.02-09.28.35:492][242]LogWorld: Bringing World /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps.IATestMaps up for play (max tick rate 60) at 2024.10.02-11.28.35
+[2024.10.02-09.28.35:493][242]LogWorld: Bringing up level for play took: 0.002140
+[2024.10.02-09.28.35:495][242]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.10.02-09.28.35:497][242]LogBlueprintUserMessages: [BP_QuestsManager_C_1] BP_Questable_C_3
+[2024.10.02-09.28.35:497][242]LogBlueprintUserMessages: [BP_QuestsManager_C_1] : binded
+[2024.10.02-09.28.35:498][242]PIE: Server logged in
+[2024.10.02-09.28.35:499][242]PIE: Play in editor total start time 0,068 seconds.
+[2024.10.02-09.29.02:705][870]LogDerivedDataCache: C:/Users/Enzo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.570 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4312 files in 5934 folders with total size 264 MiB.
+[2024.10.02-09.29.14:417][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.29.14:417][572]LogWorld: BeginTearingDown for /Game/ButcherProject/Maps/GabinMaps/UEDPIE_0_IATestMaps
+[2024.10.02-09.29.14:417][572]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.29.14:418][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.29.14:421][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-09.29.14:425][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.29.14:441][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-09.29.14:441][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.10.02-09.29.14:441][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.10.02-09.29.14:443][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.10.02-09.29.14:450][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.02-09.29.14:505][574]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.10.02-09.30.20:919][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.02-09.30.21:742][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.02-09.30.21:744][451]LogStall: Shutdown...
+[2024.10.02-09.30.21:752][451]LogStall: Shutdown complete.
+[2024.10.02-09.30.21:905][451]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.21:905][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:019][451]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.22:019][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:173][451]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.22:174][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:323][451]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.22:323][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:330][451]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.22:330][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:391][451]LogSlate: Window 'TheButchreColdRade - Unreal Editor' being destroyed
+[2024.10.02-09.30.22:862][452]Cmd: QUIT_EDITOR
+[2024.10.02-09.30.22:863][452]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.02-09.30.22:872][452]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.02-09.30.22:875][452]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.10.02-09.30.22:875][452]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.10.02-09.30.22:882][452]LogWorld: UWorld::CleanupWorld for IATestMaps, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.22:882][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-09.30.22:910][452]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.10.02-09.30.23:864][452]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.02-09.30.23:864][452]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.02-09.30.23:864][452]LogAudio: Display: Audio Device unregistered from world 'IATestMaps'.
+[2024.10.02-09.30.23:864][452]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.10.02-09.30.23:873][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.02-09.30.23:875][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.02-09.30.23:888][452]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.02-09.30.23:889][452]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.10.02-09.30.23:898][452]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.02-09.30.23:902][452]LogExit: Preparing to exit.
+[2024.10.02-09.30.23:967][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.02-09.30.23:987][452]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:988][452]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:996][452]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:998][452]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:998][452]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:998][452]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:998][452]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:999][452]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:999][452]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:999][452]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:999][452]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.23:999][452]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:000][452]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:001][452]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:002][452]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.02-09.30.24:676][452]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:679][452]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:681][452]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:684][452]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:686][452]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:688][452]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:691][452]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:692][452]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:694][452]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:695][452]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:697][452]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:698][452]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.24:702][452]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-09.30.25:121][452]LogExit: Editor shut down
+[2024.10.02-09.30.25:137][452]LogExit: Transaction tracking system shut down
+[2024.10.02-09.30.25:230][452]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
