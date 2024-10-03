@@ -1429,3 +1429,464 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.03-09.26.04:057][954]LogTexture: Display: Building textures: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal.Base_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 397.562488 MB), EncodeSpeed: Fast
 [2024.10.03-09.26.04:111][954]LogInterchangeEngine: [Success] Import Done
 [2024.10.03-09.26.04:161][954]LogInterchangeEngine: [Success] Import Done
+[2024.10.03-09.26.43:771][538]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Base_Vitrine.Mat_Base_Vitrine
+[2024.10.03-09.26.43:786][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.26.43:786][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.26.43:963][538]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.26.43:963][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.26.43:963][538]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.26.43:977][538]LogSlate: Took 0.005520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.03-09.26.43:981][538]LogViewport: Scene viewport resized to 312x355, mode Windowed.
+[2024.10.03-09.26.44:079][540]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.10.03-09.26.44:079][540]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.03-09.26.44:079][540]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.26.44:079][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.26.44:079][540]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.26.46:125][722]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.26.46:125][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.26.46:125][722]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.26.46:164][724]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.03-09.26.46:164][724]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.03-09.26.46:164][724]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.26.46:164][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.26.46:164][724]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.26.57:943][774]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.26.57:943][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.03-09.26.57:943][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.26.57:943][774]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.26.58:698][826]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.03-09.26.58:698][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.03-09.26.58:698][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.26.58:698][826]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.26.58:713][827]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.19:582][401]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.19:583][401]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.03-09.27.19:583][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.19:583][401]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.20:397][462]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.29:849][276]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.29:849][276]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.29:849][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.29:849][276]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.30:128][291]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.27.30:128][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.30:128][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.30:128][291]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.30:371][307]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.34:130][676]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.34:130][676]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.34:130][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.34:130][676]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.34:189][678]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.35:130][759]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.35:130][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.35:130][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.35:130][759]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.35:182][761]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.39:575][198]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.39:575][198]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.39:575][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.39:575][198]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.39:648][200]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.42:250][418]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.42:250][418]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.42:250][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.42:250][418]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.42:308][420]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.54:699][452]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.54:699][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.54:699][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.54:699][452]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: ================================================
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Total job queries 148, among them cache hits 104 (70.27%)
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 28 distinct outputs (63.64%)
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: RAM used: 967,57 KiB of 819,20 MiB budget. Usage: 0.12%
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Average time worker was idle: 15.36 s
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.64 s
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.75
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Shader code size: average 35,1 KiB, min 31,809 KiB, max 37,395 KiB
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.84 s
+[2024.10.03-09.27.54:721][453]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Average processing rate: 6.51 jobs/sec
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Total thread time: 3,222 s
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Total thread preprocess time: 0,422 s
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Percentage time preprocessing: 13.09%
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.34 sec, max 0.34 sec, min 0.33 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.30 sec, max 0.31 sec, min 0.28 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.14 sec, max 0.15 sec, min 0.13 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.23% of total time (compiled    3 times, average 0.34 sec, max 0.34 sec, min 0.33 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.90% of total time (compiled    3 times, average 0.30 sec, max 0.31 sec, min 0.28 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.49% of total time (compiled    3 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.38% of total time (compiled    3 times, average 0.14 sec, max 0.15 sec, min 0.13 sec)
+[2024.10.03-09.27.54:722][453]LogShaderCompilers: Display: ================================================
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.54:751][454]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.56:009][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.56:009][565]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.56:009][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.56:009][565]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.56:046][567]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.27.58:235][764]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.27.58:235][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.27.58:235][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.58:235][764]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.27.58:749][798]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.27.58:749][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.27.58:749][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.58:749][798]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.27.59:011][818]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.02:561][125]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.02:561][125]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.28.02:561][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.02:561][125]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.02:607][127]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.03:757][228]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.03:757][228]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.28.03:757][228]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.03:757][228]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.03:802][230]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.14:556][237]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.14:556][237]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.14:556][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.14:556][237]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.14:840][254]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.28.14:840][254]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.14:840][254]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.14:840][254]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.28.14:926][260]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.14:927][260]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.28.14:927][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.14:927][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.14:927][260]MaterialEditorStats: Shader Count: 3
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.15:122][280]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.19:450][643]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.19:450][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.19:450][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.19:450][643]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.19:484][645]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.03-09.28.19:485][645]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.19:485][645]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.03-09.28.19:485][645]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.19:485][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.19:485][645]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.23:062][939]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.23:062][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.23:062][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.23:062][939]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.23:101][941]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.24:805][ 80]LogMaterialEditor: Saving and Compiling material Mat_Base_Vitrine
+[2024.10.03-09.28.24:879][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.03-09.28.25:401][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.03-09.28.25:413][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.28.26:297][ 80]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Base_Vitrine
+[2024.10.03-09.28.26:297][ 80]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Base_VitrineBD45FFD8422E5794252AA097CA0D7C0B.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Base_Vitrine.uasset'
+[2024.10.03-09.28.26:307][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 893 ms (total: 1.42 sec)
+[2024.10.03-09.28.26:308][ 80]AssetCheck: New page: Asset Save: Mat_Base_Vitrine
+[2024.10.03-09.28.26:308][ 80]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Base_Vitrine.Mat_Base_Vitrine
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: MaxSampler: 276 instructions
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: Texture samplers: 8/16
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.03-09.28.26:309][ 80]MaterialEditorStats: Shader Count: 16
+[2024.10.03-09.28.27:749][194]LogSlate: Window 'Mat_Base_Vitrine' being destroyed
+[2024.10.03-09.28.27:771][194]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.28.27:771][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.28.33:139][806]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.03-09.28.33:196][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.28.33:196][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.28.33:695][806]LogViewport: Scene viewport resized to 1087x715, mode Windowed.
+[2024.10.03-09.28.41:970][497]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Glass_Vitrine.Mat_Glass_Vitrine
+[2024.10.03-09.28.41:974][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.28.41:975][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.28.42:093][497]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.42:093][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.28.42:093][497]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.42:127][497]LogViewport: Scene viewport resized to 312x355, mode Windowed.
+[2024.10.03-09.28.42:175][499]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.10.03-09.28.42:175][499]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.03-09.28.42:175][499]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.28.42:175][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.28.42:175][499]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.28.43:768][635]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.28.43:768][635]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.28.43:768][635]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.28.43:814][637]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.03-09.28.43:814][637]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.03-09.28.43:814][637]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.28.43:814][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.28.43:814][637]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.29.08:987][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.03-09.29.08:989][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.008
+[2024.10.03-09.29.08:989][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Furnitures/MODE_Vitrine] ([1] browsable assets)...
+[2024.10.03-09.29.08:996][800]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine]
+[2024.10.03-09.29.08:996][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Furnitures/MODE_Vitrine]
+[2024.10.03-09.29.09:000][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Furnitures/MODE_Vitrine_Auto1
+[2024.10.03-09.29.09:000][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_Vitrine_Auto1AA3DFDE240FF00B6042DA2BE72E786E4.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Furnitures/MODE_Vitrine_Auto1.uasset'
+[2024.10.03-09.29.09:001][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Base_color] ([1] browsable assets)...
+[2024.10.03-09.29.09:002][800]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Base_color.Base_Base_color]
+[2024.10.03-09.29.09:002][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Base_color]
+[2024.10.03-09.29.09:011][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Base_color_Auto1
+[2024.10.03-09.29.09:011][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Base_color_Auto145EC758F4F2D079E9B1A1EACAA82AEB2.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Base_color_Auto1.uasset'
+[2024.10.03-09.29.09:011][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Metallic] ([1] browsable assets)...
+[2024.10.03-09.29.09:013][800]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Metallic.Base_Metallic]
+[2024.10.03-09.29.09:013][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Metallic]
+[2024.10.03-09.29.09:016][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Metallic_Auto1
+[2024.10.03-09.29.09:016][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Metallic_Auto10E4786C0498ED5DB617079BDBB6F68A1.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Metallic_Auto1.uasset'
+[2024.10.03-09.29.09:017][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Mixed_AO] ([1] browsable assets)...
+[2024.10.03-09.29.09:019][800]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Mixed_AO.Base_Mixed_AO]
+[2024.10.03-09.29.09:019][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Mixed_AO]
+[2024.10.03-09.29.09:022][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Mixed_AO_Auto1
+[2024.10.03-09.29.09:022][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Mixed_AO_Auto194595938466C8B4DB952B3A30622A152.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Mixed_AO_Auto1.uasset'
+[2024.10.03-09.29.09:022][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal] ([1] browsable assets)...
+[2024.10.03-09.29.09:024][800]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal.Base_Normal]
+[2024.10.03-09.29.09:024][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal]
+[2024.10.03-09.29.09:048][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal_Auto1
+[2024.10.03-09.29.09:048][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Normal_Auto1D1862D064CE946FE54E0ABA277C990DC.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Normal_Auto1.uasset'
+[2024.10.03-09.29.09:049][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Roughness] ([1] browsable assets)...
+[2024.10.03-09.29.09:050][800]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Roughness.Base_Roughness]
+[2024.10.03-09.29.09:050][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Roughness]
+[2024.10.03-09.29.09:054][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Roughness_Auto1
+[2024.10.03-09.29.09:054][800]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Roughness_Auto11EFFE01D4030C3B07A40EC83E7A0E09A.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Mats_Textures/Assets/Furniture/Base_Roughness_Auto1.uasset'
+[2024.10.03-09.29.09:054][800]LogFileHelpers: Auto-saving content packages took 0.066
+[2024.10.03-09.30.27:552][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.27:552][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.27:552][ 94]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.27:596][ 96]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.03-09.30.27:597][ 96]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.03-09.30.27:597][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.30.27:597][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.27:597][ 96]MaterialEditorStats: Shader Count: 4
+[2024.10.03-09.30.43:633][709]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.43:634][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.43:634][709]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.44:166][747]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.30.44:166][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.44:166][747]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.30.44:359][765]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.30.44:359][765]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.30.44:359][765]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.44:359][765]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.30.45:936][915]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.45:936][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.45:936][915]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.46:508][955]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.30.46:508][955]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.30.46:508][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.46:508][955]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.30.47:870][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.47:870][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.47:870][ 69]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.47:906][ 71]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.30.47:906][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.30.47:906][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.47:906][ 71]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.30.51:414][424]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.51:414][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.51:414][424]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.52:114][476]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.30.52:114][476]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.30.52:114][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.52:114][476]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.30.56:096][792]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.03-09.30.56:104][792]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.30.56:104][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.56:104][792]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.30.56:139][794]LogShaderCompilers: Display: ================================================
+[2024.10.03-09.30.56:139][794]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-09.30.56:139][794]LogShaderCompilers: Display: Total job queries 267, among them cache hits 191 (71.54%)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 44 distinct outputs (61.11%)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: RAM used: 1,69 MiB of 819,20 MiB budget. Usage: 0.21%
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Average time worker was idle: 19.62 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.47 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 0.65 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.78
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Shader code size: average 43,688 KiB, min 30,363 KiB, max 70,504 KiB
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.42 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Average processing rate: 6.24 jobs/sec
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Total thread time: 11,617 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Total thread preprocess time: 1,394 s
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Percentage time preprocessing: 12.00%
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Effective parallelization: 1.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.21% of total time (compiled    9 times, average 0.33 sec, max 0.40 sec, min 0.28 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.62% of total time (compiled    6 times, average 0.32 sec, max 0.34 sec, min 0.25 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.87% of total time (compiled    5 times, average 0.30 sec, max 0.32 sec, min 0.29 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.48% of total time (compiled    4 times, average 0.30 sec, max 0.33 sec, min 0.28 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.21% of total time (compiled    5 times, average 0.14 sec, max 0.15 sec, min 0.13 sec)
+[2024.10.03-09.30.56:140][794]LogShaderCompilers: Display: ================================================
+[2024.10.03-09.30.56:624][826]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.30.56:624][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.56:624][826]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.30.56:734][834]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.30.56:734][834]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.30.56:734][834]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.30.56:734][834]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.31.04:412][478]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.03-09.31.04:418][478]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.31.04:418][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.04:418][478]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.31.04:932][511]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.03-09.31.04:932][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.04:932][511]MaterialEditorStats: Shader Count: 1
+[2024.10.03-09.31.05:032][519]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.31.05:033][519]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.31.05:033][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.05:033][519]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.31.09:660][932]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.03-09.31.09:668][932]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.03-09.31.09:668][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.09:668][932]MaterialEditorStats: Shader Count: 0
+[2024.10.03-09.31.10:227][970]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.31.10:227][970]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.31.10:227][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.10:227][970]MaterialEditorStats: Shader Count: 2
+[2024.10.03-09.31.12:220][140]LogMaterialEditor: Saving and Compiling material Mat_Glass_Vitrine
+[2024.10.03-09.31.12:259][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.10.03-09.31.12:743][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.03-09.31.12:755][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.31.14:059][140]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Glass_Vitrine
+[2024.10.03-09.31.14:060][140]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Glass_VitrineB6434AFD4A3AD2B1E82F16B0250E7F39.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Glass_Vitrine.uasset'
+[2024.10.03-09.31.14:067][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.31 sec (total: 2.73 sec)
+[2024.10.03-09.31.14:068][140]AssetCheck: New page: Asset Save: Mat_Glass_Vitrine
+[2024.10.03-09.31.14:068][140]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Mat_Glass_Vitrine.Mat_Glass_Vitrine
+[2024.10.03-09.31.14:071][140]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.10.03-09.31.14:071][140]MaterialEditorStats: Base pass vertex shader: 282 instructions
+[2024.10.03-09.31.14:071][140]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.03-09.31.14:071][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.03-09.31.14:071][140]MaterialEditorStats: Shader Count: 20
+[2024.10.03-09.31.17:329][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.31.17:392][398]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine
+[2024.10.03-09.31.17:392][398]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_Vitrine87115536418CDBA92D846DB1F0ED79DC.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/MODE_Vitrine.uasset'
+[2024.10.03-09.31.17:400][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.80 sec)
+[2024.10.03-09.31.17:401][398]AssetCheck: New page: Asset Save: MODE_Vitrine
+[2024.10.03-09.31.17:401][398]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.03-09.31.18:708][502]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.31.18:708][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.20:302][637]LogSlate: Window 'MODE_Vitrine' being destroyed
+[2024.10.03-09.31.20:340][637]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.31.20:340][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.38:888][886]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-09.31.38:898][886]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-09.31.38:907][887]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-09.31.41:009][140]LogContentBrowser: Attempting asset rename: NewFolder -> Vitrine
+[2024.10.03-09.31.41:010][140]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-09.31.45:129][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.31.45:211][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine
+[2024.10.03-09.31.45:211][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/MODE_VitrineD91BD6E344D9D14F3F349EBF3EDB6909.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/MODE_Vitrine.uasset'
+[2024.10.03-09.31.45:213][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Glass_Vitrine
+[2024.10.03-09.31.45:213][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Glass_Vitrine8932A8924020C9CCF951C9BDC4605D67.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Glass_Vitrine.uasset'
+[2024.10.03-09.31.45:291][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Base_color
+[2024.10.03-09.31.45:291][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Base_color9912D7B249C209B8C1D53EA332A532E9.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Base_color.uasset'
+[2024.10.03-09.31.45:313][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Metallic
+[2024.10.03-09.31.45:313][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_MetallicE3DC146D4DB01CEBFA98C4A87483C5F1.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Metallic.uasset'
+[2024.10.03-09.31.45:339][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Mixed_AO
+[2024.10.03-09.31.45:340][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Mixed_AO26218BCF444A463A36C3FB81E4811E7E.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Mixed_AO.uasset'
+[2024.10.03-09.31.45:458][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Normal
+[2024.10.03-09.31.45:458][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Normal54B966714FE018CD0F393AA5931DDDD2.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Normal.uasset'
+[2024.10.03-09.31.45:481][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Roughness
+[2024.10.03-09.31.45:481][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Base_Roughness16A366054A9464CD396B0BB87CA90027.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Roughness.uasset'
+[2024.10.03-09.31.45:485][600]LogSavePackage: Moving output files for package: /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Base_Vitrine
+[2024.10.03-09.31.45:485][600]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_Base_Vitrine37AC34D6405B27D109C95A8FCC255368.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Base_Vitrine.uasset'
+[2024.10.03-09.31.45:495][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 366 ms (total: 3.17 sec)
+[2024.10.03-09.31.45:517][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.03-09.31.45:528][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.03-09.31.45:535][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.10.03-09.31.45:568][600]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Glass_Vitrine.Mat_Glass_Vitrine
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Base_color.Base_Base_color
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Metallic.Base_Metallic
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Mixed_AO.Base_Mixed_AO
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Normal.Base_Normal
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Base_Roughness.Base_Roughness
+[2024.10.03-09.31.45:568][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Mats_Textures/Assets/Furniture/Vitrine/Mat_Base_Vitrine.Mat_Base_Vitrine
