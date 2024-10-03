@@ -1379,3 +1379,657 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.03-09.53.44:901][488]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8f69ed50-b939-4d7d-a4b5-e443dec6f295}, Name=Casque (AirPods Pro)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.30
 [2024.10.03-09.53.44:901][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.10.03-09.53.44:903][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.03-10.00.36:491][723]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2024.10.03-10.00.36:625][723]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23476
+[2024.10.03-10.00.36:961][724]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{87c0b012-a11c-44ac-84a8-eaba40620bae}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=179.35
+[2024.10.03-10.00.36:961][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.03-10.00.36:962][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.03-10.00.53:342][768]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.03-11.32.48:650][768]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23476
+[2024.10.03-11.32.48:678][769]LogAutomationController: Ignoring very large delta of 5519.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.32.49:389][771]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{87c0b012-a11c-44ac-84a8-eaba40620bae}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=710.55
+[2024.10.03-11.32.49:390][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.03-11.32.49:394][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.03-11.38.40:648][947]LogViewport: Scene viewport resized to 1523x763, mode Windowed.
+[2024.10.03-11.38.40:666][948]LogViewport: Scene viewport resized to 1523x756, mode Windowed.
+[2024.10.03-11.38.40:683][949]LogViewport: Scene viewport resized to 1523x741, mode Windowed.
+[2024.10.03-11.38.40:703][950]LogViewport: Scene viewport resized to 1523x719, mode Windowed.
+[2024.10.03-11.38.40:750][951]LogViewport: Scene viewport resized to 1523x635, mode Windowed.
+[2024.10.03-11.38.40:769][952]LogViewport: Scene viewport resized to 1523x609, mode Windowed.
+[2024.10.03-11.38.40:790][953]LogViewport: Scene viewport resized to 1523x585, mode Windowed.
+[2024.10.03-11.38.40:811][954]LogViewport: Scene viewport resized to 1523x567, mode Windowed.
+[2024.10.03-11.38.40:831][955]LogViewport: Scene viewport resized to 1523x559, mode Windowed.
+[2024.10.03-11.38.40:853][956]LogViewport: Scene viewport resized to 1523x545, mode Windowed.
+[2024.10.03-11.38.40:873][957]LogViewport: Scene viewport resized to 1523x529, mode Windowed.
+[2024.10.03-11.38.40:893][958]LogViewport: Scene viewport resized to 1523x511, mode Windowed.
+[2024.10.03-11.38.40:914][959]LogViewport: Scene viewport resized to 1523x495, mode Windowed.
+[2024.10.03-11.38.40:936][960]LogViewport: Scene viewport resized to 1523x479, mode Windowed.
+[2024.10.03-11.38.40:957][961]LogViewport: Scene viewport resized to 1523x465, mode Windowed.
+[2024.10.03-11.38.40:978][962]LogViewport: Scene viewport resized to 1523x446, mode Windowed.
+[2024.10.03-11.38.40:996][963]LogViewport: Scene viewport resized to 1523x433, mode Windowed.
+[2024.10.03-11.38.41:018][964]LogViewport: Scene viewport resized to 1523x424, mode Windowed.
+[2024.10.03-11.38.41:037][965]LogViewport: Scene viewport resized to 1523x418, mode Windowed.
+[2024.10.03-11.38.41:057][966]LogViewport: Scene viewport resized to 1523x411, mode Windowed.
+[2024.10.03-11.38.41:075][967]LogViewport: Scene viewport resized to 1523x406, mode Windowed.
+[2024.10.03-11.38.41:096][968]LogViewport: Scene viewport resized to 1523x402, mode Windowed.
+[2024.10.03-11.38.41:113][969]LogViewport: Scene viewport resized to 1523x401, mode Windowed.
+[2024.10.03-11.38.41:132][970]LogViewport: Scene viewport resized to 1523x396, mode Windowed.
+[2024.10.03-11.38.41:150][971]LogViewport: Scene viewport resized to 1523x386, mode Windowed.
+[2024.10.03-11.38.41:168][972]LogViewport: Scene viewport resized to 1523x377, mode Windowed.
+[2024.10.03-11.38.41:190][973]LogViewport: Scene viewport resized to 1523x372, mode Windowed.
+[2024.10.03-11.38.41:211][974]LogViewport: Scene viewport resized to 1523x367, mode Windowed.
+[2024.10.03-11.38.41:229][975]LogViewport: Scene viewport resized to 1523x362, mode Windowed.
+[2024.10.03-11.38.41:250][976]LogViewport: Scene viewport resized to 1523x358, mode Windowed.
+[2024.10.03-11.38.41:268][977]LogViewport: Scene viewport resized to 1523x356, mode Windowed.
+[2024.10.03-11.38.41:437][987]LogViewport: Scene viewport resized to 1523x355, mode Windowed.
+[2024.10.03-11.38.41:503][991]LogViewport: Scene viewport resized to 1523x352, mode Windowed.
+[2024.10.03-11.38.41:586][996]LogViewport: Scene viewport resized to 1523x351, mode Windowed.
+[2024.10.03-11.38.41:653][  0]LogViewport: Scene viewport resized to 1523x349, mode Windowed.
+[2024.10.03-11.38.41:703][  3]LogViewport: Scene viewport resized to 1523x348, mode Windowed.
+[2024.10.03-11.38.41:720][  4]LogViewport: Scene viewport resized to 1523x347, mode Windowed.
+[2024.10.03-11.38.41:743][  5]LogViewport: Scene viewport resized to 1523x345, mode Windowed.
+[2024.10.03-11.38.41:761][  6]LogViewport: Scene viewport resized to 1523x344, mode Windowed.
+[2024.10.03-11.38.41:794][  8]LogViewport: Scene viewport resized to 1523x343, mode Windowed.
+[2024.10.03-11.38.41:827][ 10]LogViewport: Scene viewport resized to 1523x340, mode Windowed.
+[2024.10.03-11.38.41:845][ 11]LogViewport: Scene viewport resized to 1523x336, mode Windowed.
+[2024.10.03-11.38.41:860][ 12]LogViewport: Scene viewport resized to 1523x334, mode Windowed.
+[2024.10.03-11.38.41:895][ 14]LogViewport: Scene viewport resized to 1523x333, mode Windowed.
+[2024.10.03-11.38.55:666][835]LogSlate: Took 0.010327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.03-11.39.38:177][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Seau_texturer.fbx)
+[2024.10.03-11.39.38:203][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Seau_texturer.fbx
+[2024.10.03-11.39.38:215][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.16:813][542]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.40.17:030][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.17:041][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:088][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.17:088][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.17:109][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:190][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.17:190][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.17:193][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:324][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.17:334][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:363][542]LogFbx: Display: Triangulating static mesh MOD_Seau
+[2024.10.03-11.40.17:431][542]LogStaticMesh: Display: Building static mesh Seau_texturer...
+[2024.10.03-11.40.17:535][542]LogStaticMesh: Built static mesh [0.11s] /Game/ButcherProject/Assets/Tools/Seau_texturer.Seau_texturer
+[2024.10.03-11.40.17:561][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.17:693][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Scie-A-Os_texturer.fbx)
+[2024.10.03-11.40.17:700][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Scie-A-Os_texturer.fbx
+[2024.10.03-11.40.17:707][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.17:829][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.17:833][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:853][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.17:854][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.17:856][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:888][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.17:888][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.17:890][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:900][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.17:926][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.17:928][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.17:936][542]LogFbx: Display: Triangulating static mesh MOD_Scie-A-Os
+[2024.10.03-11.40.17:968][542]LogStaticMesh: Display: Building static mesh Scie-A-Os_texturer...
+[2024.10.03-11.40.18:056][542]LogStaticMesh: Built static mesh [0.09s] /Game/ButcherProject/Assets/Tools/Scie-A-Os_texturer.Scie-A-Os_texturer
+[2024.10.03-11.40.18:069][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.18:082][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Scie_texturer.fbx)
+[2024.10.03-11.40.18:087][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Scie_texturer.fbx
+[2024.10.03-11.40.18:094][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.18:256][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.18:268][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.18:331][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.18:331][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.18:360][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.18:431][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.18:431][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.18:434][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.18:454][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.18:559][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.18:572][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.18:584][542]LogFbx: Display: Triangulating static mesh MOD_Scie
+[2024.10.03-11.40.18:646][542]LogStaticMesh: Display: Building static mesh Scie_texturer...
+[2024.10.03-11.40.18:748][542]LogStaticMesh: Built static mesh [0.10s] /Game/ButcherProject/Assets/Tools/Scie_texturer.Scie_texturer
+[2024.10.03-11.40.18:764][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.18:780][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\MeatGrinder_texturer.fbx)
+[2024.10.03-11.40.18:785][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\MeatGrinder_texturer.fbx
+[2024.10.03-11.40.18:792][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.18:951][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.18:960][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:027][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.19:028][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.19:050][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:141][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.19:141][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.19:145][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:167][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.19:246][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.19:257][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:266][542]LogFbx: Display: Triangulating static mesh MOD_MeatGrinder
+[2024.10.03-11.40.19:349][542]LogStaticMesh: Display: Building static mesh MeatGrinder_texturer...
+[2024.10.03-11.40.19:446][542]LogStaticMesh: Built static mesh [0.10s] /Game/ButcherProject/Assets/Tools/MeatGrinder_texturer.MeatGrinder_texturer
+[2024.10.03-11.40.19:463][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.19:586][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Hache_texturer.fbx)
+[2024.10.03-11.40.19:591][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Hache_texturer.fbx
+[2024.10.03-11.40.19:596][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.19:733][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.19:742][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:801][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.19:801][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.19:808][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:889][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.19:890][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.19:892][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.19:910][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.19:990][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.20:000][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:010][542]LogFbx: Display: Triangulating static mesh MOD_Hache
+[2024.10.03-11.40.20:030][542]LogStaticMesh: Display: Building static mesh Hache_texturer...
+[2024.10.03-11.40.20:121][542]LogStaticMesh: Built static mesh [0.09s] /Game/ButcherProject/Assets/Tools/Hache_texturer.Hache_texturer
+[2024.10.03-11.40.20:135][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.20:152][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Crochet_texturer.fbx)
+[2024.10.03-11.40.20:156][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Crochet_texturer.fbx
+[2024.10.03-11.40.20:163][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.20:307][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.20:316][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:360][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.20:361][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.20:370][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:442][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.20:442][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.20:445][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:463][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.20:541][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.20:550][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:565][542]LogFbx: Display: Triangulating static mesh MOD_Crochet
+[2024.10.03-11.40.20:597][542]LogStaticMesh: Display: Building static mesh Crochet_texturer...
+[2024.10.03-11.40.20:677][542]LogStaticMesh: Built static mesh [0.08s] /Game/ButcherProject/Assets/Tools/Crochet_texturer.Crochet_texturer
+[2024.10.03-11.40.20:690][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.20:701][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\couperet_texturer.fbx)
+[2024.10.03-11.40.20:707][542]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\couperet_texturer.fbx
+[2024.10.03-11.40.20:713][542]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.40.20:855][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.20:865][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:913][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.20:913][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.20:918][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.20:991][542]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.40.20:991][542]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.40.20:994][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.21:011][542]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.40.21:091][542]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.40.21:101][542]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.40.21:113][542]LogFbx: Display: Triangulating static mesh MOD_Couperet
+[2024.10.03-11.40.21:139][542]LogStaticMesh: Display: Building static mesh couperet_texturer...
+[2024.10.03-11.40.21:228][542]LogStaticMesh: Built static mesh [0.09s] /Game/ButcherProject/Assets/Tools/couperet_texturer.couperet_texturer
+[2024.10.03-11.40.21:241][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.40.21:298][543]LogAutomationController: Ignoring very large delta of 43.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Total job queries 3 664, among them cache hits 9 (0.25%)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Tracking 3 648 distinct input hashes that result in 2 623 distinct outputs (71.90%)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: RAM used: 67,16 MiB of 819,20 MiB budget. Usage: 8.20%
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Shaders Compiled: 3 648
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Jobs assigned 3 651, completed 3 648 (99.92%)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Average time worker was idle: 85.38 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Time job spent in pending queue: average 59.88 s, longest 129.35 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Job execution time: average 3.03 s, max 11.96 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Job life time (pending + execution): average 62.96 s, max 134.30
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Shader code size: average 38,289 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 147.84 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Jobs were issued in 405 batches (only local compilation was used), average 9.01 jobs/batch
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Average processing rate: 24.68 jobs/sec
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Total thread time: 1 104,132 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Total thread preprocess time: 74,284 s
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Percentage time preprocessing: 6.73%
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Effective parallelization: 7.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.15 sec, max 5.15 sec, min 5.15 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.75 sec, max 6.92 sec, min 1.15 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.48 sec, max 4.04 sec, min 2.27 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.34% of total time (compiled  134 times, average 1.02 sec, max 1.30 sec, min 0.84 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.60% of total time (compiled   96 times, average 0.64 sec, max 1.03 sec, min 0.41 sec)
+[2024.10.03-11.40.21:917][554]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.53% of total time (compiled   96 times, average 0.52 sec, max 0.78 sec, min 0.14 sec)
+[2024.10.03-11.40.21:918][554]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.30% of total time (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.40.21:918][554]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.11% of total time (compiled  128 times, average 0.35 sec, max 0.63 sec, min 0.12 sec)
+[2024.10.03-11.40.21:918][554]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.40.40:695][660]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Scie_texturer.Scie_texturer
+[2024.10.03-11.40.40:913][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.40.40:913][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.40.41:642][660]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.41.11:285][399]LogSlate: Window 'Scie_texturer' being destroyed
+[2024.10.03-11.41.11:291][399]LogSlate: Window 'Scie_texturer' being destroyed
+[2024.10.03-11.41.11:336][399]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.41.11:336][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.41.46:669][504]LogViewport: Scene viewport resized to 1523x331, mode Windowed.
+[2024.10.03-11.41.46:703][506]LogViewport: Scene viewport resized to 1523x330, mode Windowed.
+[2024.10.03-11.41.46:721][507]LogViewport: Scene viewport resized to 1523x324, mode Windowed.
+[2024.10.03-11.41.46:740][508]LogViewport: Scene viewport resized to 1523x314, mode Windowed.
+[2024.10.03-11.41.46:760][509]LogViewport: Scene viewport resized to 1523x301, mode Windowed.
+[2024.10.03-11.41.46:780][510]LogViewport: Scene viewport resized to 1523x285, mode Windowed.
+[2024.10.03-11.41.46:800][511]LogViewport: Scene viewport resized to 1523x268, mode Windowed.
+[2024.10.03-11.41.46:820][512]LogViewport: Scene viewport resized to 1523x252, mode Windowed.
+[2024.10.03-11.41.46:838][513]LogViewport: Scene viewport resized to 1523x241, mode Windowed.
+[2024.10.03-11.41.46:863][514]LogViewport: Scene viewport resized to 1523x231, mode Windowed.
+[2024.10.03-11.41.46:882][515]LogViewport: Scene viewport resized to 1523x223, mode Windowed.
+[2024.10.03-11.41.46:904][516]LogViewport: Scene viewport resized to 1523x212, mode Windowed.
+[2024.10.03-11.41.46:923][517]LogViewport: Scene viewport resized to 1523x200, mode Windowed.
+[2024.10.03-11.41.46:942][518]LogViewport: Scene viewport resized to 1523x189, mode Windowed.
+[2024.10.03-11.41.46:960][519]LogViewport: Scene viewport resized to 1523x178, mode Windowed.
+[2024.10.03-11.41.46:980][520]LogViewport: Scene viewport resized to 1523x169, mode Windowed.
+[2024.10.03-11.41.46:999][521]LogViewport: Scene viewport resized to 1523x160, mode Windowed.
+[2024.10.03-11.41.47:021][522]LogViewport: Scene viewport resized to 1523x150, mode Windowed.
+[2024.10.03-11.41.47:040][523]LogViewport: Scene viewport resized to 1523x139, mode Windowed.
+[2024.10.03-11.41.47:060][524]LogViewport: Scene viewport resized to 1523x130, mode Windowed.
+[2024.10.03-11.41.47:080][525]LogViewport: Scene viewport resized to 1523x121, mode Windowed.
+[2024.10.03-11.41.47:097][526]LogViewport: Scene viewport resized to 1523x116, mode Windowed.
+[2024.10.03-11.41.47:118][527]LogViewport: Scene viewport resized to 1523x112, mode Windowed.
+[2024.10.03-11.41.47:137][528]LogViewport: Scene viewport resized to 1523x108, mode Windowed.
+[2024.10.03-11.41.47:157][529]LogViewport: Scene viewport resized to 1523x103, mode Windowed.
+[2024.10.03-11.41.47:177][530]LogViewport: Scene viewport resized to 1523x100, mode Windowed.
+[2024.10.03-11.41.49:168][646]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/couperet_texturer.couperet_texturer
+[2024.10.03-11.41.49:244][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.41.49:245][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.41.49:714][646]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.41.55:937][ 15]LogSlate: Window 'couperet_texturer' being destroyed
+[2024.10.03-11.41.55:942][ 15]LogSlate: Window 'couperet_texturer' being destroyed
+[2024.10.03-11.41.55:970][ 15]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.41.55:970][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.41.57:770][119]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Crochet_texturer.Crochet_texturer
+[2024.10.03-11.41.57:845][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.41.57:845][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.41.58:320][119]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.42.02:202][349]LogSlate: Window 'Crochet_texturer' being destroyed
+[2024.10.03-11.42.02:207][349]LogSlate: Window 'Crochet_texturer' being destroyed
+[2024.10.03-11.42.02:234][349]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.42.02:234][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.42.04:473][479]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Hache_texturer.Hache_texturer
+[2024.10.03-11.42.04:542][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.42.04:542][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.42.05:036][479]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.42.08:958][709]LogSlate: Window 'Hache_texturer' being destroyed
+[2024.10.03-11.42.08:962][709]LogSlate: Window 'Hache_texturer' being destroyed
+[2024.10.03-11.42.08:990][709]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.42.08:990][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.42.15:837][116]Cmd: TRANSACTION UNDO
+[2024.10.03-11.42.15:838][116]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.03-11.42.16:101][122]Cmd: TRANSACTION UNDO
+[2024.10.03-11.42.16:101][122]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.03-11.43.26:527][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.03-11.43.27:965][280]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.03-11.43.27:973][280]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Tools/Couperet.Couperet
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/Seau_texturer.Seau_texturer
+	Asset Type: StaticMesh
+	Asset Name: /Game/ButcherProject/Assets/Tools/seau.seau
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/Scie_texturer.Scie_texturer
+	Asset Type: StaticMesh
+	Asset Name: /Game/ButcherProject/Assets/Tools/Scie-A-Os_texturer.Scie-A-Os_texturer
+	Asset Type: StaticMesh
+	Asset Name: /Game/ButcherProject/Assets/Tools/Scie-A-Os.Scie-A-Os
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/scie.scie
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/Hache.Hache
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/MeatGrinder.MeatGrinder
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Tools/Hache_texturer.Hache_texturer
+	Asset Type: StaticMesh
+[2024.10.03-11.43.28:275][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.03-11.43.28:279][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.03-11.43.28:282][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.10.03-11.43.44:428][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.10.03-11.43.45:703][232]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.03-11.43.45:719][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.03-11.43.45:725][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.10.03-11.43.45:729][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.10.03-11.43.51:231][353]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\couperet_texturer.fbx)
+[2024.10.03-11.43.51:236][353]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\couperet_texturer.fbx
+[2024.10.03-11.43.51:240][353]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.43.53:496][353]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.43.53:668][353]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.43.53:679][353]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.43.53:738][353]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.43.53:738][353]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.43.53:770][353]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.43.53:835][353]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.43.53:835][353]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.43.53:838][353]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.43.53:935][353]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.43.53:947][353]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.43.53:959][353]LogFbx: Display: Triangulating static mesh MOD_Couperet
+[2024.10.03-11.43.54:015][353]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.43.54:050][354]LogAutomationController: Ignoring very large delta of 2.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Total job queries 3 702, among them cache hits 39 (1.05%)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Tracking 3 659 distinct input hashes that result in 2 628 distinct outputs (71.82%)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: RAM used: 67,38 MiB of 819,20 MiB budget. Usage: 8.22%
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Shaders Compiled: 3 659
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Jobs assigned 3 659, completed 3 659 (100%)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Average time worker was idle: 167.60 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Time job spent in pending queue: average 59.75 s, longest 129.35 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Job execution time: average 3.02 s, max 11.96 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Job life time (pending + execution): average 62.77 s, max 134.30
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Shader code size: average 38,278 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 148.57 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Jobs were issued in 413 batches (only local compilation was used), average 8.86 jobs/batch
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Average processing rate: 24.63 jobs/sec
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Total thread time: 1 107,228 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Total thread preprocess time: 74,658 s
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Percentage time preprocessing: 6.74%
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Effective parallelization: 7.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.15 sec, max 5.15 sec, min 5.15 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.75 sec, max 6.92 sec, min 1.15 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.48 sec, max 4.04 sec, min 2.27 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.30% of total time (compiled  134 times, average 1.02 sec, max 1.30 sec, min 0.84 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.58% of total time (compiled   96 times, average 0.64 sec, max 1.03 sec, min 0.41 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.52% of total time (compiled   96 times, average 0.52 sec, max 0.78 sec, min 0.14 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.29% of total time (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.10% of total time (compiled  128 times, average 0.35 sec, max 0.63 sec, min 0.12 sec)
+[2024.10.03-11.43.54:156][355]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.43.56:394][479]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.43.56:399][479]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.44.03:421][783]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Crochet_texturer.fbx)
+[2024.10.03-11.44.03:426][783]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Crochet_texturer.fbx
+[2024.10.03-11.44.03:431][783]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.44.05:608][783]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.44.05:766][783]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.44.05:777][783]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.44.05:819][783]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.44.05:820][783]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.44.05:833][783]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.44.05:907][783]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.44.05:907][783]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.44.05:910][783]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.44.05:917][783]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DefaultMaterial_Normal_Raw
+[2024.10.03-11.44.06:006][783]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.44.06:015][783]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.44.06:029][783]LogFbx: Display: Triangulating static mesh MOD_Crochet
+[2024.10.03-11.44.06:070][783]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.44.06:148][784]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.44.10:421][ 27]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.44.10:425][ 27]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.44.43:621][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.03-11.44.43:624][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.007
+[2024.10.03-11.44.43:626][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/couperet_texturer] ([1] browsable assets)...
+[2024.10.03-11.44.43:663][996]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/Tools/couperet_texturer.couperet_texturer]
+[2024.10.03-11.44.43:663][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/couperet_texturer]
+[2024.10.03-11.44.43:672][996]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.006152 seconds
+[2024.10.03-11.44.43:681][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/couperet_texturer_Auto1
+[2024.10.03-11.44.43:681][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/couperet_texturer_Auto138BAF7B94E1D8B9874D4BCB35661797C.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/couperet_texturer_Auto1.uasset'
+[2024.10.03-11.44.43:682][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/Couperet] ([1] browsable assets)...
+[2024.10.03-11.44.44:685][996]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ButcherProject/Assets/Tools/Couperet.Couperet]
+[2024.10.03-11.44.44:685][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/Couperet]
+[2024.10.03-11.44.44:687][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/Couperet_Auto1
+[2024.10.03-11.44.44:687][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Couperet_Auto1A0BE23544DE3BBF7707DDFBFCA0D1918.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/Couperet_Auto1.uasset'
+[2024.10.03-11.44.44:688][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB] ([1] browsable assets)...
+[2024.10.03-11.44.44:690][996]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB]
+[2024.10.03-11.44.44:690][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB]
+[2024.10.03-11.44.44:708][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB_Auto1
+[2024.10.03-11.44.44:708][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/DefaultMaterial_BaseColor_sRGB_A9B19CBEF4645C19C8287E1BC4870115A.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_BaseColor_sRGB_Auto1.uasset'
+[2024.10.03-11.44.44:710][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB] ([1] browsable assets)...
+[2024.10.03-11.44.44:713][996]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB]
+[2024.10.03-11.44.44:713][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB]
+[2024.10.03-11.44.44:720][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB_Auto1
+[2024.10.03-11.44.44:720][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/DefaultMaterial_Emission_sRGB_Au54A4797E46A7220FC818768CA9021FF5.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Emission_sRGB_Auto1.uasset'
+[2024.10.03-11.44.44:721][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw] ([1] browsable assets)...
+[2024.10.03-11.44.44:723][996]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw]
+[2024.10.03-11.44.44:723][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw]
+[2024.10.03-11.44.44:730][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw_Auto1
+[2024.10.03-11.44.44:730][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/DefaultMaterial_Roughness_Raw_AuFC8B83C44D17EA61C780B4B84B182CC7.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Roughness_Raw_Auto1.uasset'
+[2024.10.03-11.44.44:731][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw] ([1] browsable assets)...
+[2024.10.03-11.44.44:733][996]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw]
+[2024.10.03-11.44.44:733][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw]
+[2024.10.03-11.44.44:756][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw_Auto1
+[2024.10.03-11.44.44:756][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/DefaultMaterial_Normal_Raw_Auto1318BFDC1414D1C67B6A24BB893EE12C9.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/DefaultMaterial_Normal_Raw_Auto1.uasset'
+[2024.10.03-11.44.44:757][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/Crochet_texturer] ([1] browsable assets)...
+[2024.10.03-11.44.44:764][996]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Assets/Tools/Crochet_texturer.Crochet_texturer]
+[2024.10.03-11.44.44:764][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/Crochet_texturer]
+[2024.10.03-11.44.44:767][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/Crochet_texturer_Auto1
+[2024.10.03-11.44.44:767][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Crochet_texturer_Auto1F659149045D866B4BBC525A97A10561F.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/Crochet_texturer_Auto1.uasset'
+[2024.10.03-11.44.44:768][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Assets/Tools/Crochet] ([1] browsable assets)...
+[2024.10.03-11.44.44:788][996]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ButcherProject/Assets/Tools/Crochet.Crochet]
+[2024.10.03-11.44.44:788][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Assets/Tools/Crochet]
+[2024.10.03-11.44.44:790][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Assets/Tools/Crochet_Auto1
+[2024.10.03-11.44.44:790][996]LogSavePackage: Moving '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Crochet_Auto1ECD74D0143D8A28D8B9948B061F54744.tmp' to '../../../../../../Users/madon/OneDrive/Documents/GitHub/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Assets/Tools/Crochet_Auto1.uasset'
+[2024.10.03-11.44.44:791][996]LogFileHelpers: Auto-saving content packages took 1.167
+[2024.10.03-11.50.46:804][365]LogDerivedDataCache: C:/Users/madon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1096 files in 1889 folders with total size 99 MiB.
+[2024.10.03-11.52.13:904][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.03-11.52.14:886][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.03-11.52.14:900][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.03-11.52.14:905][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.03-11.52.14:910][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.10.03-11.52.20:202][366]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.03-11.52.24:371][585]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.52.24:382][585]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.52.24:390][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.52.36:486][310]LogContentBrowser: Attempting asset rename: NewFolder -> Couperet
+[2024.10.03-11.52.36:487][310]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.52.40:756][562]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.52.40:767][562]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.52.40:774][563]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.52.45:615][852]LogContentBrowser: Attempting asset rename: NewFolder -> Crochet
+[2024.10.03-11.52.45:616][852]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.52.48:180][  2]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.52.48:190][  2]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.52.48:198][  3]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.52.51:539][202]LogContentBrowser: Attempting asset rename: NewFolder -> Hache
+[2024.10.03-11.52.51:540][202]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.52.55:429][431]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.52.55:438][431]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.52.55:447][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.53.02:081][829]LogContentBrowser: Attempting asset rename: NewFolder -> MeatGrinder
+[2024.10.03-11.53.02:081][829]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.53.09:388][260]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.53.09:394][260]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.53.09:405][261]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.53.13:630][513]LogContentBrowser: Attempting asset rename: NewFolder -> Scie
+[2024.10.03-11.53.13:630][513]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.53.16:300][671]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.53.16:310][671]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.53.16:317][672]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.53.22:262][ 24]LogContentBrowser: Attempting asset rename: NewFolder -> Scie_a_os
+[2024.10.03-11.53.22:262][ 24]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.53.25:772][223]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-11.53.25:780][223]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-11.53.25:790][224]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-11.53.28:031][357]LogContentBrowser: Attempting asset rename: NewFolder -> seau
+[2024.10.03-11.53.28:032][357]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-11.53.33:699][564]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\couperet_texturer.fbx)
+[2024.10.03-11.53.33:705][564]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\couperet_texturer.fbx
+[2024.10.03-11.53.33:709][564]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.53.35:697][564]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.53.35:857][564]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.53.35:866][564]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.35:911][564]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.53.35:911][564]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.53.35:935][564]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.35:990][564]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.53.35:990][564]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.53.35:993][564]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.36:078][564]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.53.36:088][564]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.36:100][564]LogFbx: Display: Triangulating static mesh MOD_Couperet
+[2024.10.03-11.53.36:141][564]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.53.36:221][565]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Total job queries 3 740, among them cache hits 65 (1.74%)
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Tracking 3 671 distinct input hashes that result in 2 636 distinct outputs (71.81%)
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: RAM used: 67,70 MiB of 819,20 MiB budget. Usage: 8.26%
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Shaders Compiled: 3 671
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Jobs assigned 3 671, completed 3 671 (100%)
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Average time worker was idle: 167.41 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Time job spent in pending queue: average 59.56 s, longest 129.35 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Job execution time: average 3.01 s, max 11.96 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Job life time (pending + execution): average 62.57 s, max 134.30
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Shader code size: average 38,305 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 149.55 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Jobs were issued in 425 batches (only local compilation was used), average 8.64 jobs/batch
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Average processing rate: 24.55 jobs/sec
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Total thread time: 1 110,9 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Total thread preprocess time: 75,218 s
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Percentage time preprocessing: 6.77%
+[2024.10.03-11.53.36:350][568]LogShaderCompilers: Display: Effective parallelization: 7.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.15 sec, max 5.15 sec, min 5.15 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.75 sec, max 6.92 sec, min 1.15 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.48 sec, max 4.04 sec, min 2.27 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.08 sec, max 2.08 sec, min 2.08 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.26% of total time (compiled  134 times, average 1.02 sec, max 1.30 sec, min 0.84 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.57% of total time (compiled   96 times, average 0.64 sec, max 1.03 sec, min 0.41 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.50% of total time (compiled   96 times, average 0.52 sec, max 0.78 sec, min 0.14 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.27% of total time (compiled   34 times, average 1.40 sec, max 4.43 sec, min 0.54 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.09% of total time (compiled  128 times, average 0.35 sec, max 0.63 sec, min 0.12 sec)
+[2024.10.03-11.53.36:351][568]LogShaderCompilers: Display: ================================================
+[2024.10.03-11.53.37:779][643]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.53.37:783][643]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.53.38:798][703]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-11.53.38:884][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.53.38:885][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.53.39:368][703]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.53.40:620][776]LogSlate: Window 'couperet_texturer' being destroyed
+[2024.10.03-11.53.40:625][776]LogSlate: Window 'couperet_texturer' being destroyed
+[2024.10.03-11.53.40:655][776]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.53.40:655][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.53.48:688][140]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Crochet_texturer.fbx)
+[2024.10.03-11.53.48:692][140]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Crochet_texturer.fbx
+[2024.10.03-11.53.48:697][140]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.53.50:611][140]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.53.50:777][140]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.53.50:788][140]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Crochet/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.50:840][140]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.53.50:840][140]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.53.50:865][140]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Crochet/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.50:926][140]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.53.50:926][140]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.53.50:930][140]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Crochet/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.51:024][140]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.53.51:033][140]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Crochet/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.53.51:049][140]LogFbx: Display: Triangulating static mesh MOD_Crochet
+[2024.10.03-11.53.51:101][140]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.53.51:189][141]LogAutomationController: Ignoring very large delta of 2.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.53.53:898][293]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.53.53:902][293]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.53.56:827][466]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Crochet/Crochet_texturer.Crochet_texturer
+[2024.10.03-11.53.56:904][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.53.56:904][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.53.57:382][466]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.54.02:993][801]LogSlate: Window 'Crochet_texturer' being destroyed
+[2024.10.03-11.54.02:997][801]LogSlate: Window 'Crochet_texturer' being destroyed
+[2024.10.03-11.54.03:026][801]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.54.03:026][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.54.10:346][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Hache_texturer.fbx)
+[2024.10.03-11.54.10:351][105]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Hache_texturer.fbx
+[2024.10.03-11.54.10:355][105]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.54.11:423][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.54.11:583][105]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.11:593][105]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.11:632][105]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.11:632][105]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.11:647][105]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.11:718][105]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.11:718][105]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.11:722][105]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.11:819][105]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.11:828][105]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.11:841][105]LogFbx: Display: Triangulating static mesh MOD_Hache
+[2024.10.03-11.54.11:873][105]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.54.14:080][222]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.54.14:086][222]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.54.17:527][425]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Tools/Hache/Hache_texturer.Hache_texturer
+[2024.10.03-11.54.17:598][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-11.54.17:598][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-11.54.18:081][425]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.10.03-11.54.21:856][647]LogSlate: Window 'Hache_texturer' being destroyed
+[2024.10.03-11.54.21:862][647]LogSlate: Window 'Hache_texturer' being destroyed
+[2024.10.03-11.54.21:890][647]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-11.54.21:890][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-11.54.32:717][200]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\MeatGrinder_texturer.fbx)
+[2024.10.03-11.54.32:722][200]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\MeatGrinder_texturer.fbx
+[2024.10.03-11.54.32:727][200]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.54.34:376][200]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.54.34:540][200]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.34:549][200]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/MeatGrinder/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.34:597][200]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.34:597][200]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.34:622][200]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/MeatGrinder/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.34:715][200]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.34:715][200]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.34:718][200]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/MeatGrinder/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.34:820][200]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.34:831][200]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/MeatGrinder/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.34:841][200]LogFbx: Display: Triangulating static mesh MOD_MeatGrinder
+[2024.10.03-11.54.34:931][200]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.54.35:041][200]LogAutomationController: Ignoring very large delta of 2.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.54.36:245][257]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.54.36:250][257]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.54.43:898][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Scie_texturer.fbx)
+[2024.10.03-11.54.43:902][582]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Scie_texturer.fbx
+[2024.10.03-11.54.43:908][582]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.54.45:118][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.54.45:285][582]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.45:294][582]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.45:342][582]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.45:343][582]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.45:369][582]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.45:432][582]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.54.45:432][582]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.54.45:436][582]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.45:556][582]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.54.45:566][582]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.54.45:581][582]LogFbx: Display: Triangulating static mesh MOD_Scie
+[2024.10.03-11.54.45:632][582]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.54.48:092][713]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.54.48:097][713]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.55.01:650][450]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Scie-A-Os_texturer.fbx)
+[2024.10.03-11.55.01:654][450]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Scie-A-Os_texturer.fbx
+[2024.10.03-11.55.01:658][450]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.55.02:868][450]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.55.02:981][450]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.55.02:986][450]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.02:995][450]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.55.02:995][450]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.55.03:000][450]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.03:017][450]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.55.03:017][450]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.55.03:019][450]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.03:047][450]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.55.03:050][450]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.03:056][450]LogFbx: Display: Triangulating static mesh MOD_Scie-A-Os
+[2024.10.03-11.55.03:096][450]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.55.04:916][542]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.55.04:922][542]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.55.10:275][768]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\madon\Downloads\Seau_texturer.fbx)
+[2024.10.03-11.55.10:279][768]LogFbx: Loading FBX Scene from C:\Users\madon\Downloads\Seau_texturer.fbx
+[2024.10.03-11.55.10:284][768]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-11.55.11:813][768]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-11.55.11:983][768]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.55.11:992][768]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/seau/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.12:048][768]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.55.12:049][768]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.55.12:066][768]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/seau/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.12:144][768]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.10.03-11.55.12:144][768]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.10.03-11.55.12:147][768]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/seau/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.12:276][768]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.03-11.55.12:286][768]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/seau/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.03-11.55.12:302][768]LogFbx: Display: Triangulating static mesh MOD_Seau
+[2024.10.03-11.55.12:365][768]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-11.55.12:455][768]LogAutomationController: Ignoring very large delta of 2.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-11.55.15:001][908]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-11.55.15:006][908]LogSlate: Window 'Message Log' being destroyed
