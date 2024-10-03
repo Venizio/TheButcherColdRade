@@ -1509,3 +1509,125 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2024.10.03-09.08.39:899][475]LogSlate: Window 'pattes' being destroyed
 [2024.10.03-09.08.39:925][475]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2024.10.03-09.08.39:925][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.09.16:193][250]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.03-09.09.16:206][250]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.03-09.09.16:214][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.03-09.09.19:119][600]LogContentBrowser: Attempting asset rename: NewFolder -> Cadavre
+[2024.10.03-09.09.19:120][600]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.03-09.09.22:031][949]LogContentBrowser: Attempting asset rename: Cadavre -> Cadavres
+[2024.10.03-09.09.40:186][753]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Carcasse\crane_vache.fbx)
+[2024.10.03-09.09.40:190][753]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Carcasse\crane_vache.fbx
+[2024.10.03-09.09.40:195][753]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-09.09.42:349][753]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-09.09.42:450][753]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\arriere_tete_arriere_tete_BaseColor.png
+[2024.10.03-09.09.42:451][753]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\arriere_tete_arriere_tete_Emissive.png
+[2024.10.03-09.09.42:451][753]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\arriere_tete_arriere_tete_Roughness.png
+[2024.10.03-09.09.42:454][753]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\cow\source\60e9e15710fe4b5a85c384375b9f9a13\cow\textures\tornado_cow_UV_albedo.png
+[2024.10.03-09.09.42:458][753]LogFbx: Display: Triangulating static mesh crane_vache
+[2024.10.03-09.09.42:523][753]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-09.09.42:674][754]LogAutomationController: Ignoring very large delta of 2.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-09.09.43:900][857]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.03-09.09.43:905][857]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.03-09.09.44:608][940]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.09.44:611][940]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.09.48:536][368]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/crane_vache.crane_vache
+[2024.10.03-09.09.48:586][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.09.48:586][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.09.49:039][368]LogViewport: Scene viewport resized to 1087x715, mode Windowed.
+[2024.10.03-09.09.52:746][697]LogSlate: Window 'crane_vache' being destroyed
+[2024.10.03-09.09.52:750][697]LogSlate: Window 'crane_vache' being destroyed
+[2024.10.03-09.09.52:779][697]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.09.52:779][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.10.05:079][ 69]LogContentBrowser: Attempting asset rename: tornado_cow_material -> tornado_cow
+[2024.10.03-09.10.05:106][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.05:190][ 69]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/tornado_cow
+[2024.10.03-09.10.05:190][ 69]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/tornado_cow6D46FFA947C8D9E767D54293D352C332.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/tornado_cow.uasset'
+[2024.10.03-09.10.05:201][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.51 sec)
+[2024.10.03-09.10.05:212][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.03-09.10.05:219][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.03-09.10.05:223][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.10.03-09.10.05:224][ 69]AssetCheck: New page: Asset Save: tornado_cow
+[2024.10.03-09.10.05:224][ 69]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/tornado_cow.tornado_cow
+[2024.10.03-09.10.11:644][790]LogContentBrowser: Attempting asset rename: arriere_tete -> Mat_arriere_tete
+[2024.10.03-09.10.11:672][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.11:754][790]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Mat_arriere_tete
+[2024.10.03-09.10.11:754][790]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_arriere_tete3151FA124DCE127089D824962DF476DC.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_arriere_tete.uasset'
+[2024.10.03-09.10.11:761][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.60 sec)
+[2024.10.03-09.10.11:769][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.03-09.10.11:774][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.03-09.10.11:778][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.10.03-09.10.11:780][790]AssetCheck: New page: Asset Save: Mat_arriere_tete
+[2024.10.03-09.10.11:780][790]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Mat_arriere_tete.Mat_arriere_tete
+[2024.10.03-09.10.17:697][457]LogContentBrowser: Attempting asset rename: Mat_tornado_cow_material -> Mat_tornado_cow
+[2024.10.03-09.10.17:721][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.17:787][457]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow
+[2024.10.03-09.10.17:787][457]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_tornado_cow42FB8CBF44C26916B3A1BB962FD4CE64.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_tornado_cow.uasset'
+[2024.10.03-09.10.17:794][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.67 sec)
+[2024.10.03-09.10.17:802][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.03-09.10.17:807][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.03-09.10.17:811][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.10.03-09.10.17:813][457]AssetCheck: New page: Asset Save: Mat_tornado_cow
+[2024.10.03-09.10.17:813][457]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow.Mat_tornado_cow
+[2024.10.03-09.10.21:622][869]LogContentBrowser: Attempting asset rename: Mat_tornado_cow -> Mat_tornado_cow1
+[2024.10.03-09.10.21:651][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.21:717][869]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow1
+[2024.10.03-09.10.21:717][869]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_tornado_cow1192786F748BBA2830F3C1D8E674263AA.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_tornado_cow1.uasset'
+[2024.10.03-09.10.21:726][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.74 sec)
+[2024.10.03-09.10.21:734][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.03-09.10.21:739][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.03-09.10.21:743][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.10.03-09.10.21:744][869]AssetCheck: New page: Asset Save: Mat_tornado_cow1
+[2024.10.03-09.10.21:744][869]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow1.Mat_tornado_cow1
+[2024.10.03-09.10.25:894][343]LogContentBrowser: Attempting asset rename: tornado_cow -> Mat_tornado_cow
+[2024.10.03-09.10.25:923][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.25:988][343]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow
+[2024.10.03-09.10.25:988][343]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_tornado_cow265A8B62461E1EA4A039B1B3D01F67C3.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_tornado_cow.uasset'
+[2024.10.03-09.10.25:999][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.82 sec)
+[2024.10.03-09.10.26:005][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.03-09.10.26:011][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.03-09.10.26:014][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.10.03-09.10.26:017][343]AssetCheck: New page: Asset Save: Mat_tornado_cow
+[2024.10.03-09.10.26:017][343]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow.Mat_tornado_cow
+[2024.10.03-09.10.30:074][783]LogContentBrowser: Attempting asset rename: Mat_tornado_cow -> Mat_tornado_cow2
+[2024.10.03-09.10.30:099][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.10.30:159][783]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow2
+[2024.10.03-09.10.30:159][783]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/Mat_tornado_cow2045E08DD4504A36D73C255B2510455E4.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_tornado_cow2.uasset'
+[2024.10.03-09.10.30:166][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.89 sec)
+[2024.10.03-09.10.30:173][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.03-09.10.30:178][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.03-09.10.30:182][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.10.03-09.10.30:183][783]AssetCheck: New page: Asset Save: Mat_tornado_cow2
+[2024.10.03-09.10.30:183][783]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Mat_tornado_cow2.Mat_tornado_cow2
+[2024.10.03-09.10.46:898][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Steam\Downloads\Assets ButcherCold\Carcasse\carcasse_animale_1_rig.fbx)
+[2024.10.03-09.10.46:904][177]LogFbx: Loading FBX Scene from C:\Users\Steam\Downloads\Assets ButcherCold\Carcasse\carcasse_animale_1_rig.fbx
+[2024.10.03-09.10.46:911][177]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.03-09.10.49:464][177]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.03-09.10.49:479][177]LogFbx: Valid bind pose for Pose (Cube.001) - carcasse
+[2024.10.03-09.10.49:480][177]LogMaterial: Display: Material /Game/ButcherProject/Assets/Carcass/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.03-09.10.49:503][177]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_BaseColor.<UDIM>.png
+[2024.10.03-09.10.49:503][177]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_Emissive.<UDIM>.png
+[2024.10.03-09.10.49:503][177]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_Roughness.<UDIM>.png
+[2024.10.03-09.10.49:507][177]LogMaterial: Display: Material /Game/ButcherProject/Assets/Carcass/crochet.crochet needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.03-09.10.49:527][177]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\cadavre\crochet\crochet_DefaultMaterial_BaseColor.png
+[2024.10.03-09.10.49:530][177]LogFbx: Triangulating skeletal mesh carcasse
+[2024.10.03-09.10.49:587][177]LogFbx: Bones digested - 6  Depth of hierarchy - 6
+[2024.10.03-09.10.49:713][177]LogSkeletalMesh: Section 0: Material=0, 1728 triangles
+[2024.10.03-09.10.49:713][177]LogSkeletalMesh: Section 1: Material=1, 2192 triangles
+[2024.10.03-09.10.49:724][177]LogSkeletalMesh: Building Skeletal Mesh carcasse_animale_1_rig...
+[2024.10.03-09.10.49:742][177]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (carcasse_animale_1_rig) ...
+[2024.10.03-09.10.49:790][177]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/ButcherProject/Assets/Carcass/carcasse_animale_1_rig.carcasse_animale_1_rig
+[2024.10.03-09.10.49:960][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.10.49:960][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.10.49:969][177]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.10.03-09.10.49:970][177]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.10.49:970][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.10.50:052][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.10.50:052][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.10.50:063][177]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.10.50:063][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.10.50:074][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.03-09.10.50:074][177]FBXImport: Warning: The following bones are missing from the bind pose:
+Carcasse_Bas_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
