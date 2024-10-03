@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Boucher_Rig__Fight_Animation_.uasset",
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Material.uasset",
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Boucher_Rig__Fight_Animation__Skeleton.uasset",
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Boucher_Rig__Fight_Animation__PhysicsAsset.uasset",
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Boucher_Rig__Fight_Animation__Anim.uasset",
+				"C:/Users/Zhou/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Characters/Butcher/Animation/Boucher_Rig__Walk_Animation_.uasset",
 				"C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_crochet.uasset",
 				"C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_Human_body.uasset",
 				"C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Mat_Human_Head.uasset",
