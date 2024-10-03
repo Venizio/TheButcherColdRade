@@ -4450,3 +4450,1008 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.03-09.14.54:395][790]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_1BA4FEFD_Auto2
 [2024.10.03-09.14.54:396][790]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/CubeGridToolOutput_1BA4FEFD_AutoA48E9B24449D3E802421B99C7EA8A11A.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_1BA4FEFD_Auto2.uasset'
 [2024.10.03-09.14.54:397][790]LogFileHelpers: Auto-saving content packages took 0.038
+[2024.10.03-09.19.09:838][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.19.09:847][ 41]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.19.09:847][ 41]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.19.09:850][ 41]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 2 ms (total: 77 ms)
+[2024.10.03-09.19.09:850][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.19.09:850][ 41]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:19:09)
+[2024.10.03-09.19.09:850][ 41]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.19.09:852][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002638s)
+[2024.10.03-09.19.09:852][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002670s)
+[2024.10.03-09.19.09:855][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.03-09.19.09:856][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.19.09:856][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.19.09:857][ 41]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.19.09:857][ 41]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.19.09:857][ 41]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.19.09:857][ 41]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.19.09:857][ 41]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.19.09:858][ 41]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.19.09:858][ 41]LogWorldPartition: Display: WorldPartition initialize took 648 us (total: 280 ms)
+[2024.10.03-09.19.09:858][ 41]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2024.10.03-09.19.09:858][ 41]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.19.09:858][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.19.09:858][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.19.09:858][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.19.09:858][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.19.09:858][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.19.09:859][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.10.03-09.19.09:931][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.10.03-09.19.09:933][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.10.03-09.19.09:933][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.10.03-09.19.09:933][ 41]LogInit: FAudioDevice initialized with ID 29.
+[2024.10.03-09.19.09:933][ 41]LogAudio: Display: Audio Device (ID: 29) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.19.09:933][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.10.03-09.19.09:935][ 41]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.19.09:936][ 41]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.19.09
+[2024.10.03-09.19.09:936][ 41]LogWorld: Bringing up level for play took: 0.001162
+[2024.10.03-09.19.09:938][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.03-09.19.09:939][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.19.09:941][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.19.09:941][ 41]PIE: Server logged in
+[2024.10.03-09.19.09:942][ 41]PIE: Play in editor total start time 0,095 seconds.
+[2024.10.03-09.19.33:912][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.19.33:912][418]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.19.33:912][418]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.19.33:913][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.19.33:913][418]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.19.33:916][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.19.33:917][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.19.33:920][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.19.33:920][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.10.03-09.19.33:920][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.03-09.19.33:922][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.03-09.19.33:930][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.19.33:932][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.03-09.19.34:059][419]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.03-09.19.35:923][522]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.19.35:928][522]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.19.40:427][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.03-09.19.41:361][790]LogSlate: Window 'Save Content' being destroyed
+[2024.10.03-09.19.41:369][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.19.41:437][790]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_1BA4FEFD
+[2024.10.03-09.19.41:438][790]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/CubeGridToolOutput_1BA4FEFD1E4E152147B0A4992A1E2FB246AD3E35.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_1BA4FEFD.uasset'
+[2024.10.03-09.19.41:443][790]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_A78A7F02
+[2024.10.03-09.19.41:444][790]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/CubeGridToolOutput_A78A7F02D0CCE15D461808560886298C7EC76ED8.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_A78A7F02.uasset'
+[2024.10.03-09.19.41:449][790]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C
+[2024.10.03-09.19.41:449][790]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/CubeGridToolOutput_E928F82CB4D6C8D5441B8A83A697A19999501BB7.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C.uasset'
+[2024.10.03-09.19.41:453][790]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/1/23/VT6ZVV8ZGGXGW8XXDEL041
+[2024.10.03-09.19.41:453][790]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/VT6ZVV8ZGGXGW8XXDEL04149AC61ED4FC85DF84EF0A9BA6B40A72A.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/1/23/VT6ZVV8ZGGXGW8XXDEL041.uasset'
+[2024.10.03-09.19.41:462][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.07 sec)
+[2024.10.03-09.19.41:535][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.19.41:539][790]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
+[2024.10.03-09.19.41:539][790]Cmd: MAP LOAD FILE="../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.03-09.19.41:539][790]LightingResults: New page: Lighting Build
+[2024.10.03-09.19.41:540][790]LoadErrors: New page: Loading map: LD_1.umap
+[2024.10.03-09.19.41:566][790]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.19.41:576][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.19.41:577][790]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.19.41:577][790]MapCheck: New page: Map Check
+[2024.10.03-09.19.41:577][790]LightingResults: New page: Lighting Build
+[2024.10.03-09.19.41:580][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.19.41:583][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.03-09.19.41:586][790]LogWorld: UWorld::CleanupWorld for LD_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.19.41:586][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.19.41:589][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.10.03-09.19.41:593][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.03-09.19.41:596][790]LogAudio: Display: Audio Device (ID: 1) registered with world 'LD_1'.
+[2024.10.03-09.19.41:596][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.19.41:596][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.19.41:596][790]LogAIModule: Creating AISystem for world LD_1
+[2024.10.03-09.19.41:622][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.03-09.19.41:625][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.10.03-09.19.41:632][790]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.03-09.19.41:632][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2024.10.03-09.19.41:646][790]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.03-09.19.41:646][790]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_1BA4FEFD.CubeGridToolOutput_1BA4FEFD
+[2024.10.03-09.19.41:646][790]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_A78A7F02.CubeGridToolOutput_A78A7F02
+[2024.10.03-09.19.41:646][790]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C.CubeGridToolOutput_E928F82C
+[2024.10.03-09.20.05:847][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.10.03-09.20.05:925][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.20.05:926][163]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.10.03-09.20.05:926][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.20.05:926][163]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.20.06:026][163]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.20.06:026][163]LogWorldPartition: Display: WorldPartition initialize took 99 ms (total: 380 ms)
+[2024.10.03-09.20.06:027][163]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone
+[2024.10.03-09.20.06:027][163]Cmd: MAP LOAD FILE="../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_Safe_Zone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.03-09.20.06:027][163]LightingResults: New page: Lighting Build
+[2024.10.03-09.20.06:027][163]LoadErrors: New page: Loading map: LD_Safe_Zone.umap
+[2024.10.03-09.20.06:092][163]LogWorld: UWorld::CleanupWorld for LD_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.20.06:092][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.20.06:092][163]MapCheck: New page: Map Check
+[2024.10.03-09.20.06:092][163]LightingResults: New page: Lighting Build
+[2024.10.03-09.20.06:095][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.20.06:097][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.03-09.20.06:098][163]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.20.06:098][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.20.06:099][163]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.20.06:104][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.03-09.20.06:108][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.03-09.20.06:113][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.20.06:113][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.20.06:113][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.20.06:114][163]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.20.06:114][163]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.10.03-09.20.06:114][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.20.06:114][163]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.20.06:133][163]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.20.06:133][163]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 398 ms)
+[2024.10.03-09.20.06:159][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.03-09.20.06:164][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.10.03-09.20.06:171][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.03-09.20.06:171][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,2ms to complete.
+[2024.10.03-09.20.28:599][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.20.28:606][502]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.20.28:606][502]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.20.28:609][502]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 2 ms (total: 80 ms)
+[2024.10.03-09.20.28:609][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.20.28:609][502]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:20:28)
+[2024.10.03-09.20.28:609][502]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.20.28:612][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002230s)
+[2024.10.03-09.20.28:612][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002256s)
+[2024.10.03-09.20.28:615][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.03-09.20.28:617][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.20.28:617][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.20.28:618][502]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.20.28:618][502]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.20.28:618][502]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.20.28:618][502]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.20.28:618][502]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.20.28:619][502]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.20.28:619][502]LogWorldPartition: Display: WorldPartition initialize took 696 us (total: 399 ms)
+[2024.10.03-09.20.28:619][502]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2024.10.03-09.20.28:619][502]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.20.28:619][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.20.28:619][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.20.28:619][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.20.28:619][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.20.28:619][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.20.28:621][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.20.28:692][502]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.20.28:692][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.20.28:692][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.20.28:692][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.20.28:692][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.10.03-09.20.28:692][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.10.03-09.20.28:694][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.10.03-09.20.28:694][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.10.03-09.20.28:694][502]LogInit: FAudioDevice initialized with ID 30.
+[2024.10.03-09.20.28:694][502]LogAudio: Display: Audio Device (ID: 30) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.20.28:694][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.10.03-09.20.28:696][502]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.20.28:697][502]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.20.28
+[2024.10.03-09.20.28:697][502]LogWorld: Bringing up level for play took: 0.001243
+[2024.10.03-09.20.28:699][502]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.10.03-09.20.28:701][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.20.28:701][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.20.28:701][502]PIE: Server logged in
+[2024.10.03-09.20.28:702][502]PIE: Play in editor total start time 0,095 seconds.
+[2024.10.03-09.20.36:462][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.20.36:462][926]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.20.36:462][926]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.20.36:463][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.20.36:463][926]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.20.36:465][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.20.36:467][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.20.36:469][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.20.36:469][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.10.03-09.20.36:469][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.03-09.20.36:471][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.03-09.20.36:480][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.10.03-09.20.36:617][927]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.03-09.20.37:792][990]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.20.37:796][990]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.21.11:345][995]Cmd: TRANSACTION UNDO
+[2024.10.03-09.21.11:345][995]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.10.03-09.21.46:094][ 54]Cmd: TRANSACTION UNDO
+[2024.10.03-09.21.46:094][ 54]LogEditorTransaction: Undo Block Tool Change
+[2024.10.03-09.21.58:113][748]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_E928F82C...
+[2024.10.03-09.21.58:115][748]LogStaticMesh: Built static mesh [0.00s] /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C.CubeGridToolOutput_E928F82C
+[2024.10.03-09.22.30:061][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.22.30:127][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/2/MM/YN1O4MAMUDX5CDDTNXFUL3
+[2024.10.03-09.22.30:128][662]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/YN1O4MAMUDX5CDDTNXFUL3F2DC7F9F46A1B3AEE8CEE4B828A8D973.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/2/MM/YN1O4MAMUDX5CDDTNXFUL3.uasset'
+[2024.10.03-09.22.30:132][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO
+[2024.10.03-09.22.30:133][662]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/YN94M34OC8AYW9ZA8YOQDOF679B5B242D06F6A8C40FFAF9190C52B.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO.uasset'
+[2024.10.03-09.22.30:142][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.15 sec)
+[2024.10.03-09.22.30:143][662]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.03-09.22.30:143][662]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.StaticMeshActor_UAID_047C1639FE2CCE2102_1863244599
+[2024.10.03-09.22.30:143][662]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.StaticMeshActor_UAID_047C1639FE2C1F2202_1489776882
+[2024.10.03-09.22.30:834][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.22.30:842][704]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.22.30:842][704]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.22.30:845][704]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 2 ms (total: 82 ms)
+[2024.10.03-09.22.30:845][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.22.30:845][704]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:22:30)
+[2024.10.03-09.22.30:845][704]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.22.30:847][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002272s)
+[2024.10.03-09.22.30:847][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002299s)
+[2024.10.03-09.22.30:850][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.10.03-09.22.30:853][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.22.30:853][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.22.30:854][704]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.22.30:854][704]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.22.30:854][704]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.22.30:854][704]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.22.30:854][704]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.22.30:855][704]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.22.30:855][704]LogWorldPartition: Display: WorldPartition initialize took 622 us (total: 400 ms)
+[2024.10.03-09.22.30:855][704]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2024.10.03-09.22.30:855][704]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.22.30:855][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.22.30:855][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.22.30:855][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.22.30:855][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.22.30:855][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.22.30:857][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.22.30:928][704]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.22.30:928][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.22.30:928][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.22.30:928][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.22.30:928][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.10.03-09.22.30:928][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.10.03-09.22.30:930][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.10.03-09.22.30:930][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.10.03-09.22.30:930][704]LogInit: FAudioDevice initialized with ID 31.
+[2024.10.03-09.22.30:930][704]LogAudio: Display: Audio Device (ID: 31) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.22.30:930][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.10.03-09.22.30:932][704]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.22.30:934][704]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.22.30
+[2024.10.03-09.22.30:934][704]LogWorld: Bringing up level for play took: 0.001204
+[2024.10.03-09.22.30:935][704]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.10.03-09.22.30:937][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.22.30:937][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.22.30:938][704]PIE: Server logged in
+[2024.10.03-09.22.30:938][704]PIE: Play in editor total start time 0,096 seconds.
+[2024.10.03-09.22.49:062][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.22.49:062][711]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.22.49:062][711]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.22.49:062][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.22.49:062][711]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.22.49:065][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.22.49:066][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.22.49:069][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.22.49:069][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.10.03-09.22.49:069][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.03-09.22.49:071][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.03-09.22.49:079][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.22.49:081][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.03-09.22.49:242][712]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.10.03-09.22.51:882][868]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.22.51:887][868]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.24.20:079][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door
+[2024.10.03-09.24.20:082][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.24.20:082][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.24.20:088][575]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.10.03-09.24.22:073][575]LogAutomationController: Ignoring very large delta of 2.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.03-09.24.52:664][363]BlueprintLog: New page: Compile BP_Door
+[2024.10.03-09.24.52:683][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.03-09.24.53:313][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.24.53:405][396]LogSavePackage: Moving output files for package: /Game/ButcherProject/Core/Porte/BP_Door
+[2024.10.03-09.24.53:406][396]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/BP_DoorF5C0FBB7422437410F8EE5B7C43638DA.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/ButcherProject/Core/Porte/BP_Door.uasset'
+[2024.10.03-09.24.53:414][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.25 sec)
+[2024.10.03-09.24.53:415][396]AssetCheck: New page: Asset Save: BP_Door
+[2024.10.03-09.24.53:415][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door
+[2024.10.03-09.25.01:614][882]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.10.03-09.25.01:614][882]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.10.03-09.25.12:533][528]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C
+[2024.10.03-09.25.12:533][528]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C
+[2024.10.03-09.25.12:534][528]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door as actor: BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_0
+[2024.10.03-09.25.12:535][528]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door as actor: BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_0
+[2024.10.03-09.25.13:573][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C
+[2024.10.03-09.25.13:573][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C
+[2024.10.03-09.25.13:576][589]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door as actor: BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_UAID_047C1639FE2C202202_1290385061
+[2024.10.03-09.25.13:577][589]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door as actor: BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_UAID_047C1639FE2C202202_1290385061
+[2024.10.03-09.25.33:582][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.25.33:647][782]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ
+[2024.10.03-09.25.33:647][782]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/MDQ4VDJ1KPPBP3SOD6XMSZ0A3E471045210B9B15E386B2792F2EFF.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ.uasset'
+[2024.10.03-09.25.33:657][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.33 sec)
+[2024.10.03-09.25.33:657][782]AssetCheck: New page: Asset Save: BP_Door_C_UAID_047C1639FE2C202202_1290385061
+[2024.10.03-09.25.33:657][782]LogContentValidation: Display: Validating /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_UAID_047C1639FE2C202202_1290385061
+[2024.10.03-09.25.34:136][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.25.34:144][811]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.25.34:144][811]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.25.34:148][811]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 86 ms)
+[2024.10.03-09.25.34:150][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.25.34:150][811]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:25:34)
+[2024.10.03-09.25.34:150][811]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.25.34:152][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002361s)
+[2024.10.03-09.25.34:152][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002389s)
+[2024.10.03-09.25.34:161][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.03-09.25.34:161][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.25.34:163][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.25.34:163][811]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.25.34:163][811]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.25.34:163][811]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.25.34:163][811]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.25.34:163][811]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.25.34:164][811]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.25.34:164][811]LogWorldPartition: Display: WorldPartition initialize took 686 us (total: 400 ms)
+[2024.10.03-09.25.34:164][811]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2024.10.03-09.25.34:164][811]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.25.34:164][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.25.34:164][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.25.34:164][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.25.34:165][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.25.34:165][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.25.34:166][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.25.34:237][811]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.25.34:238][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.25.34:238][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.25.34:238][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.25.34:238][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.10.03-09.25.34:238][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.10.03-09.25.34:240][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.10.03-09.25.34:240][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.10.03-09.25.34:240][811]LogInit: FAudioDevice initialized with ID 32.
+[2024.10.03-09.25.34:240][811]LogAudio: Display: Audio Device (ID: 32) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.25.34:240][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.10.03-09.25.34:242][811]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.25.34:243][811]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.25.34
+[2024.10.03-09.25.34:243][811]LogWorld: Bringing up level for play took: 0.000927
+[2024.10.03-09.25.34:244][811]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.10.03-09.25.34:247][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.25.34:247][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.25.34:247][811]PIE: Server logged in
+[2024.10.03-09.25.34:248][811]PIE: Play in editor total start time 0,103 seconds.
+[2024.10.03-09.25.44:503][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.25.44:503][365]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.25.44:503][365]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.25.44:503][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.25.44:503][365]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.25.44:507][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.25.44:509][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.25.44:516][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.25.44:516][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.10.03-09.25.44:516][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.10.03-09.25.44:517][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.10.03-09.25.44:529][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.03-09.25.44:676][366]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.10.03-09.25.45:913][438]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.25.45:918][438]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.25.53:709][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.25.53:717][905]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.25.53:717][905]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.25.53:721][905]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 89 ms)
+[2024.10.03-09.25.53:721][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.25.53:721][905]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:25:53)
+[2024.10.03-09.25.53:721][905]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.25.53:724][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002330s)
+[2024.10.03-09.25.53:724][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002358s)
+[2024.10.03-09.25.53:734][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.03-09.25.53:735][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.25.53:735][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.25.53:735][905]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.25.53:736][905]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.25.53:736][905]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.25.53:736][905]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.25.53:736][905]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.25.53:736][905]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.25.53:736][905]LogWorldPartition: Display: WorldPartition initialize took 739 us (total: 401 ms)
+[2024.10.03-09.25.53:736][905]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2024.10.03-09.25.53:736][905]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.25.53:737][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.25.53:737][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.25.53:737][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.25.53:737][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.25.53:737][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.25.53:739][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.25.53:813][905]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.25.53:813][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.25.53:813][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.25.53:813][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.25.53:814][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.10.03-09.25.53:814][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.10.03-09.25.53:815][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.10.03-09.25.53:815][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.10.03-09.25.53:815][905]LogInit: FAudioDevice initialized with ID 33.
+[2024.10.03-09.25.53:815][905]LogAudio: Display: Audio Device (ID: 33) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.25.53:815][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.03-09.25.53:817][905]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.25.53:819][905]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.25.53
+[2024.10.03-09.25.53:819][905]LogWorld: Bringing up level for play took: 0.001118
+[2024.10.03-09.25.53:820][905]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.10.03-09.25.53:822][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.25.53:822][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.25.53:822][905]PIE: Server logged in
+[2024.10.03-09.25.53:823][905]PIE: Play in editor total start time 0,106 seconds.
+[2024.10.03-09.26.14:982][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.26.14:982][ 76]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.26.14:982][ 76]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.26.14:983][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.26.14:983][ 76]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.26.14:986][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.26.14:989][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.26.14:997][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.26.14:998][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.03-09.26.14:998][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.03-09.26.14:999][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.03-09.26.15:007][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.26.15:009][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.03-09.26.15:159][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.10.03-09.26.16:206][138]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.26.16:211][138]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.26.40:096][568]Cmd: TRANSACTION UNDO
+[2024.10.03-09.26.40:096][568]LogEditorTransaction: Undo Move Elements
+[2024.10.03-09.26.40:422][570]Cmd: TRANSACTION UNDO
+[2024.10.03-09.26.40:422][570]LogEditorTransaction: Undo Scale Elements
+[2024.10.03-09.26.40:845][581]Cmd: TRANSACTION UNDO
+[2024.10.03-09.26.40:845][581]LogEditorTransaction: Undo Rotate Elements
+[2024.10.03-09.26.55:609][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.26.55:617][453]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.26.55:617][453]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.26.55:621][453]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 93 ms)
+[2024.10.03-09.26.55:621][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.26.55:621][453]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:26:55)
+[2024.10.03-09.26.55:621][453]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.26.55:624][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002430s)
+[2024.10.03-09.26.55:624][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002465s)
+[2024.10.03-09.26.55:630][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.03-09.26.55:631][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.26.55:631][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.26.55:631][453]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.26.55:632][453]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.26.55:632][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.26.55:632][453]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.26.55:632][453]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.26.55:633][453]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.26.55:633][453]LogWorldPartition: Display: WorldPartition initialize took 691 us (total: 402 ms)
+[2024.10.03-09.26.55:633][453]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2024.10.03-09.26.55:633][453]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.26.55:633][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.26.55:633][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.26.55:633][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.26.55:633][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.26.55:633][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.26.55:635][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.26.55:704][453]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.26.55:705][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.26.55:705][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.26.55:705][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.26.55:706][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.10.03-09.26.55:706][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.10.03-09.26.55:707][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.10.03-09.26.55:707][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.10.03-09.26.55:707][453]LogInit: FAudioDevice initialized with ID 34.
+[2024.10.03-09.26.55:707][453]LogAudio: Display: Audio Device (ID: 34) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.26.55:707][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.10.03-09.26.55:709][453]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.26.55:710][453]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.26.55
+[2024.10.03-09.26.55:710][453]LogWorld: Bringing up level for play took: 0.000982
+[2024.10.03-09.26.55:712][453]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.10.03-09.26.55:714][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.26.55:714][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.26.55:714][453]PIE: Server logged in
+[2024.10.03-09.26.55:715][453]PIE: Play in editor total start time 0,098 seconds.
+[2024.10.03-09.27.18:924][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.27.18:924][784]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.27.18:924][784]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.27.18:924][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.27.18:924][784]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.27.18:926][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.27.18:928][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.27.18:937][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.27.18:937][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.10.03-09.27.18:938][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.10.03-09.27.18:939][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.10.03-09.27.18:948][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.27.18:950][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.03-09.27.19:060][785]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.10.03-09.27.20:176][844]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.27.20:180][844]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.27.26:549][223]LogViewport: Scene viewport resized to 1103x609, mode Windowed.
+[2024.10.03-09.27.35:420][753]LogEditorTransaction: Undo Modify Component(s)
+[2024.10.03-09.27.40:521][ 36]LogEditorTransaction: Undo Modify Component(s)
+[2024.10.03-09.28.50:197][162]BlueprintLog: New page: Compile BP_Door
+[2024.10.03-09.28.50:221][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.03-09.28.51:630][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.28.51:638][244]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.28.51:638][244]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.28.51:642][244]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 96 ms)
+[2024.10.03-09.28.51:642][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.28.51:642][244]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:28:51)
+[2024.10.03-09.28.51:642][244]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.28.51:644][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002318s)
+[2024.10.03-09.28.51:644][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002345s)
+[2024.10.03-09.28.51:655][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.10.03-09.28.51:658][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.28.51:658][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.28.51:658][244]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.28.51:658][244]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.28.51:659][244]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.28.51:659][244]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.28.51:659][244]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.28.51:659][244]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.28.51:659][244]LogWorldPartition: Display: WorldPartition initialize took 651 us (total: 402 ms)
+[2024.10.03-09.28.51:659][244]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2024.10.03-09.28.51:659][244]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.28.51:659][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.28.51:659][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.28.51:660][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.28.51:660][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.28.51:660][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.28.51:661][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.28.51:733][244]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.28.51:734][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.28.51:734][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.28.51:734][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.28.51:734][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.10.03-09.28.51:734][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.10.03-09.28.51:736][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.10.03-09.28.51:736][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.10.03-09.28.51:736][244]LogInit: FAudioDevice initialized with ID 35.
+[2024.10.03-09.28.51:736][244]LogAudio: Display: Audio Device (ID: 35) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.28.51:736][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.10.03-09.28.51:738][244]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.28.51:739][244]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.28.51
+[2024.10.03-09.28.51:739][244]LogWorld: Bringing up level for play took: 0.001246
+[2024.10.03-09.28.51:741][244]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.10.03-09.28.51:743][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.28.51:744][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.28.51:744][244]PIE: Server logged in
+[2024.10.03-09.28.51:744][244]PIE: Play in editor total start time 0,106 seconds.
+[2024.10.03-09.28.57:602][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.28.57:602][535]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.28.57:602][535]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.28.57:603][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.28.57:603][535]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.28.57:606][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.28.57:608][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.28.57:615][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.28.57:615][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.10.03-09.28.57:615][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.10.03-09.28.57:617][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.10.03-09.28.57:626][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.28.57:628][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.03-09.28.57:736][536]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.10.03-09.28.59:442][629]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.28.59:446][629]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.29.08:676][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.29.08:684][182]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.29.08:684][182]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.29.08:687][182]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 100 ms)
+[2024.10.03-09.29.08:687][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.29.08:687][182]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:29:08)
+[2024.10.03-09.29.08:688][182]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.29.08:689][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2024.10.03-09.29.08:689][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002266s)
+[2024.10.03-09.29.08:697][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.03-09.29.08:699][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.29.08:699][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.29.08:699][182]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.29.08:700][182]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.29.08:700][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.29.08:700][182]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.29.08:700][182]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.29.08:700][182]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.29.08:701][182]LogWorldPartition: Display: WorldPartition initialize took 725 us (total: 403 ms)
+[2024.10.03-09.29.08:701][182]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2024.10.03-09.29.08:701][182]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.29.08:701][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.29.08:701][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.29.08:701][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.29.08:701][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.29.08:701][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.29.08:702][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.29.08:774][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.29.08:774][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.29.08:774][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.29.08:774][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.29.08:774][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.10.03-09.29.08:774][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.10.03-09.29.08:776][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.10.03-09.29.08:776][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.10.03-09.29.08:776][182]LogInit: FAudioDevice initialized with ID 36.
+[2024.10.03-09.29.08:776][182]LogAudio: Display: Audio Device (ID: 36) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.29.08:776][182]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.10.03-09.29.08:778][182]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.29.08:780][182]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.29.08
+[2024.10.03-09.29.08:780][182]LogWorld: Bringing up level for play took: 0.001360
+[2024.10.03-09.29.08:781][182]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.10.03-09.29.08:783][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.29.08:783][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.29.08:783][182]PIE: Server logged in
+[2024.10.03-09.29.08:784][182]PIE: Play in editor total start time 0,1 seconds.
+[2024.10.03-09.29.22:942][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.29.22:942][990]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.29.22:942][990]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.29.22:942][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.29.22:942][990]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.29.22:946][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.29.22:949][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.29.22:957][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.29.22:957][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.10.03-09.29.22:957][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.10.03-09.29.22:959][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.10.03-09.29.22:966][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.29.22:968][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.03-09.29.23:102][991]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.10.03-09.29.24:737][ 81]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.29.24:742][ 81]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.29.37:364][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.29.37:374][836]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.29.37:374][836]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.29.37:377][836]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 103 ms)
+[2024.10.03-09.29.37:377][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.29.37:377][836]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:29:37)
+[2024.10.03-09.29.37:377][836]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.29.37:380][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2024.10.03-09.29.37:380][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002351s)
+[2024.10.03-09.29.37:386][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.03-09.29.37:388][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.29.37:388][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.29.37:388][836]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.29.37:389][836]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.29.37:389][836]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.29.37:389][836]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.29.37:389][836]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.29.37:389][836]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.29.37:389][836]LogWorldPartition: Display: WorldPartition initialize took 698 us (total: 404 ms)
+[2024.10.03-09.29.37:389][836]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2024.10.03-09.29.37:389][836]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.29.37:389][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.29.37:389][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.29.37:389][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.29.37:389][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.29.37:389][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.29.37:392][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.29.37:463][836]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.29.37:463][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.29.37:463][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.29.37:463][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.29.37:464][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.10.03-09.29.37:464][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.10.03-09.29.37:465][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.10.03-09.29.37:465][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.10.03-09.29.37:465][836]LogInit: FAudioDevice initialized with ID 37.
+[2024.10.03-09.29.37:465][836]LogAudio: Display: Audio Device (ID: 37) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.29.37:465][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.10.03-09.29.37:468][836]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.29.37:469][836]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.29.37
+[2024.10.03-09.29.37:469][836]LogWorld: Bringing up level for play took: 0.001034
+[2024.10.03-09.29.37:471][836]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.10.03-09.29.37:473][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.29.37:473][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.29.37:473][836]PIE: Server logged in
+[2024.10.03-09.29.37:473][836]PIE: Play in editor total start time 0,1 seconds.
+[2024.10.03-09.30.04:962][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.30.04:962][425]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.30.04:962][425]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.30.04:963][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.30.04:963][425]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.30.04:966][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.30.04:968][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.30.04:975][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.30.04:975][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.10.03-09.30.04:976][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.10.03-09.30.04:977][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.10.03-09.30.04:986][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.30.04:988][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.03-09.30.05:104][426]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.10.03-09.30.06:129][477]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.30.06:140][477]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.30.54:270][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.30.54:278][351]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.30.54:278][351]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.30.54:281][351]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 107 ms)
+[2024.10.03-09.30.54:281][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.30.54:281][351]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:30:54)
+[2024.10.03-09.30.54:281][351]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.30.54:284][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2024.10.03-09.30.54:284][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002449s)
+[2024.10.03-09.30.54:293][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.03-09.30.54:295][351]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.30.54:295][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.30.54:296][351]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.30.54:296][351]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.30.54:296][351]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.30.54:296][351]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.30.54:296][351]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.30.54:297][351]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.30.54:297][351]LogWorldPartition: Display: WorldPartition initialize took 760 us (total: 405 ms)
+[2024.10.03-09.30.54:297][351]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2024.10.03-09.30.54:297][351]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.30.54:297][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.30.54:297][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.30.54:297][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.30.54:297][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.30.54:297][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.30.54:299][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.30.54:375][351]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.30.54:376][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.30.54:376][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.30.54:376][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.30.54:376][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.10.03-09.30.54:376][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.10.03-09.30.54:378][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.10.03-09.30.54:378][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.10.03-09.30.54:378][351]LogInit: FAudioDevice initialized with ID 38.
+[2024.10.03-09.30.54:378][351]LogAudio: Display: Audio Device (ID: 38) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.30.54:378][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.10.03-09.30.54:380][351]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.30.54:382][351]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.30.54
+[2024.10.03-09.30.54:382][351]LogWorld: Bringing up level for play took: 0.001125
+[2024.10.03-09.30.54:383][351]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.10.03-09.30.54:386][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.30.54:386][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.30.54:386][351]PIE: Server logged in
+[2024.10.03-09.30.54:387][351]PIE: Play in editor total start time 0,109 seconds.
+[2024.10.03-09.31.19:652][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.31.19:652][825]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.31.19:652][825]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.31.19:653][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.19:653][825]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.31.19:656][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.31.19:658][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.19:666][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.31.19:666][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.10.03-09.31.19:666][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.10.03-09.31.19:668][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.10.03-09.31.19:676][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.31.19:678][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.03-09.31.19:794][826]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.10.03-09.31.21:625][928]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.31.21:629][928]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.31.22:767][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.31.22:775][996]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.31.22:775][996]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.31.22:778][996]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 110 ms)
+[2024.10.03-09.31.22:778][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.31.22:778][996]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:31:22)
+[2024.10.03-09.31.22:779][996]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.31.22:781][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002315s)
+[2024.10.03-09.31.22:781][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002340s)
+[2024.10.03-09.31.22:787][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.03-09.31.22:788][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.31.22:789][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.31.22:789][996]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.31.22:789][996]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.31.22:789][996]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.31.22:789][996]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.31.22:789][996]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.31.22:790][996]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.31.22:790][996]LogWorldPartition: Display: WorldPartition initialize took 766 us (total: 405 ms)
+[2024.10.03-09.31.22:790][996]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2024.10.03-09.31.22:790][996]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.31.22:790][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.31.22:790][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.31.22:791][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.31.22:791][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.31.22:791][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.31.22:793][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.31.22:863][996]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.31.22:863][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.31.22:863][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.31.22:863][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.31.22:863][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.10.03-09.31.22:863][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.10.03-09.31.22:865][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.10.03-09.31.22:865][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.10.03-09.31.22:865][996]LogInit: FAudioDevice initialized with ID 39.
+[2024.10.03-09.31.22:865][996]LogAudio: Display: Audio Device (ID: 39) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.31.22:865][996]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.10.03-09.31.22:867][996]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.31.22:868][996]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.31.22
+[2024.10.03-09.31.22:868][996]LogWorld: Bringing up level for play took: 0.001055
+[2024.10.03-09.31.22:870][996]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.10.03-09.31.22:872][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.31.22:872][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.31.22:872][996]PIE: Server logged in
+[2024.10.03-09.31.22:873][996]PIE: Play in editor total start time 0,098 seconds.
+[2024.10.03-09.31.43:302][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.31.43:302][971]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.31.43:302][971]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.31.43:303][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.43:303][971]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.31.43:306][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.31.43:308][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.31.43:316][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.31.43:316][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.10.03-09.31.43:316][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.10.03-09.31.43:318][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.10.03-09.31.43:328][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.03-09.31.43:492][972]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.10.03-09.31.44:543][ 26]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.31.44:548][ 26]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.32.59:311][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.03-09.32.59:316][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO_Auto3
+[2024.10.03-09.32.59:316][ 28]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/YN94M34OC8AYW9ZA8YOQDO_Auto36C31748B408A4A218D1C60A73D43EF54.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/Autosaves/Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO_Auto3.uasset'
+[2024.10.03-09.32.59:321][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ_Auto3
+[2024.10.03-09.32.59:321][ 28]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/MDQ4VDJ1KPPBP3SOD6XMSZ_Auto362587F42471DC731E4AC1A9CC29FDFB7.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/Autosaves/Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ_Auto3.uasset'
+[2024.10.03-09.32.59:324][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone' took 0.021
+[2024.10.03-09.32.59:324][ 28]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.10.03-09.32.59:325][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ButcherProject/Core/Porte/BP_Door] ([2] browsable assets)...
+[2024.10.03-09.32.59:334][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ButcherProject/Core/Porte/BP_Door.BP_Door]
+[2024.10.03-09.32.59:334][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Core/Porte/BP_Door]
+[2024.10.03-09.32.59:343][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Core/Porte/BP_Door_Auto3
+[2024.10.03-09.32.59:343][ 28]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/BP_Door_Auto36ACA54F043FC6C885B47C68E7D6A65AB.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Core/Porte/BP_Door_Auto3.uasset'
+[2024.10.03-09.32.59:344][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C] ([1] browsable assets)...
+[2024.10.03-09.32.59:348][ 28]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C.CubeGridToolOutput_E928F82C]
+[2024.10.03-09.32.59:348][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C]
+[2024.10.03-09.32.59:354][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C_Auto3
+[2024.10.03-09.32.59:354][ 28]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/CubeGridToolOutput_E928F82C_Auto8D7C10E34417AE1BF7F1629C55CDB34B.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/timot/CubeGridToolOutput_E928F82C_Auto3.uasset'
+[2024.10.03-09.32.59:355][ 28]LogFileHelpers: Auto-saving content packages took 0.031
+[2024.10.03-09.33.18:095][146]LogClass: Warning: Short type name "BP_Door_C_UAID_047C1639FE2C202202_1290385061" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.10.03-09.33.18:101][146]LogClass: Warning: Short type name "BP_Door_C_UAID_047C1639FE2C202202_1290385061" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.10.03-09.33.46:179][826]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.03-09.33.46:187][826]LogContentBundle: [LD_Safe_Zone(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.03-09.33.46:187][826]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' started...
+[2024.10.03-09.33.46:191][826]LogWorldPartition: Display: GenerateStreaming for 'LD_Safe_Zone' took 3 ms (total: 114 ms)
+[2024.10.03-09.33.46:191][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.03-09.33.46:191][826]PIE: New page: PIE session: LD_Safe_Zone (3 oct. 2024 à 13:33:46)
+[2024.10.03-09.33.46:191][826]LogPlayLevel: Creating play world package: /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.33.46:194][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002614s)
+[2024.10.03-09.33.46:194][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone to /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone (0.002641s)
+[2024.10.03-09.33.46:200][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.03-09.33.46:202][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-09.33.46:202][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.03-09.33.46:203][826]LogAIModule: Creating AISystem for world LD_Safe_Zone
+[2024.10.03-09.33.46:203][826]LogWorldPartition: ULevel::OnLevelLoaded(LD_Safe_Zone)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.03-09.33.46:203][826]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.03-09.33.46:203][826]LogWorldPartition: UWorldPartition::Initialize : World = LD_Safe_Zone, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.03-09.33.46:203][826]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.03-09.33.46:204][826]LogContentBundle: [LD_Safe_Zone(Standalone)] Creating new contrainer.
+[2024.10.03-09.33.46:204][826]LogWorldPartition: Display: WorldPartition initialize took 683 us (total: 406 ms)
+[2024.10.03-09.33.46:204][826]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2024.10.03-09.33.46:204][826]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.03-09.33.46:204][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.03-09.33.46:204][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.03-09.33.46:204][826]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.03-09.33.46:204][826]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.03-09.33.46:204][826]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.03-09.33.46:206][826]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.03-09.33.46:276][826]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.03-09.33.46:276][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.03-09.33.46:276][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.03-09.33.46:276][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.03-09.33.46:277][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.10.03-09.33.46:277][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.10.03-09.33.46:278][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.10.03-09.33.46:278][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.10.03-09.33.46:279][826]LogInit: FAudioDevice initialized with ID 40.
+[2024.10.03-09.33.46:279][826]LogAudio: Display: Audio Device (ID: 40) registered with world 'LD_Safe_Zone'.
+[2024.10.03-09.33.46:279][826]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.10.03-09.33.46:280][826]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.03-09.33.46:281][826]LogWorld: Bringing World /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone up for play (max tick rate 60) at 2024.10.03-11.33.46
+[2024.10.03-09.33.46:281][826]LogWorld: Bringing up level for play took: 0.001292
+[2024.10.03-09.33.46:283][826]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.10.03-09.33.46:285][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set WB Quest Graph:  EventGraph Function:  Execute Ubergraph AC Camera Blueprint:  AC_Camera
+[2024.10.03-09.33.46:285][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue". Node:  Set REF_List Ref Quest Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.10.03-09.33.46:285][826]PIE: Server logged in
+[2024.10.03-09.33.46:286][826]PIE: Play in editor total start time 0,099 seconds.
+[2024.10.03-09.34.24:041][ 89]LogScript: Warning: Accessed None trying to read property Sound2D
+	AC_PlayerSD_C /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_FirstPersonCharacter_C_0.AC_PlayerSD
+	Function /Game/ButcherProject/Blueprints/Components/AC_PlayerSD.AC_PlayerSD_C:PlayCameraSound:0163
+[2024.10.03-09.34.24:041][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Sound2D". Node:  Stop Graph:  PlayCameraSound Function:  Play Camera Sound Blueprint:  AC_PlayerSD
+[2024.10.03-09.34.39:774][ 33]LogScript: Warning: Script Msg: The widget 'WB_Cam_C_0' was already added to the screen.
+[2024.10.03-09.34.39:774][ 33]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2024.10.03-09.35.01:262][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.35.01:262][263]LogWorld: BeginTearingDown for /Game/ButcherProject/Levels/BlockOut/UEDPIE_0_LD_Safe_Zone
+[2024.10.03-09.35.01:262][263]LogWorld: UWorld::CleanupWorld for LD_Safe_Zone, bSessionEnded=true, bCleanupResources=true
+[2024.10.03-09.35.01:262][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.35.01:262][263]LogContentBundle: [LD_Safe_Zone(Standalone)] Deleting container.
+[2024.10.03-09.35.01:266][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.03-09.35.01:268][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.03-09.35.01:276][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.03-09.35.01:276][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.10.03-09.35.01:277][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.10.03-09.35.01:278][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.10.03-09.35.01:287][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.03-09.35.01:289][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.03-09.35.01:428][264]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.10.03-09.35.02:504][327]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.35.02:509][327]LogSlate: Window 'Message Log' being destroyed
+[2024.10.03-09.35.04:240][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.03-09.35.04:305][431]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO
+[2024.10.03-09.35.04:306][431]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/YN94M34OC8AYW9ZA8YOQDO02624A014282118AA4BE81A35E7BCDF7.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/9/T8/YN94M34OC8AYW9ZA8YOQDO.uasset'
+[2024.10.03-09.35.04:311][431]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ
+[2024.10.03-09.35.04:311][431]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/MDQ4VDJ1KPPBP3SOD6XMSZ6CBCF3F94F7EFD0ACA369EB3EF0201B9.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/8/R2/MDQ4VDJ1KPPBP3SOD6XMSZ.uasset'
+[2024.10.03-09.35.04:316][431]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/C/TL/LGEU8ILWDZRFBJQPI0PVKE
+[2024.10.03-09.35.04:316][431]LogSavePackage: Moving '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Saved/LGEU8ILWDZRFBJQPI0PVKEF2D7193C4DC39F69C45649AA74DD7458.tmp' to '../../../../../../Users/timot/OneDrive/Bureau/GithubUnreal/TheButcherColdRade/Content/__ExternalActors__/ButcherProject/Levels/BlockOut/LD_Safe_Zone/C/TL/LGEU8ILWDZRFBJQPI0PVKE.uasset'
+[2024.10.03-09.35.04:327][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.41 sec)
+[2024.10.03-09.35.04:329][431]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.03-09.35.04:329][431]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.StaticMeshActor_UAID_047C1639FE2C1F2202_1489776882
+[2024.10.03-09.35.04:329][431]LogContentValidation: Display: Validating /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_UAID_047C1639FE2C202202_1290385061
+[2024.10.03-09.35.04:329][431]LogContentValidation: Display: Validating /Game/ButcherProject/Core/Porte/BP_Door.BP_Door_C /Game/ButcherProject/Levels/BlockOut/LD_Safe_Zone.LD_Safe_Zone:PersistentLevel.BP_Door_C_UAID_047C1639FE2C202202_1774865062
