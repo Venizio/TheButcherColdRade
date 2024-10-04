@@ -1251,3 +1251,56 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.04-14.22.20:108][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.045883 secs
 [2024.10.04-14.22.20:292][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/' took 0.33s
 [2024.10.04-14.22.20:331][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2024.10.04-14.22.30:808][ 37]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.10.04-14.22.30:822][ 37]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.04-14.22.39:987][239]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-14.22.39:987][239]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Steam/Downloads/Assets ButcherCold/bg butcher.png]
+[2024.10.04-14.22.40:018][240]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-14.22.40:333][240]LogTexture: Display: Building textures: /Game/ButcherProject/UI/bg_butcher.bg_butcher (TFO_AutoDXT, 1360x768 x1x1x1) (Required Memory Estimate: 123.96875 MB), EncodeSpeed: Fast
+[2024.10.04-14.22.40:336][240]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-14.22.40:399][241]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-14.22.45:083][401]LogTexture: Display: Building textures: /Game/ButcherProject/UI/fond.fond (BGRA8, 315x250 x1x1x1) (Required Memory Estimate: 2.365623 MB), EncodeSpeed: Fast
+[2024.10.04-14.22.45:083][401]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ButcherProject/UI/WB_MainMenu.WB_MainMenu
+[2024.10.04-14.22.45:084][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-14.22.45:084][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-14.22.45:091][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-14.22.45:091][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-14.22.45:098][401]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.04-14.22.45:099][401]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.10.04-14.22.45:755][401]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.04-14.22.45:761][401]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.04-14.22.45:762][401]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.04-14.23.19:880][  9]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.04-14.23.19:960][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-14.23.25:436][334]Cmd: TRANSACTION UNDO
+[2024.10.04-14.23.25:436][334]LogEditorTransaction: Undo Edit Image
+[2024.10.04-14.24.02:025][452]BlueprintLog: New page: Compile WB_MainMenu
+[2024.10.04-14.24.02:051][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.04-14.24.13:455][115]LogDerivedDataCache: C:/Users/Steam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2298 files in 3632 folders with total size 178 MiB.
+[2024.10.04-14.25.31:086][710]BlueprintLog: New page: Compile WB_MainMenu
+[2024.10.04-14.25.31:112][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.04-14.25.45:808][572]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.04-14.25.45:809][572]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.04-14.26.31:404][286]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.04-14.27.13:108][743]BlueprintLog: New page: Compile WB_MainMenu
+[2024.10.04-14.27.13:132][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.04-14.27.13:530][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-14.27.13:627][765]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.008784 seconds
+[2024.10.04-14.27.13:638][765]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_MainMenu
+[2024.10.04-14.27.13:639][765]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/WB_MainMenu579DEDD4425B82A242AEAA8DA8A6CAFF.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/WB_MainMenu.uasset'
+[2024.10.04-14.27.13:648][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms
+[2024.10.04-14.27.13:650][765]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.10.04-14.27.13:650][765]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_MainMenu.WB_MainMenu
+[2024.10.04-14.27.15:270][859]LogSlate: Window 'WB_MainMenu' being destroyed
+[2024.10.04-14.27.15:275][859]LogSlate: Window 'WB_MainMenu' being destroyed
+[2024.10.04-14.27.15:284][859]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.27.15:284][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.27.15:290][859]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-14.27.15:290][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-14.27.19:282][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.04-14.27.19:290][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-14.27.19:388][ 93]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/bg_butcher
+[2024.10.04-14.27.19:388][ 93]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/bg_butcher7DA25EB1449A5FD7DA666C9F77A56444.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/bg_butcher.uasset'
+[2024.10.04-14.27.19:398][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 226 ms)
+[2024.10.04-14.27.19:400][ 93]AssetCheck: New page: Asset Save: bg_butcher
+[2024.10.04-14.27.19:400][ 93]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/UI/bg_butcher.bg_butcher
