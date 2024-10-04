@@ -2050,3 +2050,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.04-00.20.07:777][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 1.26 sec)
 [2024.10.04-00.20.07:782][124]AssetCheck: New page: Asset Save: LD_1
 [2024.10.04-00.20.07:782][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
+[2024.10.04-00.29.56:174][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-00.29.56:358][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.10.04-00.29.56:437][949]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/LD_1
+[2024.10.04-00.29.56:437][949]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_14FF86F0A4BC5C010FC13779C4D4CEB88.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_1.umap'
+[2024.10.04-00.29.56:463][949]LogFileHelpers: Saving map 'LD_1' took 0.210
+[2024.10.04-00.29.56:488][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 1.58 sec)
+[2024.10.04-00.29.56:492][949]AssetCheck: New page: Asset Save: LD_1
+[2024.10.04-00.29.56:492][949]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
