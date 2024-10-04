@@ -1333,3 +1333,52 @@ LogInit: Object subsystem initialized
 [2024.10.04-12.58.23:495][741]LogSlate: Window 'Message Log' being destroyed
 [2024.10.04-12.58.23:499][741]LogSlate: Window 'Message Log' being destroyed
 [2024.10.04-12.59.00:781][945]LogDerivedDataCache: C:/Users/Steam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.181 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2174 files in 3469 folders with total size 162 MiB.
+[2024.10.04-12.59.16:359][993]AssetReimport: New page: Outstanding source content changes 16:59:16
+[2024.10.04-12.59.16:369][993]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.04-12.59.16:388][994]LogEditorFactories: Performing atomic reimport of [C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/jfiep.png]
+[2024.10.04-12.59.16:391][994]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/jfiep.png)
+[2024.10.04-12.59.16:451][994]LogEditorFactories: -- imported successfully
+[2024.10.04-12.59.16:485][995]LogEditorFactories: Performing atomic reimport of [C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03.png]
+[2024.10.04-12.59.16:488][995]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03.png)
+[2024.10.04-12.59.16:542][995]LogEditorFactories: -- imported successfully
+[2024.10.04-12.59.16:599][996]LogAudioEditor: Performing atomic reimport of [C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Sounds/accordeon.wav]
+[2024.10.04-12.59.16:607][996]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Sounds/accordeon.wav)
+[2024.10.04-12.59.17:025][996]LogAudioEditor: -- imported successfully
+[2024.10.04-12.59.17:364][997]LogEditorFactories: Performing atomic reimport of [C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/Presentoire.fbx]
+[2024.10.04-12.59.17:376][997]LogFbx: Loading FBX Scene from C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/Presentoire.fbx
+[2024.10.04-12.59.17:382][997]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.04-12.59.17:460][997]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Furnitures/Presentoire.Presentoire
+[2024.10.04-12.59.17:505][997]LogEditorFactories: -- imported successfully
+[2024.10.04-12.59.17:519][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-12.59.17:588][998]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Furnitures/Texture/presentoire/Base_Base_color.Base_Base_color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.04-12.59.17:639][998]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Furnitures/Texture/presentoire/Base_Normal.Base_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 397.562488 MB), EncodeSpeed: Fast
+[2024.10.04-12.59.17:703][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ButcherProject/UI/jfiep" FILE="../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/jfiep.uasset" SILENT=true
+[2024.10.04-12.59.17:716][998]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.013146 seconds
+[2024.10.04-12.59.17:751][998]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/jfiep
+[2024.10.04-12.59.17:752][998]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/jfiep333CE7B64AE5A0C9EAC4F98E89C81BC1.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/jfiep.uasset'
+[2024.10.04-12.59.17:789][998]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03
+[2024.10.04-12.59.17:790][998]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/a48c5a02-d540-40e9-aedc-91242e0c78855E1F41AB7EA418B5C1B55DA04168.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03.uasset'
+[2024.10.04-12.59.17:818][998]LogSavePackage: Moving output files for package: /Game/ButcherProject/Sounds/accordeon
+[2024.10.04-12.59.17:819][998]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/accordeonDBB844E1404DE3D61FA6A190811BC4C6.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Sounds/accordeon.uasset'
+[2024.10.04-12.59.17:822][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-12.59.17:877][998]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Furnitures/Presentoire
+[2024.10.04-12.59.17:878][998]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/PresentoireD5106C934C0E46CA2C557E96EC506F78.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/Presentoire.uasset'
+[2024.10.04-12.59.17:894][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 374 ms
+[2024.10.04-12.59.17:907][999]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-12.59.17:907][999]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/UI/jfiep.jfiep
+[2024.10.04-12.59.17:907][999]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03.a48c5a02-d540-40e9-aedc-91242e0ccc03
+[2024.10.04-12.59.17:907][999]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/ButcherProject/Sounds/accordeon.accordeon
+[2024.10.04-12.59.17:907][999]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Furnitures/Presentoire.Presentoire
+[2024.10.04-12.59.20:895][321]AssetReimport: Reimported asset jfiep from C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/jfiep.png.
+[2024.10.04-12.59.20:895][321]AssetReimport: Reimported asset a48c5a02-d540-40e9-aedc-91242e0ccc03 from C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/a48c5a02-d540-40e9-aedc-91242e0ccc03.png.
+[2024.10.04-12.59.20:895][321]AssetReimport: Reimported asset accordeon from C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Sounds/accordeon.wav.
+[2024.10.04-12.59.20:895][321]AssetReimport: Reimported asset Presentoire from C:/Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/Assets/Furnitures/Presentoire.fbx.
+[2024.10.04-12.59.38:229][515]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-12.59.38:229][515]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Steam/Downloads/Assets ButcherCold/titre jeu 2.png]
+[2024.10.04-12.59.38:250][516]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.10.04-12.59.38:253][516]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-12.59.38:578][516]LogTexture: Display: Building textures: /Game/ButcherProject/UI/titre_jeu_2.titre_jeu_2 (BGRA8, 800x225 x1x1x1) (Required Memory Estimate: 5.326782 MB), EncodeSpeed: Fast
+[2024.10.04-12.59.38:646][517]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-12.59.38:668][517]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-12.59.40:744][617]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.04-12.59.40:750][617]LogSlate: Window 'Content Browser' being destroyed
