@@ -1158,3 +1158,1310 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.04-09.31.20:016][525]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_2.cadavre_humain_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1083739287
 [2024.10.04-09.31.20:896][575]Cmd: TRANSACTION UNDO
 [2024.10.04-09.31.20:897][575]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.33.07:898][412]LogDerivedDataCache: C:/Users/Exborn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2544 files in 3842 folders with total size 186 MiB.
+[2024.10.04-09.33.40:942][376]Cmd: TRANSACTION UNDO
+[2024.10.04-09.33.40:942][376]LogEditorTransaction: Undo Move Elements
+[2024.10.04-09.33.58:762][135]Cmd: DELETE
+[2024.10.04-09.33.58:762][135]Cmd: ACTOR DELETE
+[2024.10.04-09.33.58:764][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-09.33.58:768][135]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1083739287 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/89/BPT9SSJO0MMCQGH1RYI7XH.PackageMetaData in its package
+[2024.10.04-09.33.58:769][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.04-09.33.58:770][135]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.10.04-09.33.58:779][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.04-09.34.00:447][235]LogViewport: Scene viewport resized to 1393x693, mode Windowed.
+[2024.10.04-09.34.00:464][236]LogViewport: Scene viewport resized to 1393x683, mode Windowed.
+[2024.10.04-09.34.00:491][237]LogViewport: Scene viewport resized to 1393x668, mode Windowed.
+[2024.10.04-09.34.00:519][238]LogViewport: Scene viewport resized to 1393x644, mode Windowed.
+[2024.10.04-09.34.00:557][239]LogViewport: Scene viewport resized to 1393x609, mode Windowed.
+[2024.10.04-09.34.00:590][240]LogViewport: Scene viewport resized to 1393x578, mode Windowed.
+[2024.10.04-09.34.00:616][241]LogViewport: Scene viewport resized to 1393x553, mode Windowed.
+[2024.10.04-09.34.00:637][242]LogViewport: Scene viewport resized to 1393x537, mode Windowed.
+[2024.10.04-09.34.00:659][243]LogViewport: Scene viewport resized to 1393x528, mode Windowed.
+[2024.10.04-09.34.01:300][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3
+[2024.10.04-09.34.01:300][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3
+[2024.10.04-09.34.01:301][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.10.04-09.34.01:523][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3
+[2024.10.04-09.34.01:523][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3
+[2024.10.04-09.34.01:526][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_3.cadavre_humain_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1245247288
+[2024.10.04-09.34.01:699][296]Cmd: TRANSACTION UNDO
+[2024.10.04-09.34.01:699][296]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.34.02:562][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1
+[2024.10.04-09.34.02:562][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1
+[2024.10.04-09.34.02:563][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.10.04-09.34.02:696][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1
+[2024.10.04-09.34.02:696][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1
+[2024.10.04-09.34.02:697][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/cadavre_humain_1.cadavre_humain_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1246420289
+[2024.10.04-09.34.02:885][346]Cmd: TRANSACTION UNDO
+[2024.10.04-09.34.02:885][346]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.34.16:561][813]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-09.34.16:561][813]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/arriere_tete_arriere_tete_Normal.png]
+[2024.10.04-09.34.16:561][813]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.34.16:561][813]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/arriere_tete_arriere_tete_Roughness.png]
+[2024.10.04-09.34.16:562][813]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.34.16:562][813]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/arriere_tete_arriere_tete_BaseColor.png]
+[2024.10.04-09.34.16:595][814]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Roughness.arriere_tete_arriere_tete_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.16:599][814]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_BaseColor.arriere_tete_arriere_tete_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.16:630][814]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.10.04-09.34.16:638][814]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.34.16:640][814]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Normal.arriere_tete_arriere_tete_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.16:903][814]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.34.16:903][814]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.10.04-09.34.16:914][814]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.34.16:981][815]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.34.18:966][872]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Textures/cow/Mat_arriere_tete.Mat_arriere_tete
+[2024.10.04-09.34.18:971][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.34.18:971][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.34.19:241][872]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.34.19:274][872]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.34.19:274][872]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.19:274][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.19:274][872]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.34.19:287][872]LogSlate: Took 0.004734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.04-09.34.19:293][872]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: RAM used: 130,98 KiB of 819,20 MiB budget. Usage: 0.02%
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.04-09.34.19:415][873]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.19:463][874]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.34.21:281][974]LogSlate: Window 'Mat_arriere_tete' being destroyed
+[2024.10.04-09.34.21:286][974]LogSlate: Window 'Mat_arriere_tete' being destroyed
+[2024.10.04-09.34.21:299][974]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.34.21:299][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.34.23:931][126]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Textures/cow/Mat_cow_patte.Mat_cow_patte
+[2024.10.04-09.34.23:935][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.34.23:935][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.34.24:045][126]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.34.24:077][126]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.34.24:077][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.24:077][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.24:077][126]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.34.24:085][126]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.34.24:189][128]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.34.24:190][128]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.34.24:190][128]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.04-09.34.24:190][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.24:190][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.24:190][128]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.34.25:706][216]LogSlate: Window 'Mat_cow_patte' being destroyed
+[2024.10.04-09.34.25:712][216]LogSlate: Window 'Mat_cow_patte' being destroyed
+[2024.10.04-09.34.25:725][216]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.34.25:725][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.34.31:013][341]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-09.34.31:013][341]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/pattes_dessus_pattes_dessus_Roughness.png]
+[2024.10.04-09.34.31:013][341]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.34.31:013][341]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/pattes_dessus_pattes_dessus_BaseColor.png]
+[2024.10.04-09.34.31:014][341]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.34.31:014][341]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desktop/GAME JAM/ASSETS/cow/pattes_dessus_pattes_dessus_Normal.png]
+[2024.10.04-09.34.31:044][342]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Roughness.pattes_dessus_pattes_dessus_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.31:053][342]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.34.31:364][342]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.34.31:366][342]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_BaseColor.pattes_dessus_pattes_dessus_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.31:401][342]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.10.04-09.34.31:402][342]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.10.04-09.34.31:403][342]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Normal.pattes_dessus_pattes_dessus_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.10.04-09.34.31:433][343]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.34.31:460][343]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.34.32:982][387]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Textures/cow/Mat_pattes_dessus.Mat_pattes_dessus
+[2024.10.04-09.34.32:986][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.34.32:986][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.34.33:083][387]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.34.33:146][387]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.34.33:146][387]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.33:146][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.33:146][387]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.34.33:155][387]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.34.33:239][389]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.34.34:880][483]LogSlate: Window 'Mat_pattes_dessus' being destroyed
+[2024.10.04-09.34.34:885][483]LogSlate: Window 'Mat_pattes_dessus' being destroyed
+[2024.10.04-09.34.34:898][483]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.34.34:898][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.34.38:476][681]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.04-09.34.38:484][681]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.04-09.34.38:497][682]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.04-09.34.43:582][986]LogContentBrowser: Attempting asset rename: NewFolder -> animale
+[2024.10.04-09.34.43:582][986]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.04-09.35.29:794][559]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Exborn\Downloads\carcasse_animale_1_rig (1).fbx)
+[2024.10.04-09.35.29:801][559]LogFbx: Loading FBX Scene from C:\Users\Exborn\Downloads\carcasse_animale_1_rig (1).fbx
+[2024.10.04-09.35.29:808][559]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.04-09.35.38:887][559]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.04-09.35.38:999][559]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_BaseColor.<UDIM>.png
+[2024.10.04-09.35.38:999][559]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_Emissive.<UDIM>.png
+[2024.10.04-09.35.38:999][559]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Exborn\Desktop\GAME JAM\ASSETS\carcasse\1\carcasse_cochon_1_rig_DefaultMaterial_Roughness.<UDIM>.png
+[2024.10.04-09.35.39:026][559]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.10.04-09.35.39:029][559]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/crochet_DefaultMaterial_BaseColor.crochet_DefaultMaterial_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.10.04-09.35.39:038][559]LogFbx: Display: Triangulating static mesh carcasse
+[2024.10.04-09.35.39:123][559]LogStaticMesh: Display: Building static mesh carcasse_animale_1_rig__1_...
+[2024.10.04-09.35.39:223][559]LogStaticMesh: Built static mesh [0.10s] /Game/ButcherProject/Assets/Carcass/carcasse_animale_1_rig__1_.carcasse_animale_1_rig__1_
+[2024.10.04-09.35.39:246][559]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.04-09.35.39:387][559]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Exborn\Downloads\carcasse_animale_2_rig.fbx)
+[2024.10.04-09.35.39:392][559]LogFbx: Loading FBX Scene from C:\Users\Exborn\Downloads\carcasse_animale_2_rig.fbx
+[2024.10.04-09.35.39:399][559]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.04-09.35.39:456][559]LogFbx: Display: Triangulating static mesh Carcasse
+[2024.10.04-09.35.39:487][559]LogFbx: Display: Triangulating static mesh cadavre1.001
+[2024.10.04-09.35.39:562][559]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.04-09.35.41:455][653]LogSlate: Window 'Message Log' being destroyed
+[2024.10.04-09.35.41:459][653]LogSlate: Window 'Message Log' being destroyed
+[2024.10.04-09.35.48:496][ 67]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_1_rig__1_.carcasse_animale_1_rig__1_
+[2024.10.04-09.35.48:545][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.35.48:545][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.35.49:019][ 67]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.35.49:042][ 67]LogSlate: Took 0.006105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.04-09.35.52:776][283]LogSlate: Window 'carcasse_animale_1_rig__1_' being destroyed
+[2024.10.04-09.35.52:779][283]LogSlate: Window 'carcasse_animale_1_rig__1_' being destroyed
+[2024.10.04-09.35.52:819][283]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.35.52:819][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.36.08:192][193]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Material.Material
+[2024.10.04-09.36.08:196][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.36.08:196][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.36.08:296][193]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.36.08:327][193]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.36.08:327][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.08:327][193]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.36.08:336][193]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.36.08:397][195]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.10.04-09.36.08:397][195]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.04-09.36.08:397][195]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.04-09.36.08:397][195]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.08:397][195]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.36.11:542][374]LogSlate: Window 'Material' being destroyed
+[2024.10.04-09.36.11:547][374]LogSlate: Window 'Material' being destroyed
+[2024.10.04-09.36.11:560][374]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.36.11:560][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.36.12:417][423]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1246420289 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/L0/WA346YBSWD20BEI6ZLXXZM.PackageMetaData in its package
+[2024.10.04-09.36.12:417][423]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1245247288 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WL/VGE5LZ100AAM9RUZAOYA7E.PackageMetaData in its package
+[2024.10.04-09.36.12:423][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.04-09.36.13:307][423]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.04-09.36.13:314][423]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Carcass/Material.Material
+	Asset Type: Material
+[2024.10.04-09.36.13:431][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.04-09.36.13:437][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.04-09.36.13:442][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.04-09.36.13:454][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.04-09.36.17:726][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.36.17:902][666]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.005048 seconds
+[2024.10.04-09.36.17:904][666]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/crochet
+[2024.10.04-09.36.17:904][666]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/crochetC5FA0BF6478D477E2B315CAD7A00F1DA.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/crochet.uasset'
+[2024.10.04-09.36.17:924][666]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/crochet_DefaultMaterial_BaseColor
+[2024.10.04-09.36.17:924][666]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/crochet_DefaultMaterial_BaseColo65726F3B4F7A9596E1977AB66811EDFE.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/crochet_DefaultMaterial_BaseColor.uasset'
+[2024.10.04-09.36.17:934][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms
+[2024.10.04-09.36.17:943][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.04-09.36.17:949][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.04-09.36.17:953][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.10.04-09.36.17:974][666]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-09.36.17:974][666]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/crochet.crochet
+[2024.10.04-09.36.17:974][666]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/crochet_DefaultMaterial_BaseColor.crochet_DefaultMaterial_BaseColor
+[2024.10.04-09.36.23:705][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.36.23:797][991]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/crochet_DefaultMaterial_BaseColor
+[2024.10.04-09.36.23:797][991]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/crochet_DefaultMaterial_BaseColoF27AC72545AC255C43043980F6619A8E.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/crochet_DefaultMaterial_BaseColor.uasset'
+[2024.10.04-09.36.23:799][991]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/crochet
+[2024.10.04-09.36.23:799][991]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/crochet221776294F5B1976283D7982B8852D9A.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/crochet.uasset'
+[2024.10.04-09.36.23:806][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 309 ms)
+[2024.10.04-09.36.23:818][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.04-09.36.23:826][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.04-09.36.23:831][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.04-09.36.23:853][991]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-09.36.23:853][991]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/crochet_DefaultMaterial_BaseColor.crochet_DefaultMaterial_BaseColor
+[2024.10.04-09.36.23:853][991]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/crochet.crochet
+[2024.10.04-09.36.26:497][131]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.04-09.36.26:552][131]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.04-09.36.26:563][132]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.04-09.36.32:982][517]LogContentBrowser: Attempting asset rename: NewMaterial -> carcasse1
+[2024.10.04-09.36.32:983][517]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.04-09.36.47:518][666]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-09.36.47:518][666]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/1/carcasse_cochon_1_rig_DefaultMaterial_Normal.1001.png]
+[2024.10.04-09.36.47:519][666]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.36.47:519][666]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/1/carcasse_cochon_1_rig_DefaultMaterial_Roughness.1001.png]
+[2024.10.04-09.36.47:519][666]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.36.47:519][666]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/1/carcasse_cochon_1_rig_DefaultMaterial_BaseColor.1001.png]
+[2024.10.04-09.36.47:552][667]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.36.47:874][667]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Roughness.carcasse_cochon_1_rig_DefaultMaterial_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.04-09.36.47:891][667]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_BaseColor.carcasse_cochon_1_rig_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.04-09.36.47:947][667]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.10.04-09.36.48:072][668]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Normal.carcasse_cochon_1_rig_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.10.04-09.36.48:227][668]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.36.48:227][668]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.10.04-09.36.48:239][668]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.36.48:294][669]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.36.49:653][703]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse1.carcasse1
+[2024.10.04-09.36.49:656][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.36.49:657][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.36.49:780][703]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.36.49:808][703]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.36.49:808][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.49:808][703]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.36.49:819][703]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.36.49:899][705]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.04-09.36.49:899][705]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.04-09.36.49:899][705]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.04-09.36.49:899][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.49:899][705]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.36.52:240][829]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.36.52:240][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.52:241][829]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.36.52:280][830]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.04-09.36.52:280][830]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.04-09.36.52:280][830]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.04-09.36.52:280][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.36.52:280][830]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.36.55:657][ 22]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.36.55:657][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.04-09.36.55:657][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.36.55:657][ 22]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.36.55:760][ 24]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.37.01:241][338]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.37.01:241][338]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.04-09.37.01:241][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.37.01:241][338]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.37.01:346][341]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.04-09.37.01:346][341]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.37.01:347][341]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.04-09.37.01:347][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.04-09.37.01:347][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.37.01:347][341]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.37.05:247][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.37.05:247][565]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.37.05:247][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.37.05:247][565]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.37.05:351][567]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.37.08:365][685]LogSlate: Window 'Message' being destroyed
+[2024.10.04-09.37.08:367][685]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse1.carcasse1
+(Selecting 'No' will cause all changes to be lost!)
+[2024.10.04-09.37.09:227][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.04-09.37.09:411][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.04-09.37.09:427][685]LogSlate: Window 'carcasse1' being destroyed
+[2024.10.04-09.37.09:428][685]LogSlate: Window 'carcasse1' being destroyed
+[2024.10.04-09.37.09:442][685]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.37.09:442][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.37.14:095][949]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_1_rig__1_.carcasse_animale_1_rig__1_
+[2024.10.04-09.37.14:133][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.37.14:133][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.37.14:606][949]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.37.22:061][354]LogSlate: Window 'carcasse_animale_1_rig__1_' being destroyed
+[2024.10.04-09.37.22:065][354]LogSlate: Window 'carcasse_animale_1_rig__1_' being destroyed
+[2024.10.04-09.37.22:091][354]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.37.22:092][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.37.28:260][712]LogContentBrowser: Attempting asset rename: carcasse_animale_1_rig__1_ -> carcasse_animale_1
+[2024.10.04-09.37.28:291][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.37.28:384][712]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/carcasse_animale_1
+[2024.10.04-09.37.28:384][712]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_animale_119CD6C304208B11DA8051F9B63BE800F.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/carcasse_animale_1.uasset'
+[2024.10.04-09.37.28:390][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 408 ms)
+[2024.10.04-09.37.28:399][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.04-09.37.28:405][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.04-09.37.28:409][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.04-09.37.28:410][712]AssetCheck: New page: Asset Save: carcasse_animale_1
+[2024.10.04-09.37.28:410][712]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_1.carcasse_animale_1
+[2024.10.04-09.37.33:113][985]LogContentBrowser: Attempting asset rename: carcasse_animale_2_rig -> carcasse_animale_2
+[2024.10.04-09.37.33:138][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.37.33:231][985]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/carcasse_animale_2
+[2024.10.04-09.37.33:231][985]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_animale_2C5944AE2466DFAF0CCD4689721DA3945.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/carcasse_animale_2.uasset'
+[2024.10.04-09.37.33:238][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 509 ms)
+[2024.10.04-09.37.33:245][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.04-09.37.33:251][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.04-09.37.33:255][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.10.04-09.37.33:256][985]AssetCheck: New page: Asset Save: carcasse_animale_2
+[2024.10.04-09.37.33:256][985]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_2.carcasse_animale_2
+[2024.10.04-09.37.34:727][ 69]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_1.carcasse_animale_1
+[2024.10.04-09.37.34:764][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.37.34:764][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.37.35:242][ 69]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.37.46:915][685]LogSlate: Window 'carcasse_animale_1' being destroyed
+[2024.10.04-09.37.46:918][685]LogSlate: Window 'carcasse_animale_1' being destroyed
+[2024.10.04-09.37.46:946][685]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.37.46:946][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.37.50:163][864]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.04-09.37.50:168][864]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.04-09.37.50:183][865]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.04-09.37.54:391][117]LogContentBrowser: Attempting asset rename: NewMaterial -> carcasse2
+[2024.10.04-09.37.54:391][117]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.04-09.38.04:166][264]LogInterchangeEngine: [Pending] Importing
+[2024.10.04-09.38.04:166][264]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/2/carcasse_cochon_2_rig_DefaultMaterial_Normal.1001.png]
+[2024.10.04-09.38.04:166][264]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.38.04:166][264]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/2/carcasse_cochon_2_rig_DefaultMaterial_Roughness.1001.png]
+[2024.10.04-09.38.04:166][264]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.38.04:167][264]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Exborn/Desk...AM/ASSETS/carcasse/2/carcasse_cochon_2_rig_DefaultMaterial_BaseColor.1001.png]
+[2024.10.04-09.38.04:201][265]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.04-09.38.04:519][265]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Roughness.carcasse_cochon_2_rig_DefaultMaterial_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.04-09.38.04:560][265]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.10.04-09.38.04:587][266]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Normal.carcasse_cochon_2_rig_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.10.04-09.38.04:587][266]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_BaseColor.carcasse_cochon_2_rig_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.04-09.38.04:872][266]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.04-09.38.04:872][266]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.10.04-09.38.04:883][266]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.38.04:932][267]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-09.38.08:346][328]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.carcasse2
+[2024.10.04-09.38.08:351][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.38.08:351][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.38.08:464][328]LogSlate: The tab "MaterialEditor_Substrate" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.10.04-09.38.08:495][328]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.38.08:495][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.38.08:495][328]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.38.08:505][328]LogViewport: Scene viewport resized to 238x239, mode Windowed.
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: Total job queries 150, among them cache hits 98 (65.33%)
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 31 distinct outputs (59.62%)
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: RAM used: 1,12 MiB of 819,20 MiB budget. Usage: 0.14%
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.04-09.38.08:538][329]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.38.08:586][330]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.04-09.38.08:586][330]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.04-09.38.08:586][330]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.04-09.38.08:586][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.38.08:586][330]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.38.10:515][429]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.38.10:515][429]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.38.10:515][429]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.38.10:552][430]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.04-09.38.10:552][430]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.04-09.38.10:552][430]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.04-09.38.10:552][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.04-09.38.10:552][430]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.38.13:467][593]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.38.13:467][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.04-09.38.13:467][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.13:467][593]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.13:570][595]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.38.15:916][728]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.38.15:916][728]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.04-09.38.15:916][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.15:916][728]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.16:018][731]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.38.17:513][813]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.04-09.38.17:513][813]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.38.17:513][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.17:513][813]MaterialEditorStats: Shader Count: 0
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.17:616][815]MaterialEditorStats: Shader Count: 4
+[2024.10.04-09.38.18:160][847]LogMaterialEditor: Saving and Compiling material carcasse2
+[2024.10.04-09.38.18:228][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.04-09.38.18:398][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.10.04-09.38.18:408][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.38.18:545][847]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2
+[2024.10.04-09.38.18:545][847]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse219B225224F5132C3493D6D9115AF4ED5.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.uasset'
+[2024.10.04-09.38.18:553][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 653 ms)
+[2024.10.04-09.38.18:554][847]AssetCheck: New page: Asset Save: carcasse2
+[2024.10.04-09.38.18:554][847]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.carcasse2
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: MaxSampler: 254 instructions
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.04-09.38.18:555][847]MaterialEditorStats: Shader Count: 16
+[2024.10.04-09.38.19:360][894]LogSlate: Window 'carcasse2' being destroyed
+[2024.10.04-09.38.19:364][894]LogSlate: Window 'carcasse2' being destroyed
+[2024.10.04-09.38.19:378][894]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.38.19:378][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.38.23:081][110]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_2.carcasse_animale_2
+[2024.10.04-09.38.23:128][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.38.23:128][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.38.23:631][110]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.38.30:580][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.38.30:653][494]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/carcasse_animale_2
+[2024.10.04-09.38.30:653][494]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_animale_207A7932E4DED082B94C4F784DD334D42.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/carcasse_animale_2.uasset'
+[2024.10.04-09.38.30:659][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 732 ms)
+[2024.10.04-09.38.30:660][494]AssetCheck: New page: Asset Save: carcasse_animale_2
+[2024.10.04-09.38.30:660][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_2.carcasse_animale_2
+[2024.10.04-09.38.31:625][552]LogSlate: Window 'carcasse_animale_2' being destroyed
+[2024.10.04-09.38.31:629][552]LogSlate: Window 'carcasse_animale_2' being destroyed
+[2024.10.04-09.38.31:657][552]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.38.31:657][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.38.32:193][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.38.32:253][579]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2
+[2024.10.04-09.38.32:255][579]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse26C8B8FF7469CA594A787A0B131557D55.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.uasset'
+[2024.10.04-09.38.32:260][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 799 ms)
+[2024.10.04-09.38.32:261][579]AssetCheck: New page: Asset Save: carcasse2
+[2024.10.04-09.38.32:261][579]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.carcasse2
+[2024.10.04-09.38.32:682][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.38.32:732][597]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2
+[2024.10.04-09.38.32:733][597]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse2E12E1BF5426AC7FCC8C20C959E6528AA.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.uasset'
+[2024.10.04-09.38.32:737][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 855 ms)
+[2024.10.04-09.38.32:738][597]AssetCheck: New page: Asset Save: carcasse2
+[2024.10.04-09.38.32:738][597]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.carcasse2
+[2024.10.04-09.38.32:812][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.38.32:873][601]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2
+[2024.10.04-09.38.32:874][601]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse2F6AB271345CCC618D4FF2AA86BCADE03.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.uasset'
+[2024.10.04-09.38.32:879][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 923 ms)
+[2024.10.04-09.38.32:880][601]AssetCheck: New page: Asset Save: carcasse2
+[2024.10.04-09.38.32:880][601]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse2.carcasse2
+[2024.10.04-09.38.43:131][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Exborn\Downloads\pattes_avant.fbx)
+[2024.10.04-09.38.43:136][813]LogFbx: Loading FBX Scene from C:\Users\Exborn\Downloads\pattes_avant.fbx
+[2024.10.04-09.38.43:141][813]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.04-09.38.45:446][813]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.04-09.38.45:536][813]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\pattes_dessus_pattes_dessus_BaseColor.png
+[2024.10.04-09.38.45:536][813]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\pattes_dessus_pattes_dessus_Emissive.png
+[2024.10.04-09.38.45:537][813]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\pattes_dessus_pattes_dessus_Roughness.png
+[2024.10.04-09.38.45:541][813]LogFbxMaterialImport: Display: Unable to find Texture file C:\JAM\cow\source\60e9e15710fe4b5a85c384375b9f9a13\cow\textures\tornado_cow_UV_albedo.png
+[2024.10.04-09.38.45:544][813]LogFbx: Display: Triangulating static mesh pattes_avant
+[2024.10.04-09.38.45:577][813]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.04-09.38.45:639][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Exborn\Downloads\pattes_arriere.fbx)
+[2024.10.04-09.38.45:644][813]LogFbx: Loading FBX Scene from C:\Users\Exborn\Downloads\pattes_arriere.fbx
+[2024.10.04-09.38.45:649][813]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.04-09.38.45:702][813]LogFbx: Display: Triangulating static mesh pattes_arriere
+[2024.10.04-09.38.45:735][813]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.04-09.38.47:493][903]LogSlate: Window 'Message Log' being destroyed
+[2024.10.04-09.38.47:497][903]LogSlate: Window 'Message Log' being destroyed
+[2024.10.04-09.38.50:099][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.04-09.38.51:026][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.04-09.38.51:034][ 54]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ButcherProject/Assets/Carcass/tornado_cow_material.tornado_cow_material
+	Asset Type: Material
+	Asset Name: /Game/ButcherProject/Assets/Carcass/pattes_dessus.pattes_dessus
+	Asset Type: Material
+[2024.10.04-09.38.51:145][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.04-09.38.51:152][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.04-09.38.51:157][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.10.04-09.38.53:898][214]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_avant.pattes_avant
+[2024.10.04-09.38.53:944][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.38.53:945][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.38.54:421][214]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.39.04:019][733]LogSlate: Window 'pattes_avant' being destroyed
+[2024.10.04-09.39.04:023][733]LogSlate: Window 'pattes_avant' being destroyed
+[2024.10.04-09.39.04:052][733]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.39.04:052][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.39.06:616][878]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.04-09.39.06:657][878]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.39.06:657][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-09.39.07:148][878]LogViewport: Scene viewport resized to 895x483, mode Windowed.
+[2024.10.04-09.39.15:502][302]LogSlate: Window 'pattes_arriere' being destroyed
+[2024.10.04-09.39.15:506][302]LogSlate: Window 'pattes_arriere' being destroyed
+[2024.10.04-09.39.15:535][302]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.39.15:535][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.39.17:039][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.17:123][388]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/Mat_cow_patte
+[2024.10.04-09.39.17:123][388]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/Mat_cow_patte319B2DE9418195FACD1809A7A88707BD.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/Mat_cow_patte.uasset'
+[2024.10.04-09.39.17:132][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.01 sec)
+[2024.10.04-09.39.17:132][388]AssetCheck: New page: Asset Save: Mat_cow_patte
+[2024.10.04-09.39.17:132][388]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/cow/Mat_cow_patte.Mat_cow_patte
+[2024.10.04-09.39.24:960][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil
+[2024.10.04-09.39.24:960][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil
+[2024.10.04-09.39.24:961][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.10.04-09.39.25:423][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil
+[2024.10.04-09.39.25:423][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil
+[2024.10.04-09.39.25:424][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/oeil_mural/Oeil.Oeil as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1569147290
+[2024.10.04-09.39.26:106][901]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.26:106][901]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.27:508][965]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.39.27:552][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.27:552][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.27:554][965]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_0
+[2024.10.04-09.39.27:555][965]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_0
+[2024.10.04-09.39.27:565][966]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.04-09.39.28:340][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.28:340][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.28:343][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1572064291
+[2024.10.04-09.39.28:345][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1572064291
+[2024.10.04-09.39.28:487][ 15]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.28:487][ 15]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.34:170][339]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.34:170][339]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.34:172][339]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_1
+[2024.10.04-09.39.34:173][339]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_1
+[2024.10.04-09.39.34:835][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.34:835][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU_C
+[2024.10.04-09.39.34:836][377]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1578559292
+[2024.10.04-09.39.34:837][377]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilSeul_CHELOU.BP_oeilSeul_CHELOU as actor: BP_oeilSeul_CHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1578559292
+[2024.10.04-09.39.36:747][485]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-09.39.36:814][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU_C
+[2024.10.04-09.39.36:814][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU_C
+[2024.10.04-09.39.36:816][486]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU as actor: BP_oeilCHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilCHELOU_C_0
+[2024.10.04-09.39.36:818][486]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU as actor: BP_oeilCHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilCHELOU_C_0
+[2024.10.04-09.39.37:391][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU_C
+[2024.10.04-09.39.37:391][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU_C
+[2024.10.04-09.39.37:395][512]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU as actor: BP_oeilCHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilCHELOU_C_UAID_7C10C9916836712202_1581115293
+[2024.10.04-09.39.37:397][512]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU as actor: BP_oeilCHELOU_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilCHELOU_C_UAID_7C10C9916836712202_1581115293
+[2024.10.04-09.39.37:950][543]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.37:950][543]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.38:094][546]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.38:095][546]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.38:848][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.38:912][581]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1572064291 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OI/GGPLAURDOOGG53O68LMCIS.PackageMetaData in its package
+[2024.10.04-09.39.38:912][581]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1569147290 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RG/BYM5OHW8C4ZAN1ERJF82FO.PackageMetaData in its package
+[2024.10.04-09.39.38:919][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.04-09.39.38:929][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.04-09.39.38:934][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.10.04-09.39.38:943][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.10 sec)
+[2024.10.04-09.39.38:949][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.04-09.39.39:301][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.39:402][602]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU
+[2024.10.04-09.39.39:403][602]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/BP_oeilCHELOUB7DF031B46DBFD25B6744BA9A7E5EF2E.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.uasset'
+[2024.10.04-09.39.39:412][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.22 sec)
+[2024.10.04-09.39.39:413][602]AssetCheck: New page: Asset Save: BP_oeilCHELOU
+[2024.10.04-09.39.39:413][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU
+[2024.10.04-09.39.39:458][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.39:526][605]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU
+[2024.10.04-09.39.39:527][605]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/BP_oeilCHELOU73394B9047680A112925D98B3107AB85.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.uasset'
+[2024.10.04-09.39.39:535][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.29 sec)
+[2024.10.04-09.39.39:537][605]AssetCheck: New page: Asset Save: BP_oeilCHELOU
+[2024.10.04-09.39.39:537][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU
+[2024.10.04-09.39.39:612][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.39:687][609]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU
+[2024.10.04-09.39.39:687][609]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/BP_oeilCHELOUB0DAC761407DB8D5A36D41AC9D41F87F.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.uasset'
+[2024.10.04-09.39.39:695][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.38 sec)
+[2024.10.04-09.39.39:696][609]AssetCheck: New page: Asset Save: BP_oeilCHELOU
+[2024.10.04-09.39.39:696][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU
+[2024.10.04-09.39.39:723][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.39.39:785][611]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU
+[2024.10.04-09.39.39:786][611]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/BP_oeilCHELOU53AACA3F47C0FFA73FD31299C8DFA020.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.uasset'
+[2024.10.04-09.39.39:794][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.45 sec)
+[2024.10.04-09.39.39:797][611]AssetCheck: New page: Asset Save: BP_oeilCHELOU
+[2024.10.04-09.39.39:797][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ButcherProject/Assets/Carcass/oeil_mural/BP_oeilCHELOU.BP_oeilCHELOU
+[2024.10.04-09.39.50:325][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle
+[2024.10.04-09.39.50:325][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle
+[2024.10.04-09.39.50:326][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.10.04-09.39.50:966][262]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle
+[2024.10.04-09.39.50:966][262]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle
+[2024.10.04-09.39.50:967][262]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Poubelle.MODE_Poubelle as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1594690294
+[2024.10.04-09.39.51:703][304]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.51:703][304]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.54:974][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.04-09.39.54:974][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.04-09.39.54:974][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.10.04-09.39.55:454][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.04-09.39.55:454][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine
+[2024.10.04-09.39.55:456][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/MODE_Vitrine.MODE_Vitrine as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1599178295
+[2024.10.04-09.39.56:964][585]Cmd: TRANSACTION UNDO
+[2024.10.04-09.39.56:964][585]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.39.58:005][626]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.04-09.39.59:677][720]LogStaticMesh: Display: Building static mesh lampe...
+[2024.10.04-09.39.59:692][720]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Furnitures/lampe.lampe
+[2024.10.04-09.39.59:859][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe
+[2024.10.04-09.39.59:859][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe
+[2024.10.04-09.39.59:860][724]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.10.04-09.40.00:430][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe
+[2024.10.04-09.40.00:431][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe
+[2024.10.04-09.40.00:432][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Furnitures/lampe.lampe as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1604154296
+[2024.10.04-09.40.00:607][765]Cmd: TRANSACTION UNDO
+[2024.10.04-09.40.00:607][765]LogEditorTransaction: Undo Create Actors
+[2024.10.04-09.40.40:517][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.40.40:576][142]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilSeul_CHELOU_C_UAID_7C10C9916836712202_1578559292 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/N3/LVUWNW3ZOJ0E3362FUN4ZY.PackageMetaData in its package
+[2024.10.04-09.40.40:576][142]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1599178295 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/QF/CHIX63UEWKE2X5M6YVA7PM.PackageMetaData in its package
+[2024.10.04-09.40.40:576][142]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_oeilCHELOU_C_UAID_7C10C9916836712202_1581115293 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IF/EK4GMZVUEBX8W3M01D14GS.PackageMetaData in its package
+[2024.10.04-09.40.40:576][142]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9916836712202_1594690294 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3H/BE0FC05QRY57GPNDC9RHE5.PackageMetaData in its package
+[2024.10.04-09.40.40:577][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.04-09.40.40:585][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.04-09.40.40:589][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.10.04-09.40.40:595][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.53 sec)
+[2024.10.04-09.40.40:600][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.10.04-09.40.52:759][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.04-09.40.54:931][871]LogSlate: Window 'Save Content' being destroyed
+[2024.10.04-09.40.54:943][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-09.40.55:035][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_BaseColor
+[2024.10.04-09.40.55:035][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/arriere_tete_arriere_tete_BaseCo106246AB466DF203AED508A4286C93A2.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_BaseColor.uasset'
+[2024.10.04-09.40.55:059][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Normal
+[2024.10.04-09.40.55:059][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/arriere_tete_arriere_tete_NormalFCA4E80E49EEDD812DB15294B4BA7AC7.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Normal.uasset'
+[2024.10.04-09.40.55:069][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Roughness
+[2024.10.04-09.40.55:069][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/arriere_tete_arriere_tete_Roughn94F09225494BFC1342ACFF8D5F616BFF.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Roughness.uasset'
+[2024.10.04-09.40.55:141][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse1
+[2024.10.04-09.40.55:141][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse15F7500974A74197B58634B8FDEF34DB5.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse1.uasset'
+[2024.10.04-09.40.55:161][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/carcasse_animale_1
+[2024.10.04-09.40.55:161][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_animale_12F1096CC424BCBBBE2D898A76D33081A.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/carcasse_animale_1.uasset'
+[2024.10.04-09.40.55:237][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_BaseColor
+[2024.10.04-09.40.55:237][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_1_rig_DefaultMat951B976B4B246D3B38C3F0B8D4FA8ACC.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_BaseColor.uasset'
+[2024.10.04-09.40.55:311][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Normal
+[2024.10.04-09.40.55:311][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_1_rig_DefaultMat9EB7DFAA4E5ED8A11DD9C8BC3103DA42.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Normal.uasset'
+[2024.10.04-09.40.55:340][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Roughness
+[2024.10.04-09.40.55:340][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_1_rig_DefaultMatDB69DB3E495D77B9C8A5298037545676.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Roughness.uasset'
+[2024.10.04-09.40.55:401][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_BaseColor
+[2024.10.04-09.40.55:401][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_2_rig_DefaultMat54CEFAAA4878B7DF2374D484C08F3C7D.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_BaseColor.uasset'
+[2024.10.04-09.40.55:462][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Normal
+[2024.10.04-09.40.55:462][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_2_rig_DefaultMatAAA33FBF4E273D60CF079EB85094B8B5.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Normal.uasset'
+[2024.10.04-09.40.55:481][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Roughness
+[2024.10.04-09.40.55:481][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/carcasse_cochon_2_rig_DefaultMatF42937074916531049AD1D9BD1070C15.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Roughness.uasset'
+[2024.10.04-09.40.55:500][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/pattes_arriere
+[2024.10.04-09.40.55:500][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/pattes_arriereE355020D4C12561608A60DA5814464BB.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/pattes_arriere.uasset'
+[2024.10.04-09.40.55:519][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/pattes_avant
+[2024.10.04-09.40.55:519][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/pattes_avantA84E77A340BC6071323FE69D2397BE0F.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/pattes_avant.uasset'
+[2024.10.04-09.40.55:542][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_BaseColor
+[2024.10.04-09.40.55:542][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/pattes_dessus_pattes_dessus_Base72D8C7AB473842AA814242907A82FD20.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_BaseColor.uasset'
+[2024.10.04-09.40.55:567][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Normal
+[2024.10.04-09.40.55:567][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/pattes_dessus_pattes_dessus_NormDB683E9E400E7A8C00075FBDFDB7FA1F.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Normal.uasset'
+[2024.10.04-09.40.55:583][871]LogSavePackage: Moving output files for package: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Roughness
+[2024.10.04-09.40.55:583][871]LogSavePackage: Moving 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Saved/pattes_dessus_pattes_dessus_Roug4D512E12437528B5267639AADA5A7588.tmp' to 'C:/Users/Exborn/Documents/GitHub/TheButcherColdRade/Content/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Roughness.uasset'
+[2024.10.04-09.40.55:591][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 648 ms (total: 2.17 sec)
+[2024.10.04-09.40.55:595][871]LogStall: Shutdown...
+[2024.10.04-09.40.55:597][871]LogStall: Shutdown complete.
+[2024.10.04-09.40.55:628][871]LogSlate: Window 'TheButchreColdRade - Unreal Editor' being destroyed
+[2024.10.04-09.40.55:697][871]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_BaseColor.arriere_tete_arriere_tete_BaseColor
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Normal.arriere_tete_arriere_tete_Normal
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/arriere_tete_arriere_tete_Roughness.arriere_tete_arriere_tete_Roughness
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse1.carcasse1
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/carcasse_animale_1.carcasse_animale_1
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_BaseColor.carcasse_cochon_1_rig_DefaultMaterial_BaseColor
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Normal.carcasse_cochon_1_rig_DefaultMaterial_Normal
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_1_rig_DefaultMaterial_Roughness.carcasse_cochon_1_rig_DefaultMaterial_Roughness
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_BaseColor.carcasse_cochon_2_rig_DefaultMaterial_BaseColor
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Normal.carcasse_cochon_2_rig_DefaultMaterial_Normal
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/animale/carcasse_cochon_2_rig_DefaultMaterial_Roughness.carcasse_cochon_2_rig_DefaultMaterial_Roughness
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_avant.pattes_avant
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_BaseColor.pattes_dessus_pattes_dessus_BaseColor
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Normal.pattes_dessus_pattes_dessus_Normal
+[2024.10.04-09.40.55:697][871]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Roughness.pattes_dessus_pattes_dessus_Roughness
+[2024.10.04-09.40.55:699][872]Cmd: QUIT_EDITOR
+[2024.10.04-09.40.55:699][872]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.04-09.40.55:705][872]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.04-09.40.55:705][872]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.10.04-09.40.55:705][872]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.10.04-09.40.55:706][872]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.40.55:706][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.04-09.40.55:706][872]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.04-09.40.55:711][872]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.10.04-09.40.55:892][872]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.04-09.40.55:892][872]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.04-09.40.55:892][872]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.10.04-09.40.55:892][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.10.04-09.40.55:892][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.04-09.40.55:894][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.04-09.40.55:901][872]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.04-09.40.55:902][872]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.10.04-09.40.55:905][872]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.04-09.40.55:905][872]LogExit: Preparing to exit.
+[2024.10.04-09.40.55:917][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.04-09.40.56:847][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.04-09.40.56:921][872]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.10.04-09.40.56:923][872]LogExit: Transaction tracking system shut down
+[2024.10.04-09.40.56:938][872]LogExit: Editor shut down
+[2024.10.04-09.40.56:987][872]LogExit: Object subsystem successfully closed.
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Total job queries 266, among them cache hits 198 (74.44%)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 41 distinct outputs (60.29%)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: RAM used: 1,54 MiB of 819,20 MiB budget. Usage: 0.19%
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.15 s
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 1.73 s
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Job life time (pending + execution): average 1.70 s, max 1.80
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Shader code size: average 46,733 KiB, min 33,422 KiB, max 70,504 KiB
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.83 s
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Average processing rate: 3.28 jobs/sec
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Total thread time: 2,532 s
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Total thread preprocess time: 0,33 s
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Percentage time preprocessing: 13.04%
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.55 sec, min 0.43 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.58% of total time (compiled    2 times, average 0.49 sec, max 0.55 sec, min 0.43 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.76% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.32% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.35% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.99% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.04-09.40.56:992][872]LogShaderCompilers: Display: ================================================
+[2024.10.04-09.40.57:069][872]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.04-09.40.57:090][872]LogVirtualization: UE::Virtualization was shutdown
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module MaterialEditor (1048)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1046)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1044)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module SceneOutliner (1042)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AddContentDialog (1040)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1039)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module StatusBar (1036)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1034)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1032)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1030)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module StatsViewer (1028)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1026)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AutomationWorker (1024)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module SmartSnapping (1022)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1020)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module RigVMEditor (1018)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1016)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1014)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1012)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1010)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1008)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module BspMode (1006)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module GeometryMode (1004)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1002)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1000)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (998)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (996)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (994)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module WebMMedia (992)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (990)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (988)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module SequenceRecorder (987)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (984)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (982)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (980)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (978)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (976)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (974)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (972)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module PlanarCut (970)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module FractureEngine (968)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module CharacterAI (966)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (964)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module ControlRigEditor (962)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2024.10.04-09.40.57:100][872]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (958)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (956)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (954)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module SessionServices (952)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module MeshPaint (950)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (948)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module PlacementMode (947)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module FoliageEdit (944)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module LandscapeEditor (942)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (940)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module ActorPickerMode (938)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module ViewportSnapping (936)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module EditorWidgets (934)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module ViewportInteraction (932)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module ClothPainter (930)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (929)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module WidgetRegistration (926)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module LogVisualizer (924)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (922)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (920)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (919)
+[2024.10.04-09.40.57:101][872]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (917)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (914)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (912)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (910)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (908)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (906)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (904)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module AnimationSettings (902)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (900)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module CSVtoSVG (898)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (896)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module EditorConfig (894)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module EditorFramework (892)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (890)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module TraceInsights (888)
+[2024.10.04-09.40.57:205][872]MemoryProfiler: Shutdown
+[2024.10.04-09.40.57:205][872]NetworkingProfiler: Shutdown
+[2024.10.04-09.40.57:205][872]LoadingProfiler: Shutdown
+[2024.10.04-09.40.57:205][872]TimingProfiler: Shutdown
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module TraceServices (887)
+[2024.10.04-09.40.57:205][872]LogModuleManager: Shutting down and abandoning module TraceAnalysis (886)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (882)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (881)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module InputBindingEditor (878)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module MergeActors (876)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (874)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module LocalizationService (873)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module HardwareTargeting (870)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (868)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module UndoHistory (866)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module XmlParser (864)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module Blutility (862)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (860)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (859)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (856)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (855)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module SettingsEditor (852)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module ProjectLauncher (850)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module SessionFrontend (848)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module ProfilerClient (846)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module DeviceManager (844)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module AutomationController (842)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module AutomationWindow (840)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module Layers (838)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (836)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module DetailCustomizations (834)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module PackagesDialog (832)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (830)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module Persona (828)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (827)
+[2024.10.04-09.40.57:207][872]LogModuleManager: Shutting down and abandoning module Kismet (824)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module KismetWidgets (823)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module GraphEditor (820)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module StructViewer (818)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module ClassViewer (816)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (814)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (812)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module SourceControlWindows (810)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module OutputLog (808)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module Documentation (806)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (804)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (802)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module MovieScene (800)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (798)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (796)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (794)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AudioMixer (793)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AudioMixerCore (792)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module LauncherPlatform (788)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AnalyticsET (786)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module PortalServices (784)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module PortalRpc (782)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module MessagingRpc (780)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AIModule (778)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module GameplayDebugger (777)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module AITestSuite (775)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module NavigationSystem (773)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (770)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (768)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module TypedElementFramework (766)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (764)
+[2024.10.04-09.40.57:208][872]LogModuleManager: Shutting down and abandoning module ProfilerService (762)
+[2024.10.04-09.40.57:224][872]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (760)
+[2024.10.04-09.40.57:224][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (758)
+[2024.10.04-09.40.57:224][872]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (756)
+[2024.10.04-09.40.57:224][872]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (754)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (752)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module TakesCore (750)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (748)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (740)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module LightMixer (738)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (736)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (734)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module InterchangeTests (732)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AlembicImporter (730)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AlembicLibrary (729)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (726)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (724)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module Paper2DEditor (722)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module SynthesisEditor (720)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ResonanceAudio (718)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (716)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (714)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (712)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ModelingOperators (710)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (708)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ModelingComponents (706)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryFramework (705)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (702)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MeshModelingTools (700)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (698)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module InputDebugging (696)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GooglePAD (694)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module DynamicMesh (692)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (690)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (688)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryCache (686)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (684)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (682)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (680)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AudioCapture (678)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (677)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AssetTags (674)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (672)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (670)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AppleImageUtils (668)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module AndroidPermission (666)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (664)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (662)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module UVEditorTools (660)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module UVEditor (658)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (656)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (654)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module PluginBrowser (652)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (650)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (648)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (646)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (644)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (642)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (640)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module EditorDebugTools (638)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module CurveEditorTools (636)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (634)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module CryptoKeys (632)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ChangelistReview (630)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (628)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (626)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MediaPlate (624)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module MediaCompositing (622)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module ImgMedia (620)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (618)
+[2024.10.04-09.40.57:225][872]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (616)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (614)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module UObjectPlugin (612)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (610)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module PluginUtils (608)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (606)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GitSourceControl (604)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DumpGPUServices (602)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (600)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (598)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (596)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (594)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (592)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (590)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (588)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (586)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (584)
+[2024.10.04-09.40.57:226][872]LogOpenImageDenoise: OIDN shutting down
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (582)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (580)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (578)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (576)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (574)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (572)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module LocalizableMessage (570)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MeshLODToolset (568)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (566)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (564)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (562)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (560)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (558)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (557)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (555)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (552)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DataflowNodes (550)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (548)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DataflowEditor (546)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (544)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (542)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ChaosNiagara (540)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module FractureEditor (538)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (536)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module BackChannel (534)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (532)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AutomationUtils (530)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module VariantManager (528)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (527)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (524)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (522)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TakeSequencer (520)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TakeMovieScene (518)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (514)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ControlRigSpline (512)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (510)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (508)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (506)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TemplateSequence (500)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (498)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (496)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (494)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeExport (492)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeMessages (490)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GLTFCore (488)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (486)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (484)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InterchangeEditor (482)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module Paper2D (470)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module Synthesis (468)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SoundFields (466)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module SignificanceManager (464)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (462)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module RigVM (460)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (458)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (456)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (454)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundEditor (452)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AudioWidgets (451)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (450)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (446)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundEngine (444)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module WaveTable (443)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (441)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (438)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (436)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (434)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (432)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (430)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (428)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module CableComponent (426)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (424)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (423)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (420)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (418)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (416)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module FacialAnimation (414)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module DataValidation (412)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (410)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TreeMap (409)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (406)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (404)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (402)
+[2024.10.04-09.40.57:226][872]LogModuleManager: Shutting down and abandoning module AnimationSharing (400)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module StructUtils (398)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (396)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module PBIK (394)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module FullBodyIK (392)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (390)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module TakeRecorder (389)
+[2024.10.04-09.40.57:227][872]LogModuleManager: Shutting down and abandoning module LevelEditor (387)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (386)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (384)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module MainFrame (382)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module HotReload (381)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module ChaosCaching (376)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module GameplayCameras (374)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (372)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module ControlRig (370)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module Constraints (369)
+[2024.10.04-09.40.57:230][872]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2024.10.04-09.40.57:331][872]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (362)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module SignalProcessing (359)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module LevelSequence (356)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module ContentBrowser (354)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module ToolMenus (353)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module ContentBrowserData (351)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (344)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module IKRig (342)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module AnimationData (340)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (338)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module ActorSequence (336)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module InterchangePipelines (334)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module InterchangeImport (332)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (330)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module InterchangeNodes (328)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.10.04-09.40.57:431][872]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.10.04-09.40.57:433][872]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.10.04-09.40.57:434][872]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.10.04-09.40.57:444][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.10.04-09.40.57:445][872]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.10.04-09.40.57:445][872]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.10.04-09.40.57:445][872]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.10.04-09.40.57:445][872]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.10.04-09.40.57:456][872]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.10.04-09.40.57:456][872]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.10.04-09.40.57:456][872]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.10.04-09.40.57:456][872]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.10.04-09.40.57:459][872]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (122)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (120)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module ChunkDownloader (118)
+[2024.10.04-09.40.57:460][872]LogModuleManager: Shutting down and abandoning module WmfMedia (116)
+[2024.10.04-09.40.57:463][872]LogModuleManager: Shutting down and abandoning module Media (115)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (110)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (108)
+[2024.10.04-09.40.57:464][872]RenderDocPlugin: plugin has been unloaded.
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module PixWinPlugin (106)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module ChaosCloth (104)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module VariantManagerContent (102)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module GLTFExporter (100)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module DatasmithContent (98)
+[2024.10.04-09.40.57:464][872]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2024.10.04-09.40.57:465][872]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2024.10.04-09.40.57:465][872]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2024.10.04-09.40.57:466][872]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2024.10.04-09.40.57:466][872]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2024.10.04-09.40.57:472][872]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2024.10.04-09.40.57:472][872]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.10.04-09.40.57:472][872]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE0ECDF53-41C3-B47B-49C2-BA956C1C7790%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=df6765fe4ad6c65acfd9388331e32d37%7C5d10e0ad3ec44a2db1b0baa81191939f%7Ca4cfa2ae-ce61-46dc-bc0a-95a5baaef2ee&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (78)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (76)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (74)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (72)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module NiagaraShader (70)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module ACLPlugin (68)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.10.04-09.40.57:485][872]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.10.04-09.40.57:487][872]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.10.04-09.40.57:488][872]LogPakFile: Destroying PakPlatformFile
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.10.04-09.40.57:488][872]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.10.04-09.40.57:628][872]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.04-09.40.57:702][872]LogExit: Exiting.
+[2024.10.04-09.40.57:715][872]Log file closed, 10/04/24 11:40:57
