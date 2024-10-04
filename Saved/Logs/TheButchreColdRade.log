@@ -1566,3 +1566,380 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.03-23.06.24:244][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 675 ms)
 [2024.10.03-23.06.24:248][132]AssetCheck: New page: Asset Save: LD_1
 [2024.10.03-23.06.24:248][132]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
+[2024.10.03-23.11.34:678][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-23.11.34:774][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.03-23.11.45:308][196]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/ButcherProject/Blueprints/E_QuestType.E_QuestType
+[2024.10.03-23.11.52:561][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.10.03-23.11.56:544][ 39]LogSlate: Window 'Save Content' being destroyed
+[2024.10.03-23.12.02:870][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.12.02:870][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.12.02:875][502]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_0
+[2024.10.03-23.12.02:878][502]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_0
+[2024.10.03-23.12.02:885][502]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.03-23.12.04:426][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.12.04:426][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.12.04:430][579]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_2
+[2024.10.03-23.12.04:434][579]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_2
+[2024.10.03-23.12.47:018][418]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Roughness.pattes_dessus_pattes_dessus_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2024.10.03-23.12.47:021][418]LogStaticMesh: Display: Building static mesh pattes_arriere...
+[2024.10.03-23.12.47:026][418]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_BaseColor.pattes_dessus_pattes_dessus_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.10.03-23.12.47:026][418]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Carcass/Textures/cow/pattes_dessus_pattes_dessus_Normal.pattes_dessus_pattes_dessus_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.10.03-23.12.47:031][418]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: ================================================
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Total job queries 67, among them cache hits 13 (19.40%)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 23 distinct outputs (54.76%)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: RAM used: 884,60 KiB of 1,60 GiB budget. Usage: 0.05%
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Shaders Compiled: 38
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Average time worker was idle: 324.40 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 2.23 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 2.97 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Job life time (pending + execution): average 2.32 s, max 3.38
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Shader code size: average 34,945 KiB, min 29,711 KiB, max 38,359 KiB
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.56 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Total thread time: 45,63 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Total thread preprocess time: 9,481 s
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Percentage time preprocessing: 20.78%
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Effective parallelization: 3.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 1.50 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.43 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 1.19 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    9 times, average 0.63 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.88% of total time (compiled   10 times, average 1.50 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.34% of total time (compiled   10 times, average 1.43 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.43% of total time (compiled    9 times, average 1.19 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.36% of total time (compiled    9 times, average 0.63 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.03-23.12.47:136][419]LogShaderCompilers: Display: ================================================
+[2024.10.03-23.12.47:156][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.12.47:156][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.12.47:156][420]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_147
+[2024.10.03-23.12.49:380][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.12.49:380][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.12.49:383][530]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_148
+[2024.10.03-23.12.51:318][630]Cmd: TRANSACTION UNDO
+[2024.10.03-23.12.51:318][630]LogEditorTransaction: Undo Create Actors
+[2024.10.03-23.13.15:240][806]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.13.15:240][806]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.13.15:240][806]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_149
+[2024.10.03-23.13.55:121][ 89]Cmd: DUPLICATE
+[2024.10.03-23.13.55:121][ 89]Cmd: ACTOR DUPLICATE
+[2024.10.03-23.14.04:339][592]Cmd: TRANSACTION UNDO
+[2024.10.03-23.14.04:339][592]LogEditorTransaction: Undo Move Elements
+[2024.10.03-23.15.00:610][526]Cmd: DUPLICATE
+[2024.10.03-23.15.00:610][526]Cmd: ACTOR DUPLICATE
+[2024.10.03-23.15.03:770][688]Cmd: TRANSACTION UNDO
+[2024.10.03-23.15.03:770][688]LogEditorTransaction: Undo Duplicate Elements
+[2024.10.03-23.15.41:805][841]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.41:805][841]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.41:809][841]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_3
+[2024.10.03-23.15.41:813][841]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_3
+[2024.10.03-23.15.42:629][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.42:629][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.42:634][879]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_4
+[2024.10.03-23.15.42:637][879]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_4
+[2024.10.03-23.15.44:949][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.44:950][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.44:954][979]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_5
+[2024.10.03-23.15.44:956][979]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_5
+[2024.10.03-23.15.49:273][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.49:274][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.49:278][214]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_6
+[2024.10.03-23.15.49:281][214]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_6
+[2024.10.03-23.15.51:664][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.51:664][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.51:667][311]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_7
+[2024.10.03-23.15.51:670][311]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_7
+[2024.10.03-23.15.52:849][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.52:849][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.52:854][362]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_8
+[2024.10.03-23.15.52:857][362]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_8
+[2024.10.03-23.15.55:440][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.55:440][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.55:444][472]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_9
+[2024.10.03-23.15.55:447][472]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_9
+[2024.10.03-23.15.56:352][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.56:353][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.56:358][514]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_10
+[2024.10.03-23.15.56:361][514]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_10
+[2024.10.03-23.15.58:612][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.58:612][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.58:616][612]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_11
+[2024.10.03-23.15.58:619][612]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_11
+[2024.10.03-23.15.59:650][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.59:650][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.15.59:656][662]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_12
+[2024.10.03-23.15.59:659][662]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_12
+[2024.10.03-23.18.04:654][331]LogStaticMesh: Display: Building static mesh pattes_avant...
+[2024.10.03-23.18.04:662][331]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Carcass/pattes_avant.pattes_avant
+[2024.10.03-23.18.14:170][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.18.14:170][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere
+[2024.10.03-23.18.14:171][779]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Carcass/pattes_arriere.pattes_arriere as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_150
+[2024.10.03-23.19.38:979][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.10.03-23.19.39:054][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto2
+[2024.10.03-23.19.39:054][ 72]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_1_Auto2F0F74B234DE66BFD7243B5B028F32CEA.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto2.umap'
+[2024.10.03-23.19.39:057][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto2.umap is in the /Temp path, will not scan.
+[2024.10.03-23.19.39:057][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto2 is in the /Temp path, will not scan.
+[2024.10.03-23.19.39:057][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto2 is in the /Temp path, will not scan.
+[2024.10.03-23.19.39:057][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ButcherProject/Levels/BlockOut/LD_1' took 0.093
+[2024.10.03-23.19.39:057][ 72]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2024.10.03-23.19.39:058][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296] ([1] browsable assets)...
+[2024.10.03-23.19.39:222][ 72]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296.CubeGridToolOutput_9C184296]
+[2024.10.03-23.19.39:222][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296]
+[2024.10.03-23.19.39:235][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296_Auto2
+[2024.10.03-23.19.39:235][ 72]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/CubeGridToolOutput_9C184296_Auto34A7BCCF4C0A9D1A81573291397C8E82.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296_Auto2.uasset'
+[2024.10.03-23.19.39:237][ 72]LogFileHelpers: Auto-saving content packages took 0.179
+[2024.10.03-23.20.13:324][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.13:324][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.13:328][392]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_13
+[2024.10.03-23.20.13:331][392]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_13
+[2024.10.03-23.20.14:834][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.14:835][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.14:840][461]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_14
+[2024.10.03-23.20.14:842][461]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_14
+[2024.10.03-23.20.30:394][ 27]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.30:394][ 27]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.30:397][ 27]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_15
+[2024.10.03-23.20.30:400][ 27]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_15
+[2024.10.03-23.20.33:227][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.33:227][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.33:232][165]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_16
+[2024.10.03-23.20.33:235][165]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_16
+[2024.10.03-23.20.38:041][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.38:041][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.38:044][393]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_17
+[2024.10.03-23.20.38:047][393]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_17
+[2024.10.03-23.20.39:866][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.39:866][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.20.39:872][481]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_18
+[2024.10.03-23.20.39:875][481]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_18
+[2024.10.03-23.22.34:463][983]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.34:463][983]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.34:467][983]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_19
+[2024.10.03-23.22.34:470][983]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_19
+[2024.10.03-23.22.36:712][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.36:712][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.36:716][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_20
+[2024.10.03-23.22.36:720][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_20
+[2024.10.03-23.22.41:009][302]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.41:010][302]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.41:014][302]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_21
+[2024.10.03-23.22.41:017][302]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_21
+[2024.10.03-23.22.42:972][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.42:972][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.42:976][398]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_22
+[2024.10.03-23.22.42:979][398]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_22
+[2024.10.03-23.22.49:574][737]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.49:574][737]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.49:578][737]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_23
+[2024.10.03-23.22.49:580][737]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_23
+[2024.10.03-23.22.51:038][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.51:038][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.22.51:042][808]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_24
+[2024.10.03-23.22.51:045][808]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_24
+[2024.10.03-23.29.20:958][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.29.20:959][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.29.20:963][536]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_25
+[2024.10.03-23.29.20:966][536]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_25
+[2024.10.03-23.29.23:138][648]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.29.23:138][648]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.03-23.29.23:143][648]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_26
+[2024.10.03-23.29.23:145][648]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_26
+[2024.10.03-23.29.44:343][530]LogStaticMesh: Display: Building static mesh couperet_texturer...
+[2024.10.03-23.29.44:349][530]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.29.44:350][530]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.29.44:357][530]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.29.44:414][530]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.29.44:418][530]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Couperet/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.10.03-23.29.44:464][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.29.44:465][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.29.44:465][531]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_151
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: ================================================
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Total job queries 73, among them cache hits 15 (20.55%)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Tracking 43 distinct input hashes that result in 24 distinct outputs (55.81%)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: RAM used: 903,96 KiB of 1,60 GiB budget. Usage: 0.05%
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Shaders Compiled: 39
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Jobs assigned 42, completed 39 (92.86%)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Average time worker was idle: 459.01 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 2.23 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 2.97 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Job life time (pending + execution): average 2.29 s, max 3.38
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Shader code size: average 34,897 KiB, min 29,711 KiB, max 38,359 KiB
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.78 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Average processing rate: 2.83 jobs/sec
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Total thread time: 46,048 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Total thread preprocess time: 9,565 s
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Percentage time preprocessing: 20.77%
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Effective parallelization: 3.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 1.50 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.43 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 1.19 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   10 times, average 0.61 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.58% of total time (compiled   10 times, average 1.50 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.05% of total time (compiled   10 times, average 1.43 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.21% of total time (compiled    9 times, average 1.19 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.15% of total time (compiled   10 times, average 0.61 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.03-23.29.45:627][589]LogShaderCompilers: Display: ================================================
+[2024.10.03-23.29.46:721][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.29.46:721][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.29.46:724][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_152
+[2024.10.03-23.29.48:446][716]Cmd: TRANSACTION UNDO
+[2024.10.03-23.29.48:446][716]LogEditorTransaction: Undo Create Actors
+[2024.10.03-23.30.00:869][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.30.00:869][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer
+[2024.10.03-23.30.00:870][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Couperet/couperet_texturer.couperet_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_153
+[2024.10.03-23.30.35:487][ 12]LogStaticMesh: Display: Building static mesh Hache_texturer...
+[2024.10.03-23.30.35:491][ 12]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.30.35:497][ 12]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.30.35:499][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/ButcherProject/Assets/Tools/Hache/Hache_texturer.Hache_texturer
+[2024.10.03-23.30.35:574][ 12]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.10.03-23.30.35:594][ 12]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Hache/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.03-23.30.35:729][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Hache/Hache_texturer.Hache_texturer
+[2024.10.03-23.30.35:729][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Hache/Hache_texturer.Hache_texturer
+[2024.10.03-23.30.35:730][ 15]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Hache/Hache_texturer.Hache_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_154
+[2024.10.03-23.31.13:839][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.10.03-23.31.13:916][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto3
+[2024.10.03-23.31.13:916][920]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_1_Auto33E06D7F54C058AF77EEB669B2C02206A.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto3.umap'
+[2024.10.03-23.31.13:919][920]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto3.umap is in the /Temp path, will not scan.
+[2024.10.03-23.31.13:919][920]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto3 is in the /Temp path, will not scan.
+[2024.10.03-23.31.13:919][920]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto3 is in the /Temp path, will not scan.
+[2024.10.03-23.31.13:920][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ButcherProject/Levels/BlockOut/LD_1' took 0.095
+[2024.10.03-23.31.13:920][920]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2024.10.03-23.31.13:920][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296] ([1] browsable assets)...
+[2024.10.03-23.31.13:920][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296]
+[2024.10.03-23.31.13:931][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296_Auto3
+[2024.10.03-23.31.13:931][920]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/CubeGridToolOutput_9C184296_Auto5E600C6245D1C3A7EECFBBB2168D5CA5.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/_GENERATED/dguer/CubeGridToolOutput_9C184296_Auto3.uasset'
+[2024.10.03-23.31.13:933][920]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.10.03-23.40.31:801][125]LogDerivedDataCache: C:/Users/dguer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.117 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1668 files in 2798 folders with total size 121 MiB.
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: ================================================
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Total job queries 82, among them cache hits 22 (26.83%)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Tracking 47 distinct input hashes that result in 26 distinct outputs (55.32%)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: RAM used: 973,39 KiB of 1,60 GiB budget. Usage: 0.06%
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Shaders Compiled: 43
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Jobs assigned 44, completed 43 (97.73%)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Average time worker was idle: 541.68 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Time job spent in pending queue: average 0.58 s, longest 2.23 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 2.97 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Job life time (pending + execution): average 2.21 s, max 3.38
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Shader code size: average 34,332 KiB, min 6,074 KiB, max 38,359 KiB
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.73 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Average processing rate: 2.92 jobs/sec
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Total thread time: 48,89 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Total thread preprocess time: 9,958 s
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Percentage time preprocessing: 20.37%
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Effective parallelization: 3.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 1.45 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 1.38 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   10 times, average 1.15 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   10 times, average 0.61 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.67% of total time (compiled   11 times, average 1.45 sec, max 2.07 sec, min 0.78 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.07% of total time (compiled   11 times, average 1.38 sec, max 1.98 sec, min 0.72 sec)
+[2024.10.04-00.02.13:735][338]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.62% of total time (compiled   10 times, average 1.15 sec, max 1.69 sec, min 0.75 sec)
+[2024.10.04-00.02.13:736][338]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.39% of total time (compiled   10 times, average 0.61 sec, max 1.23 sec, min 0.32 sec)
+[2024.10.04-00.02.13:736][338]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 0.25% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.10.04-00.02.13:736][338]LogShaderCompilers: Display: ================================================
+[2024.10.04-00.02.32:536][292]LogStaticMesh: Display: Building static mesh Scie_texturer...
+[2024.10.04-00.02.32:540][292]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.04-00.02.32:543][292]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.04-00.02.32:554][292]LogStaticMesh: Built static mesh [0.02s] /Game/ButcherProject/Assets/Tools/Scie/Scie_texturer.Scie_texturer
+[2024.10.04-00.02.32:607][292]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.10.04-00.02.32:610][292]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.04-00.02.32:849][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Scie/Scie_texturer.Scie_texturer
+[2024.10.04-00.02.32:849][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Scie/Scie_texturer.Scie_texturer
+[2024.10.04-00.02.32:850][302]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Scie/Scie_texturer.Scie_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_155
+[2024.10.04-00.03.46:922][867]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Emission_sRGB.DefaultMaterial_Emission_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2024.10.04-00.03.46:923][867]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Roughness_Raw.DefaultMaterial_Roughness_Raw (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2024.10.04-00.03.46:928][867]LogStaticMesh: Display: Building static mesh Scie-A-Os_texturer...
+[2024.10.04-00.03.46:941][867]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_BaseColor_sRGB.DefaultMaterial_BaseColor_sRGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.10.04-00.03.46:949][867]LogStaticMesh: Built static mesh [0.02s] /Game/ButcherProject/Assets/Tools/Scie_a_os/Scie-A-Os_texturer.Scie-A-Os_texturer
+[2024.10.04-00.03.46:968][867]LogTexture: Display: Building textures: /Game/ButcherProject/Assets/Tools/Scie_a_os/DefaultMaterial_Normal_Raw.DefaultMaterial_Normal_Raw (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2024.10.04-00.03.51:647][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Scie_a_os/Scie-A-Os_texturer.Scie-A-Os_texturer
+[2024.10.04-00.03.51:647][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ButcherProject/Assets/Tools/Scie_a_os/Scie-A-Os_texturer.Scie-A-Os_texturer
+[2024.10.04-00.03.51:648][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/ButcherProject/Assets/Tools/Scie_a_os/Scie-A-Os_texturer.Scie-A-Os_texturer as actor: StaticMeshActor /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.StaticMeshActor_156
+[2024.10.04-00.04.53:920][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.04-00.04.53:996][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto4
+[2024.10.04-00.04.53:996][358]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_1_Auto4A077BD1F44F476C1C2C180A44F61D190.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto4.umap'
+[2024.10.04-00.04.53:998][358]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/dguer/TheButcherColdRade/Saved/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto4.umap is in the /Temp path, will not scan.
+[2024.10.04-00.04.53:998][358]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto4 is in the /Temp path, will not scan.
+[2024.10.04-00.04.53:998][358]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ButcherProject/Levels/BlockOut/LD_1_Auto4 is in the /Temp path, will not scan.
+[2024.10.04-00.04.54:000][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ButcherProject/Levels/BlockOut/LD_1' took 0.089
+[2024.10.04-00.04.54:000][358]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2024.10.04-00.04.59:445][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.04.59:445][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.04.59:449][552]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_27
+[2024.10.04-00.04.59:451][552]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_27
+[2024.10.04-00.05.00:450][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.00:450][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.00:455][598]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_28
+[2024.10.04-00.05.00:458][598]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_28
+[2024.10.04-00.05.07:819][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.07:819][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.07:822][998]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_29
+[2024.10.04-00.05.07:824][998]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_29
+[2024.10.04-00.05.09:084][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.09:084][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.09:088][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_30
+[2024.10.04-00.05.09:091][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_30
+[2024.10.04-00.05.14:134][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.14:134][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.14:138][321]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_31
+[2024.10.04-00.05.14:142][321]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_31
+[2024.10.04-00.05.15:506][390]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.15:506][390]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.05.15:511][390]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_32
+[2024.10.04-00.05.15:514][390]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_32
+[2024.10.04-00.06.40:285][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.06.40:285][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.06.40:288][995]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_33
+[2024.10.04-00.06.40:290][995]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_33
+[2024.10.04-00.06.44:281][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.06.44:281][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.06.44:286][176]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_34
+[2024.10.04-00.06.44:289][176]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_34
+[2024.10.04-00.06.55:097][680]Cmd: DELETE
+[2024.10.04-00.06.55:098][680]Cmd: ACTOR DELETE
+[2024.10.04-00.06.55:098][680]LogEditorActor: Cannot delete component StaticMeshComponent /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_34.Cube: Can't delete non-instanced components or the scene root.
+[2024.10.04-00.07.56:344][675]Cmd: TRANSACTION UNDO
+[2024.10.04-00.07.56:344][675]LogEditorTransaction: Undo Edit Static Mesh
+[2024.10.04-00.09.53:614][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.09.53:614][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.09.53:617][988]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_35
+[2024.10.04-00.09.53:621][988]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_35
+[2024.10.04-00.09.54:837][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.09.54:837][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.09.54:843][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_36
+[2024.10.04-00.09.54:846][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_36
+[2024.10.04-00.10.28:491][887]Cmd: TRANSACTION UNDO
+[2024.10.04-00.10.28:491][887]LogEditorTransaction: Undo Edit Static Mesh
+[2024.10.04-00.10.32:250][996]Cmd: TRANSACTION UNDO
+[2024.10.04-00.10.32:250][996]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2024.10.04-00.10.35:266][154]Cmd: TRANSACTION UNDO
+[2024.10.04-00.10.35:267][154]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.04-00.10.36:350][176]Cmd: TRANSACTION UNDO
+[2024.10.04-00.10.36:351][176]LogEditorTransaction: Undo Clicking on Actors
+[2024.10.04-00.10.37:191][200]Cmd: TRANSACTION UNDO
+[2024.10.04-00.10.37:191][200]LogEditorTransaction: Undo Create Actors
+[2024.10.04-00.10.39:031][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-00.10.39:208][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.10.04-00.10.39:282][250]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/LD_1
+[2024.10.04-00.10.39:283][250]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_19930823241690191257023AA66FCD35C.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_1.umap'
+[2024.10.04-00.10.39:308][250]LogFileHelpers: Saving map 'LD_1' took 0.199
+[2024.10.04-00.10.39:320][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 966 ms)
+[2024.10.04-00.10.39:324][250]AssetCheck: New page: Asset Save: LD_1
+[2024.10.04-00.10.39:324][250]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
