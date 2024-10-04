@@ -1943,3 +1943,110 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.04-00.10.39:320][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 966 ms)
 [2024.10.04-00.10.39:324][250]AssetCheck: New page: Asset Save: LD_1
 [2024.10.04-00.10.39:324][250]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
+[2024.10.04-00.13.42:172][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.13.42:172][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.13.42:177][214]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_37
+[2024.10.04-00.13.42:180][214]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_37
+[2024.10.04-00.13.42:763][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.13.42:763][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable_C
+[2024.10.04-00.13.42:769][242]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_38
+[2024.10.04-00.13.42:773][242]LogActorFactory: Actor Factory spawned Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable as actor: BP_Questable_C /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1:PersistentLevel.BP_Questable_C_38
+[2024.10.04-00.14.55:816][395]Cmd: DELETE
+[2024.10.04-00.14.55:816][395]Cmd: ACTOR DELETE
+[2024.10.04-00.14.55:824][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.14.55:835][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.10.04-00.14.55:843][395]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.10.04-00.15.43:988][709]Cmd: DUPLICATE
+[2024.10.04-00.15.43:988][709]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.15.56:900][320]Cmd: DELETE
+[2024.10.04-00.15.56:900][320]Cmd: ACTOR DELETE
+[2024.10.04-00.15.56:907][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.15.56:921][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.10.04-00.15.56:931][320]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.10.04-00.16.11:749][105]Cmd: DUPLICATE
+[2024.10.04-00.16.11:749][105]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.16.31:866][109]Cmd: DELETE
+[2024.10.04-00.16.31:866][109]Cmd: ACTOR DELETE
+[2024.10.04-00.16.31:873][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.16.31:886][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.04-00.16.31:894][109]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.10.04-00.16.40:096][543]Cmd: DELETE
+[2024.10.04-00.16.40:096][543]Cmd: ACTOR DELETE
+[2024.10.04-00.16.40:105][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.16.40:115][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.04-00.16.40:122][543]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.10.04-00.16.41:812][627]Cmd: DUPLICATE
+[2024.10.04-00.16.41:812][627]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.16.54:587][297]Cmd: DELETE
+[2024.10.04-00.16.54:587][297]Cmd: ACTOR DELETE
+[2024.10.04-00.16.54:595][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.16.54:606][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.04-00.16.54:612][297]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.10.04-00.16.58:270][496]Cmd: DUPLICATE
+[2024.10.04-00.16.58:270][496]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.17.09:028][ 59]Cmd: DELETE
+[2024.10.04-00.17.09:028][ 59]Cmd: ACTOR DELETE
+[2024.10.04-00.17.09:035][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.17.09:047][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.10.04-00.17.09:055][ 59]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.10.04-00.17.10:227][114]Cmd: DELETE
+[2024.10.04-00.17.10:227][114]Cmd: ACTOR DELETE
+[2024.10.04-00.17.10:235][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.17.10:244][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.04-00.17.10:249][114]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.04-00.17.13:315][279]Cmd: DUPLICATE
+[2024.10.04-00.17.13:315][279]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.17.16:663][449]Cmd: DUPLICATE
+[2024.10.04-00.17.16:663][449]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.17.58:863][613]Cmd: DUPLICATE
+[2024.10.04-00.17.58:863][613]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.18.19:852][691]Cmd: DELETE
+[2024.10.04-00.18.19:852][691]Cmd: ACTOR DELETE
+[2024.10.04-00.18.19:861][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.18.19:874][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.04-00.18.19:884][691]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.10.04-00.18.34:823][494]Cmd: DUPLICATE
+[2024.10.04-00.18.34:823][494]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.18.38:530][681]Cmd: TRANSACTION UNDO
+[2024.10.04-00.18.38:530][681]LogEditorTransaction: Undo Move Elements
+[2024.10.04-00.18.56:107][518]Cmd: DELETE
+[2024.10.04-00.18.56:107][518]Cmd: ACTOR DELETE
+[2024.10.04-00.18.56:114][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.18.56:127][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.10.04-00.18.56:137][518]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.10.04-00.18.57:046][558]Cmd: DELETE
+[2024.10.04-00.18.57:046][558]Cmd: ACTOR DELETE
+[2024.10.04-00.18.57:054][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.18.57:064][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.04-00.18.57:068][558]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.10.04-00.19.05:718][ 28]Cmd: DUPLICATE
+[2024.10.04-00.19.05:719][ 28]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.19.21:945][878]Cmd: DELETE
+[2024.10.04-00.19.21:945][878]Cmd: ACTOR DELETE
+[2024.10.04-00.19.21:954][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.19.21:966][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.10.04-00.19.21:976][878]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.10.04-00.19.24:359][  4]Cmd: DUPLICATE
+[2024.10.04-00.19.24:359][  4]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.19.39:575][802]Cmd: DELETE
+[2024.10.04-00.19.39:575][802]Cmd: ACTOR DELETE
+[2024.10.04-00.19.39:582][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.04-00.19.39:595][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.04-00.19.39:602][802]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.10.04-00.19.41:347][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ButcherProject/Blueprints/BP_Questable.BP_Questable
+[2024.10.04-00.19.41:350][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.04-00.19.41:350][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.04-00.19.41:375][890]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.10.04-00.19.43:350][890]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.04-00.19.44:964][890]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.616088s (1.616088s overbudget)
+[2024.10.04-00.19.45:009][890]LogSlate: Took 0.006005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.04-00.19.55:281][471]Cmd: DUPLICATE
+[2024.10.04-00.19.55:281][471]Cmd: ACTOR DUPLICATE
+[2024.10.04-00.20.07:474][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-00.20.07:667][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.10.04-00.20.07:741][124]LogSavePackage: Moving output files for package: /Game/ButcherProject/Levels/BlockOut/LD_1
+[2024.10.04-00.20.07:742][124]LogSavePackage: Moving '../../../../../../Users/dguer/TheButcherColdRade/Saved/LD_1093B3F844A422EE04293A99C82EFB7D8.tmp' to '../../../../../../Users/dguer/TheButcherColdRade/Content/ButcherProject/Levels/BlockOut/LD_1.umap'
+[2024.10.04-00.20.07:767][124]LogFileHelpers: Saving map 'LD_1' took 0.205
+[2024.10.04-00.20.07:777][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 1.26 sec)
+[2024.10.04-00.20.07:782][124]AssetCheck: New page: Asset Save: LD_1
+[2024.10.04-00.20.07:782][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/ButcherProject/Levels/BlockOut/LD_1.LD_1
