@@ -1574,3 +1574,47 @@ LogInit: Object subsystem initialized
 [2024.10.04-13.28.05:630][887]LogInterchangeEngine: [Success] Import Done
 [2024.10.04-13.28.05:635][887]LogInterchangeEngine: [Success] Import Done
 [2024.10.04-13.28.05:981][888]LogInterchangeEngine: [Success] Import Done
+[2024.10.04-13.29.29:162][249]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:162][249]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:164][249]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:204][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:207][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:209][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:216][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:224][251]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:263][252]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:271][252]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:278][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:283][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:317][254]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:336][255]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:379][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:386][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:432][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:441][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:446][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:481][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:499][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:535][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:538][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:539][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:541][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:548][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:558][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:560][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:561][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:599][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:601][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:608][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:622][265]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:675][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.29:716][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.04-13.29.30:386][303]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.04-13.30.00:340][ 37]BlueprintLog: New page: Compile WB_MainMenu
+[2024.10.04-13.30.00:368][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.04-13.30.38:166][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.04-13.30.38:239][253]LogSavePackage: Moving output files for package: /Game/ButcherProject/UI/WB_MainMenu
+[2024.10.04-13.30.38:239][253]LogSavePackage: Moving '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Saved/WB_MainMenu2A04ABAE4F6E68F30B1F94A05605C516.tmp' to '../../../../../../Users/Steam/OneDrive/Documents/Unreal Projects/TheButcherColdRade/Content/ButcherProject/UI/WB_MainMenu.uasset'
+[2024.10.04-13.30.38:249][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 624 ms)
+[2024.10.04-13.30.38:251][253]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.10.04-13.30.38:251][253]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ButcherProject/UI/WB_MainMenu.WB_MainMenu
